@@ -7,10 +7,8 @@ The main problem this skill should address is that LLM-generated scientific pros
 ## Repository Layout
 
 - Canonical skill source: `skills/reader-aware-writing/`
-- Codex project discovery path: `.agents/skills/reader-aware-writing`
-- Claude project discovery path: `.claude/skills/reader-aware-writing`
 
-Edit the canonical source under `skills/reader-aware-writing/`. The project discovery paths should remain adapters that point to the canonical skill.
+Edit the canonical source under `skills/reader-aware-writing/`. Do not depend on project-local adapter folders; user installation should happen through `skill.sh`, Codex `$skill-installer`, or `skills.sh`.
 
 ## Skill Development Goal
 

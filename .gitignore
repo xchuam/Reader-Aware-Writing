@@ -4,6 +4,8 @@
 # Local development environment files
 /.devcontainer/
 /.dev/
+/.agents/
+/.claude/
 
 # Python caches and local environments
 __pycache__/

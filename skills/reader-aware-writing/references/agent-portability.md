@@ -15,13 +15,7 @@ The `name` should match the folder name. Keep `description` specific because age
 
 ## Recommended Repo Layout
 
-Use `skills/reader-aware-writing/` as the canonical source. Add platform-specific discovery paths that point to that source:
-
-- Codex project skill: `.agents/skills/reader-aware-writing`
-- Claude project skill: `.claude/skills/reader-aware-writing`
-- Generic portable source: `skills/reader-aware-writing`
-
-Prefer symlinks for project discovery paths so there is only one editable source. If a target environment does not follow symlinks, copy the skill folder and treat `skills/reader-aware-writing/` as canonical.
+Use `skills/reader-aware-writing/` as the canonical source. Keep the published repository focused on the portable skill folder plus installation helpers. Do not require project-local adapter folders for users to install or use the skill.
 
 ## Global Install Paths
 
@@ -35,7 +29,7 @@ After adding or changing a global Codex skill, restart Codex so it can discover 
 ## Compatibility Rules
 
 - Keep frontmatter limited to `name` and `description` unless a platform-specific field is truly needed.
-- Put platform-specific metadata in `agents/` or another adapter directory, not in the portable instructions.
+- Put platform-specific metadata in `agents/` inside the skill folder or another bundled adapter directory, not in the portable instructions.
 - Do not rely on one agent's tool names in the core workflow.
 - Keep file references relative to the skill root.
 - Avoid deeply nested reference chains.
