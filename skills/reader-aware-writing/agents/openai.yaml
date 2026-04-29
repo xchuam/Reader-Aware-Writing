@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reader-Aware Writing"
+  short_description: "Make technical and scientific writing reader-centered"
+  default_prompt: "Use $reader-aware-writing to revise this scientific draft for its intended reader, improving cohesion, coherence, and clarity without changing the evidence."
