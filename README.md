@@ -1,5 +1,9 @@
 # Reader-Aware Writing
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
+[![GitHub stars](https://img.shields.io/github/stars/xchuam/Reader-Aware-Writing?style=social)](https://github.com/xchuam/Reader-Aware-Writing)
+
 Many agent writing skills improve grammar, tone, or generic clarity, but they often do not teach an agent how to guide a reader through a scientific argument. As a result, generated articles can be technically plausible sentence by sentence while still lacking audience orientation, paragraph purpose, cohesion, coherence, and clear old-to-new information flow.
 
 Reader-Aware Writing fills that gap with a portable Agent Skill for reader-centered scientific and academic writing. It helps agents model the intended reader, build a visible path through the argument, introduce concepts only when the reader is prepared for them, and revise drafts so evidence, interpretation, limitations, and implications are easier to follow.
