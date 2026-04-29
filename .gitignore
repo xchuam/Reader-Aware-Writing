@@ -1,6 +1,10 @@
 # Local development source material not included in the published skill
 /information/
 
+# Local development environment files
+/.devcontainer/
+/.dev/
+
 # Python caches and local environments
 __pycache__/
 *.py[cod]

@@ -60,13 +60,6 @@ npx skills add xchuam/Reader-Aware-Writing --skill reader-aware-writing
 
 After ecosystem install, check inside your agent that `reader-aware-writing` is actually available before relying on it.
 
-### Project-local use
-
-For work inside this repository, no extra install step is needed. The project discovery paths already point to the canonical skill source:
-
-- Codex: `.agents/skills/reader-aware-writing`
-- Claude: `.claude/skills/reader-aware-writing`
-
 ## What This Skill Does
 
 Reader-Aware Writing helps agents:
