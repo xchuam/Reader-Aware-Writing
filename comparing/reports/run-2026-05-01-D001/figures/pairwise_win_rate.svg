@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645" height="595" viewBox="0 0 645 595">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="322.5" y="30.0" font-size="20" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Pairwise win rate by condition</text>
+<text x="322.5" y="583.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Cells show row condition preferred over column condition</text>
+<text x="200.0" y="70.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C1</text>
+<text x="290.0" y="70.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C2</text>
+<text x="380.0" y="70.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C3</text>
+<text x="470.0" y="70.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C4</text>
+<text x="560.0" y="70.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C5</text>
+<text x="20.0" y="144.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="start">C1 Reader-aware</text>
+<rect x="155.0" y="95.0" width="87" height="87" fill="#f4f4f4" stroke="#ffffff"/>
+<text x="200.0" y="147.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">-</text>
+<rect x="245.0" y="95.0" width="87" height="87" fill="#dbede0" stroke="#ffffff"/>
+<text x="290.0" y="147.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">56%</text>
+<rect x="335.0" y="95.0" width="87" height="87" fill="#e5f1e8" stroke="#ffffff"/>
+<text x="380.0" y="147.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">52%</text>
+<rect x="425.0" y="95.0" width="87" height="87" fill="#c6e4d2" stroke="#ffffff"/>
+<text x="470.0" y="147.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">63%</text>
+<rect x="515.0" y="95.0" width="87" height="87" fill="#7ec59e" stroke="#ffffff"/>
+<text x="560.0" y="147.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">89%</text>
+<text x="20.0" y="234.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="start">C2 No skill</text>
+<rect x="155.0" y="185.0" width="87" height="87" fill="#f0e4d9" stroke="#ffffff"/>
+<text x="200.0" y="237.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">44%</text>
+<rect x="245.0" y="185.0" width="87" height="87" fill="#f4f4f4" stroke="#ffffff"/>
+<text x="290.0" y="237.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">-</text>
+<rect x="335.0" y="185.0" width="87" height="87" fill="#dbede0" stroke="#ffffff"/>
+<text x="380.0" y="237.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">56%</text>
+<rect x="425.0" y="185.0" width="87" height="87" fill="#e5f1e8" stroke="#ffffff"/>
+<text x="470.0" y="237.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">52%</text>
+<rect x="515.0" y="185.0" width="87" height="87" fill="#7ec59e" stroke="#ffffff"/>
+<text x="560.0" y="237.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">89%</text>
+<text x="20.0" y="324.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="start">C3 Sci-writing A</text>
+<rect x="155.0" y="275.0" width="87" height="87" fill="#f5ebe1" stroke="#ffffff"/>
+<text x="200.0" y="327.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">48%</text>
+<rect x="245.0" y="275.0" width="87" height="87" fill="#f0e4d9" stroke="#ffffff"/>
+<text x="290.0" y="327.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">44%</text>
+<rect x="335.0" y="275.0" width="87" height="87" fill="#f4f4f4" stroke="#ffffff"/>
+<text x="380.0" y="327.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">-</text>
+<rect x="425.0" y="275.0" width="87" height="87" fill="#dbede0" stroke="#ffffff"/>
+<text x="470.0" y="327.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">56%</text>
+<rect x="515.0" y="275.0" width="87" height="87" fill="#9dd2b4" stroke="#ffffff"/>
+<text x="560.0" y="327.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">78%</text>
+<text x="20.0" y="414.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="start">C4 Sci-writing B</text>
+<rect x="155.0" y="365.0" width="87" height="87" fill="#e5d6c9" stroke="#ffffff"/>
+<text x="200.0" y="417.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">37%</text>
+<rect x="245.0" y="365.0" width="87" height="87" fill="#f5ebe1" stroke="#ffffff"/>
+<text x="290.0" y="417.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">48%</text>
+<rect x="335.0" y="365.0" width="87" height="87" fill="#f0e4d9" stroke="#ffffff"/>
+<text x="380.0" y="417.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">44%</text>
+<rect x="425.0" y="365.0" width="87" height="87" fill="#f4f4f4" stroke="#ffffff"/>
+<text x="470.0" y="417.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">-</text>
+<rect x="515.0" y="365.0" width="87" height="87" fill="#a7d7bb" stroke="#ffffff"/>
+<text x="560.0" y="417.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">74%</text>
+<text x="20.0" y="504.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="start">C5 Academic std.</text>
+<rect x="155.0" y="455.0" width="87" height="87" fill="#c1a593" stroke="#ffffff"/>
+<text x="200.0" y="507.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">11%</text>
+<rect x="245.0" y="455.0" width="87" height="87" fill="#c1a593" stroke="#ffffff"/>
+<text x="290.0" y="507.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">11%</text>
+<rect x="335.0" y="455.0" width="87" height="87" fill="#d1baaa" stroke="#ffffff"/>
+<text x="380.0" y="507.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">22%</text>
+<rect x="425.0" y="455.0" width="87" height="87" fill="#d6c1b2" stroke="#ffffff"/>
+<text x="470.0" y="507.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">26%</text>
+<rect x="515.0" y="455.0" width="87" height="87" fill="#f4f4f4" stroke="#ffffff"/>
+<text x="560.0" y="507.0" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">-</text>
+</svg>

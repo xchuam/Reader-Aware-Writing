@@ -6,7 +6,9 @@
 
 Many agent writing skills improve grammar, tone, or generic clarity, but they often do not teach an agent how to guide a reader through a scientific argument. As a result, generated articles can be technically plausible sentence by sentence while still lacking audience orientation, paragraph purpose, cohesion, coherence, and clear old-to-new information flow.
 
-Reader-Aware-Writing fills that gap with a portable Agent Skill for **reader-centered scientific and academic writing**. It helps agents model the intended reader, build a visible path through the argument, introduce concepts only when the reader is prepared for them, and revise drafts so evidence, interpretation, limitations, and implications are easier to follow.
+Reader-Aware-Writing fills that gap with a portable Agent Skill for **reader-centered scientific and academic writing**. It helps agents model the intended reader, build a visible path through the argument, introduce concepts only when the reader is prepared for them, and revise drafts so evidence, interpretation, limitations, and implications are easier to follow. A systematic test on a noisy life-science writing dossier showed that the current `reader-aware-writing` skill performed better than a no-skill baseline and three comparator writing-skill settings under permutation-balanced blinded scoring. More analysis detail is available in the [benchmark report](comparing/reports/run-2026-05-01-D003/comparison_report.md).
+
+![Blinded total score distribution by authoring setting](comparing/reports/run-2026-05-01-D003/figures/total_score_boxplot_by_skill.svg)
 
 ## Install The Skill
 
@@ -73,18 +75,24 @@ Reader-Aware-Writing helps agents:
 
 ## Use The Skill
 
-Ask your agent to use `reader-aware-writing` when drafting, revising, or critiquing scientific and academic prose.
+Ask your agent to use `reader-aware-writing` whenever the main challenge is helping a specific reader follow a scientific or academic argument. The skill is most useful when the text needs stronger audience orientation, paragraph logic, old-to-new flow, section handoffs, evidence discipline, or reader-aware revision.
+
+For best results, name the reader and the task. For example, specify whether the draft is for domain experts, interdisciplinary reviewers, students, editors, clinicians, policy readers, or collaborators outside the immediate field.
 
 Example prompts:
 
 ```text
-Use reader-aware-writing to revise this introduction for interdisciplinary reviewers.
+Use reader-aware-writing to draft a 1,500-word scientific article from these notes for life-science researchers. Preserve only dossier-supported claims.
 ```
 
 ```text
-Use reader-aware-writing to critique this Results section for cohesion, coherence, and old-to-new flow.
+Use reader-aware-writing to revise this introduction for interdisciplinary reviewers. Make the paragraph purpose and reader path clearer without oversimplifying the science.
 ```
 
 ```text
-Use reader-aware-writing to turn these study notes into a reader-friendly abstract without inventing results.
+Use reader-aware-writing to critique this Results section for cohesion, coherence, old-to-new flow, and unsupported interpretive jumps.
+```
+
+```text
+Use reader-aware-writing to turn these study notes into a reader-friendly abstract for busy journal editors without inventing results.
 ```

@@ -18,14 +18,71 @@ Before drafting or revising, identify the reader's question at each level:
 
 For a composed article or article section, use this protocol before writing:
 
-1. Write a hidden reader-question outline for the requested sections.
-2. Put each paragraph under one question only.
-3. Check that each paragraph's first sentence gives the reader familiar context or a clear frame.
-4. Check that each paragraph's final sentence advances the article toward the next reader question.
-5. Add a bridge before any new variable, method, subgroup, mechanism, limitation, or implication that has not been prepared.
-6. Remove the outline from the final output unless the user asks to see the reasoning.
+1. Build a hidden reader contract:
+   - Reader role and purpose.
+   - What the reader already knows.
+   - What the reader likely does not know.
+   - The reader's first question.
+   - The reader's likely confusion.
+   - The article promise.
+2. Write a hidden reader-question outline for the requested sections.
+3. Put each paragraph under one question only.
+4. Check that each paragraph's first sentence gives the reader familiar context or a clear frame.
+5. Check that each paragraph's final sentence advances the article toward the next reader question.
+6. Add a bridge before any new variable, method, subgroup, mechanism, limitation, or implication that has not been prepared.
+7. Run the claim ladder and paragraph gates before finalizing.
+8. Remove the outline from the final output unless the user asks to see the reasoning.
 
 Strong scientific prose should feel like a sequence of prepared questions, not a container of facts.
+
+## Reader Contract Template
+
+Use this compact template internally before drafting:
+
+```text
+Reader:
+Already knows:
+Likely gaps:
+First question:
+Likely confusion:
+Article promise:
+```
+
+Example:
+
+```text
+Reader: life-science researcher outside this exact subfield
+Already knows: Wnt/beta-catenin, epithelial organoids, inflammatory caspases
+Likely gaps: why CASP5C differs from CASP4 and CASP5A/B
+First question: what is the central claim and why should I trust it?
+Likely confusion: how an inflammatory caspase connects mechanistically to Wnt
+Article promise: explain the CASP5C-APC mechanism without overclaiming disease relevance
+```
+
+## Claim Ladder
+
+Use the claim ladder to keep scientific trust visible:
+
+- Observation: what was seen or measured.
+- Result: a specific finding from the supplied study.
+- Mechanistic evidence: evidence that supports how the result may occur.
+- Model-supported interpretation: what the evidence supports in the tested system.
+- Implication: what may matter if the interpretation holds.
+- Speculation: a possible extension that must be marked as unproven.
+- Forbidden upgrade: any causal, clinical, mechanistic, translational, or novelty claim not supported by the source.
+
+Before finalizing, downgrade or remove forbidden upgrades. Do not let a result in cells or organoids silently become a claim about human disease, clinical use, or in vivo causality.
+
+## Paragraph Gates
+
+Each paragraph in a drafted article should pass these gates:
+
+- Orientation: the first sentence tells the reader why this paragraph exists.
+- Unity: the paragraph answers one reader question.
+- Bridge: new concepts, methods, variables, subgroups, mechanisms, and limitations are introduced before use.
+- Evidence order: evidence appears before interpretation when the reader needs proof; interpretation appears before details when the reader first needs the point.
+- Handoff: the final sentence closes the local point or prepares the next paragraph.
+- Term discipline: key terms are repeated until the reader has a stable thread.
 
 ## Abstracts
 

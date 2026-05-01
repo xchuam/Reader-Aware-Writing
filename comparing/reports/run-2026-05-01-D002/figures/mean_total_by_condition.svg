@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="430" viewBox="0 0 760 430">
+<rect width="100%" height="100%" fill="white"/>
+<text x="24" y="28" font-family="Arial" font-size="18" font-weight="700">Mean total score by condition</text>
+<line x1="88" y1="292.3" x2="732" y2="292.3" stroke="#e6e6e6"/>
+<text x="78" y="296.3" text-anchor="end" font-family="Arial" font-size="11" fill="#555">92</text>
+<line x1="88" y1="193.0" x2="732" y2="193.0" stroke="#e6e6e6"/>
+<text x="78" y="197.0" text-anchor="end" font-family="Arial" font-size="11" fill="#555">94</text>
+<line x1="88" y1="93.7" x2="732" y2="93.7" stroke="#e6e6e6"/>
+<text x="78" y="97.7" text-anchor="end" font-family="Arial" font-size="11" fill="#555">96</text>
+<rect x="112.5" y="163.2" width="79.9" height="178.8" fill="#00A676" rx="3"/>
+<line x1="152.4" y1="91.6" x2="152.4" y2="234.8" stroke="#333" stroke-width="1.5"/>
+<line x1="145.4" y1="91.6" x2="159.4" y2="91.6" stroke="#333" stroke-width="1.5"/>
+<line x1="145.4" y1="234.8" x2="159.4" y2="234.8" stroke="#333" stroke-width="1.5"/>
+<text x="152.4" y="155.2" text-anchor="middle" font-family="Arial" font-size="12" fill="#222">94.60</text>
+<text x="152.4" y="372" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">C3</text>
+<text x="152.4" y="391" text-anchor="middle" font-family="Arial" font-size="10" fill="#444">Scientific-writing representative</text>
+<rect x="241.3" y="163.2" width="79.9" height="178.8" fill="#F77F00" rx="3"/>
+<line x1="281.2" y1="93.7" x2="281.2" y2="232.7" stroke="#333" stroke-width="1.5"/>
+<line x1="274.2" y1="93.7" x2="288.2" y2="93.7" stroke="#333" stroke-width="1.5"/>
+<line x1="274.2" y1="232.7" x2="288.2" y2="232.7" stroke="#333" stroke-width="1.5"/>
+<text x="281.2" y="155.2" text-anchor="middle" font-family="Arial" font-size="12" fill="#222">94.60</text>
+<text x="281.2" y="372" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">C4</text>
+<text x="281.2" y="391" text-anchor="middle" font-family="Arial" font-size="10" fill="#444">Scientific-writing alternative</text>
+<rect x="370.1" y="176.5" width="79.9" height="165.5" fill="#9B5DE5" rx="3"/>
+<line x1="410.0" y1="161.3" x2="410.0" y2="191.7" stroke="#333" stroke-width="1.5"/>
+<line x1="403.0" y1="161.3" x2="417.0" y2="161.3" stroke="#333" stroke-width="1.5"/>
+<line x1="403.0" y1="191.7" x2="417.0" y2="191.7" stroke="#333" stroke-width="1.5"/>
+<text x="410.0" y="168.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#222">94.33</text>
+<text x="410.0" y="372" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">C2</text>
+<text x="410.0" y="391" text-anchor="middle" font-family="Arial" font-size="10" fill="#444">No-skill baseline</text>
+<rect x="498.9" y="189.7" width="79.9" height="152.3" fill="#2E6F95" rx="3"/>
+<line x1="538.8" y1="85.3" x2="538.8" y2="294.0" stroke="#333" stroke-width="1.5"/>
+<line x1="531.8" y1="85.3" x2="545.8" y2="85.3" stroke="#333" stroke-width="1.5"/>
+<line x1="531.8" y1="294.0" x2="545.8" y2="294.0" stroke="#333" stroke-width="1.5"/>
+<text x="538.8" y="181.7" text-anchor="middle" font-family="Arial" font-size="12" fill="#222">94.07</text>
+<text x="538.8" y="372" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">C1</text>
+<text x="538.8" y="391" text-anchor="middle" font-family="Arial" font-size="10" fill="#444">Reader-aware writing</text>
+<rect x="627.7" y="212.9" width="79.9" height="129.1" fill="#C44536" rx="3"/>
+<line x1="667.6" y1="135.3" x2="667.6" y2="290.4" stroke="#333" stroke-width="1.5"/>
+<line x1="660.6" y1="135.3" x2="674.6" y2="135.3" stroke="#333" stroke-width="1.5"/>
+<line x1="660.6" y1="290.4" x2="674.6" y2="290.4" stroke="#333" stroke-width="1.5"/>
+<text x="667.6" y="204.9" text-anchor="middle" font-family="Arial" font-size="12" fill="#222">93.60</text>
+<text x="667.6" y="372" text-anchor="middle" font-family="Arial" font-size="12" font-weight="700">C5</text>
+<text x="667.6" y="391" text-anchor="middle" font-family="Arial" font-size="10" fill="#444">Academic writing standards</text>
+<line x1="88" y1="342" x2="732" y2="342" stroke="#333"/>
+</svg>
