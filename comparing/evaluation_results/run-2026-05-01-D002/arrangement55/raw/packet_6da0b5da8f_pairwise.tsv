@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_6da0b5da8f	Tundra	Juniper	Tundra	Tundra is slightly more complete and formally structured while preserving the same careful uncertainty boundaries.
+E1	packet_6da0b5da8f	Tundra	Amber	Tundra	Tundra provides fuller coverage of methods, cell-state evidence, APC nuance, and disease caveats with stronger article organization.
+E1	packet_6da0b5da8f	Tundra	Ridge	Tundra	Tundra is more precise and integrated, with fewer slightly loose formulations and more complete evidence coverage.
+E1	packet_6da0b5da8f	Tundra	Fjord	Tundra	Tundra edges Fjord by offering more complete reader orientation and a clearer IMRAD reconstruction without sacrificing fidelity.
+E1	packet_6da0b5da8f	Juniper	Amber	Juniper	Juniper has stronger uncertainty handling and smoother organization, while Amber is somewhat more compressed and structurally less conventional.
+E1	packet_6da0b5da8f	Juniper	Ridge	Juniper	Juniper is more precise and better synthesized, especially around mechanistic caveats and disease-association limits.
+E1	packet_6da0b5da8f	Juniper	Fjord	Juniper	Juniper is preferred narrowly for clearer limitation language and slightly better reader orientation across the whole dossier.
+E1	packet_6da0b5da8f	Amber	Ridge	Amber	Amber is a little more precise and better integrated mechanistically, despite its less conventional methods placement.
+E1	packet_6da0b5da8f	Amber	Fjord	Fjord	Fjord has stronger cohesion, clearer caveats, and a more natural flow from mechanism to organoid phenotype and disease context.
+E1	packet_6da0b5da8f	Ridge	Fjord	Fjord	Fjord is more polished and precise, whereas Ridge is faithful but somewhat more segmented and slightly looser in wording.

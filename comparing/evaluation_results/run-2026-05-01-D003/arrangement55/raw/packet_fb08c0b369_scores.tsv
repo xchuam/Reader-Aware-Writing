@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_fb08c0b369	Fjord	20	15	15	20	15	9	4	98	1	Most complete and best organized article, with excellent fidelity and careful caveats across mechanism, organoids, localization, and disease associations.
+E1	packet_fb08c0b369	Tundra	20	15	15	19	15	9	4	97	2	Highly faithful and comprehensive, with strong uncertainty handling, though the reconstructed Methods section and slightly denser flow make it marginally less effective than Fjord.
+E1	packet_fb08c0b369	Juniper	19	14	14	19	14	9	5	94	3	Accurate and well structured with broad coverage of key findings, but a little less precise in orientation and slightly broader in background framing than the dossier warrants.
+E1	packet_fb08c0b369	Amber	19	13	14	18	15	9	5	93	4	Concise, careful, and faithful, especially on uncertainty, but less complete and less fully article-like than the higher-ranked submissions.
+E1	packet_fb08c0b369	Ridge	19	11	13	18	15	9	5	90	5	Scientifically sound and readable, but the lack of abstract and formal sectioning weakens article structure and reader navigation despite strong coverage.

@@ -16,6 +16,8 @@ For scientific writing, treat reader-centeredness as a form of rigor: the text s
 1. Identify the reader and their job.
    - Capture the reader role, expertise level, purpose for reading, decision or action needed, likely constraints, objections, and desired tone.
    - If the reader is unclear, infer a plausible reader from the artifact and state the assumption briefly. Ask only when the missing reader changes the work materially.
+   - For scientific articles, build a compact reader contract before drafting:
+     reader role, what the reader already knows, what they likely do not know, the reader's first question, the reader's likely confusion, and the article promise.
    - For complex or high-stakes writing, read [reader-model.md](references/reader-model.md).
 
 2. Choose the work mode and artifact type.
@@ -30,6 +32,8 @@ For scientific writing, treat reader-centeredness as a form of rigor: the text s
    - Privately map each paragraph or section to the reader question it answers.
    - Sequence those questions so each answer prepares the next question.
    - Identify any concept, method, variable, result, or implication that needs a bridge before it appears.
+   - For scientific articles, make the paragraph path explicit enough to test: each paragraph should have one reader question, one governing answer, and one handoff to the next reader question.
+   - If two paragraphs answer the same reader question, merge or sharpen their roles. If one paragraph answers two unrelated questions, split it.
    - Omit this planning map from the final answer unless the user asks for reasoning or critique.
 
 4. Make the reader path obvious.
@@ -46,11 +50,51 @@ For scientific writing, treat reader-centeredness as a form of rigor: the text s
    - Prefer concrete claims, examples, and decision criteria over vague reassurance.
    - Remove jargon unless it is native to the reader's working vocabulary.
    - Avoid inventing evidence, metrics, policies, or citations.
+   - For scientific articles, silently classify important statements on a claim ladder: observation, result, mechanistic evidence, model-supported interpretation, implication, speculation, and forbidden upgrade. Downgrade or remove any statement that exceeds the supplied evidence.
    - For sentence-level scientific clarity, active/passive choices, nominalization, modifiers, parallelism, and punctuation, read [scientific-style.md](references/scientific-style.md).
 
 6. Finish with a reader check.
    - Use [revision-rubric.md](references/revision-rubric.md) for substantive revisions, high-stakes writing, or explicit review requests.
+   - For scientific article drafting, run the paragraph gates before returning: orientation, unity, bridge, evidence/interpretation order, exit handoff, and claim strength.
    - If useful, provide a concise change note explaining the reader-specific choices.
+
+## Scientific Article Operating Protocol
+
+Use this protocol when composing a scientific article from notes, a dossier, a paper, or experimental results. Keep the protocol hidden unless the user requests an audit or reasoning.
+
+1. Reader contract.
+   - Reader role: who is reading and why.
+   - Already knows: concepts the reader can be expected to know.
+   - Likely gaps: concepts, methods, organisms, variables, or stakes that need preparation.
+   - First question: what the reader needs answered before details matter.
+   - Likely confusion: where the reader may lose the thread.
+   - Article promise: what the article will make clear without exceeding the evidence.
+
+2. Paragraph-question path.
+   - Draft a one-line question for each planned paragraph or section.
+   - Put the questions in the order the reader should ask them.
+   - Ensure each answer prepares the next question.
+   - Do not include a paragraph whose reader question is unclear.
+
+3. Claim ladder.
+   - Mark major claims internally as observation, result, mechanistic evidence, model-supported interpretation, implication, speculation, or forbidden upgrade.
+   - Keep observations and results close to their evidence.
+   - Signal model-supported interpretations with bounded language.
+   - Remove forbidden upgrades: causal, clinical, mechanistic, translational, or novelty claims not supported by the source.
+
+4. Paragraph gates.
+   - Orientation: the first sentence tells the reader why this paragraph exists.
+   - Unity: every sentence serves the same reader question.
+   - Bridge: new concepts, methods, variables, subgroups, mechanisms, and limitations are introduced before they are used.
+   - Evidence order: evidence appears before interpretation when the reader needs proof; interpretation appears before details when the reader first needs the point.
+   - Handoff: the final sentence closes the local point or prepares the next paragraph.
+   - Term discipline: repeat stable technical terms until the reader has a firm thread; avoid premature synonym swaps.
+
+5. Final reader-path pass.
+   - Read only the first sentence of each paragraph. They should form a coherent mini-outline.
+   - Read only the final sentence of each paragraph. The handoffs should not feel abrupt.
+   - Check that the central claim can be stated in one sentence and that every section serves it.
+   - Return the article only unless the user asked for the hidden reader contract, paragraph path, or audit table.
 
 ## Reader-First Rules
 

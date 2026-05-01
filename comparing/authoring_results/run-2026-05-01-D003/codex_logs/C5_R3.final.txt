@@ -1,0 +1,5 @@
+Done. I saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C5_R3.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C5_R3/comparing/authoring_results/run-2026-05-01-D003/C5_R3.md)
+
+Article body word count is 1,786 words, within the 1,500-1,800 target. The only line over 80 characters is the required `skill_source_snapshot` metadata line.

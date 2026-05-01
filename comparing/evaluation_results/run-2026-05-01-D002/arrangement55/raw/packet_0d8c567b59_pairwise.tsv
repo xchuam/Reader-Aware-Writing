@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_0d8c567b59	Quartz	Ivory	Quartz	Quartz has slightly stronger article structure and fuller integration of methods, results and limitations.
+E1	packet_0d8c567b59	Quartz	Summit	Quartz	Quartz is more complete and better scaffolded, especially around methods and uncertainty boundaries.
+E1	packet_0d8c567b59	Quartz	Lantern	Quartz	Quartz preserves more dossier detail and gives stronger reader orientation while maintaining careful caveats.
+E1	packet_0d8c567b59	Quartz	Meadow	Quartz	Quartz is marginally more polished and complete, with clearer article-level organization.
+E1	packet_0d8c567b59	Ivory	Summit	Ivory	Ivory offers fuller methodological and quantitative coverage while matching Summit's caution about evidence limits.
+E1	packet_0d8c567b59	Ivory	Lantern	Ivory	Ivory is more complete and better organized, with stronger handling of isoform competition and disease caveats.
+E1	packet_0d8c567b59	Ivory	Meadow	Ivory	Ivory is a little clearer and more reader-oriented, though both are highly faithful.
+E1	packet_0d8c567b59	Summit	Lantern	Summit	Summit gives a more cohesive and comprehensive account of the experimental sequence.
+E1	packet_0d8c567b59	Summit	Meadow	Meadow	Meadow has stronger article scaffolding through its Methods section and slightly fuller experimental orientation.
+E1	packet_0d8c567b59	Lantern	Meadow	Meadow	Meadow is more complete and better structured while retaining the same key scientific caveats.

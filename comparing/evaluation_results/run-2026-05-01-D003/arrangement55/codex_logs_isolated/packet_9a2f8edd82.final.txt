@@ -1,0 +1,7 @@
+Done. I saved all three required files and verified the TSV structure:
+
+- [Markdown evaluation](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_9a2f8edd82/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_9a2f8edd82.md)
+- [Scores TSV](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_9a2f8edd82/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_9a2f8edd82_scores.tsv)
+- [Pairwise TSV](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_9a2f8edd82/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_9a2f8edd82_pairwise.tsv)
+
+Checks passed: 5 score rows, 10 pairwise rows, correct field counts, and all total scores match their component sums.

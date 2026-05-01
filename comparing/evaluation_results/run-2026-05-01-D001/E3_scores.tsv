@@ -1,0 +1,16 @@
+evaluator_id	article_id	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E3	Article_K	20	15	15	19	15	9	4	97	2	Comprehensive and highly faithful account with excellent uncertainty handling, slightly denser and longer than ideal.
+E3	Article_M	20	15	15	20	14	10	4	98	1	Most complete and well-oriented synthesis with precise mechanism, strong caveats, and only minor constraint pressure from length.
+E3	Article_F	20	15	15	19	14	9	4	96	3	Very strong, coherent article that covers the central mechanism and caveats with only minor compression and style limits.
+E3	Article_N	20	15	15	18	14	9	4	95	4	Excellent mechanistic synthesis and reader orientation, with a few details compressed relative to the strongest versions.
+E3	Article_L	20	15	14	18	14	9	4	94	5	Faithful and complete with clear structure, though slightly less explanatory for non-specialists in some results passages.
+E3	Article_G	19	15	14	18	14	9	4	93	6	Strong overall article with good caveats and flow, losing a little fidelity for minor omissions and less exact disease quantification.
+E3	Article_B	19	14	14	18	14	9	4	92	7	Well-structured and accurate, but somewhat more compressed and less complete in dataset and disease-association coverage.
+E3	Article_I	18	13	14	16	12	8	4	85	14	Clear concise version with good definitions, but it is comparatively underdeveloped and leaves out several dossier-supported specifics.
+E3	Article_O	19	14	14	18	13	9	4	91	8	Clear and faithful account with good orientation, but some methods and disease-caveat coverage are less complete than higher-ranked articles.
+E3	Article_H	19	14	14	17	13	9	4	90	9	Accurate and readable, though it compresses several quantitative and design details and is less cohesive in later result integration.
+E3	Article_E	19	14	14	17	13	8	4	89	10	Solid article with correct central claims and caveats, but the prose is more generic and some evidence links are abbreviated.
+E3	Article_J	19	14	13	17	13	8	4	88	11	Faithful and mechanistically clear, with slightly weaker reader scaffolding and less complete disease framing than stronger versions.
+E3	Article_C	18	14	14	16	13	8	4	87	12	Generally accurate and well oriented, but it omits or compresses several required details and occasionally over-condenses transitions.
+E3	Article_D	18	14	13	16	13	8	4	86	13	Scientifically sound and readable, but less complete in methods, disease details, and reader-facing explanation of some assay logic.
+E3	Article_A	17	13	13	16	12	8	4	83	15	Accurate in broad outline but most compressed, with notable omissions in localization, stimulation, disease, and mechanistic support details.

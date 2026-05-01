@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_2fba4c53cc	Granite	20	15	15	20	15	9	5	99	1	Most complete and balanced reconstruction, with excellent isoform specificity, mechanism coverage, and explicit uncertainty boundaries.
+E1	packet_2fba4c53cc	Vale	19	15	15	19	15	9	5	97	2	Highly faithful and well organized, with strong caution around isoforms, repair, disease, and APC cleavage site uncertainty.
+E1	packet_2fba4c53cc	Ember	19	14	15	19	15	9	5	96	3	Clear and accurate account of the core findings, though slightly less complete on supporting expression and localization details.
+E1	packet_2fba4c53cc	Dawn	19	14	14	19	14	9	5	94	4	Strong mechanistic narrative, but with a few small compressions and slightly stronger framing than the dossier supports.
+E1	packet_2fba4c53cc	Zephyr	19	13	14	19	14	9	5	93	5	Scientifically solid and cautious, but the long lightly segmented Results section weakens structure and reader orientation.

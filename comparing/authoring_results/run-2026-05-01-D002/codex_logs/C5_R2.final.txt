@@ -1,0 +1,8 @@
+Saved the drafted article to:
+
+[comparing/authoring_results/run-2026-05-01-D002/C5_R2.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C5_R2.md)
+
+Verification:
+- File exists.
+- Word count: 1688 words.
+- Only line over 80 characters is the required `skill_source_snapshot` metadata line.

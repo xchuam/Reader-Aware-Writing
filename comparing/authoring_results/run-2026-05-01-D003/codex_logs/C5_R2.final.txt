@@ -1,0 +1,5 @@
+Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C5_R2.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C5_R2/comparing/authoring_results/run-2026-05-01-D003/C5_R2.md)
+
+Verification: body word count is 1,794 words. The only line over 80 characters is the required metadata `skill_source_snapshot` line.

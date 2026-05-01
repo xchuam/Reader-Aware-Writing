@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_673addee4f	Fjord	20	15	15	20	15	10	4	99	1	Most complete and polished account, with excellent mechanistic fidelity and careful limits on direct binding, in vivo repair, disease causality, and therapeutic claims.
+E1	packet_673addee4f	Tundra	20	14	15	19	15	9	4	96	2	Very faithful and well oriented, with strong uncertainty handling, though the Methods section makes it read slightly more like a structured synthesis than a polished article.
+E1	packet_673addee4f	Amber	19	14	14	19	14	9	4	93	3	Accurate, concise, and cohesive coverage of the CASP5C-DVL-APC mechanism, with only modest structural awkwardness from the late methods summary and slightly less depth on some limits.
+E1	packet_673addee4f	Ridge	19	14	14	18	14	9	4	92	4	Clear and mostly faithful sectioned article, but a few phrasings are slightly less precise and the presentation is more review-like than the strongest entries.
+E1	packet_673addee4f	Juniper	19	13	14	18	15	8	4	91	5	Scientifically careful and comprehensive, but less cohesive and polished, with a long segmented Results flow and a few mildly speculative interpretive phrases.

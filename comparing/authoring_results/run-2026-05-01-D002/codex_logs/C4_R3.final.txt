@@ -1,0 +1,5 @@
+Saved the drafted article to:
+
+[comparing/authoring_results/run-2026-05-01-D002/C4_R3.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C4_R3.md)
+
+Verified the metadata block is present and the file is 1,793 words including metadata, within the requested 1,500-1,800 target.

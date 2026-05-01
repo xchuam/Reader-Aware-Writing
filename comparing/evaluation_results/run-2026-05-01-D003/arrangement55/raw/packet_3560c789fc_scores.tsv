@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_3560c789fc	Ember	20	15	15	20	15	9	4	98	1	Most complete and best balanced article with precise isoform specificity mechanism and uncertainty caveats.
+E1	packet_3560c789fc	Zephyr	20	14	15	19	15	9	4	96	2	Highly faithful and clear with strong synthesis and only minor losses in completeness and article polish.
+E1	packet_3560c789fc	Vale	19	12	15	20	15	9	4	94	3	Very accurate and cohesive mechanistic narrative but less conventionally structured as a scientific article.
+E1	packet_3560c789fc	Dawn	18	14	14	18	14	9	4	91	4	Strong structured account with good caveats but slightly more generic framing and less nuance in places.
+E1	packet_3560c789fc	Granite	18	13	13	18	14	9	5	90	5	Faithful and comprehensive but somewhat inventory-like and less effective at guiding the reader through the evidence.

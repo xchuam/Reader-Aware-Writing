@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_8712eae61f	Lantern	Meadow	Meadow	Meadow is more efficiently structured while preserving nearly the same fidelity and uncertainty handling.
+E1	packet_8712eae61f	Lantern	Quartz	Lantern	Lantern gives a richer and more integrated mechanistic account with stronger caveats.
+E1	packet_8712eae61f	Lantern	Ivory	Lantern	Lantern is more complete and analytically cohesive despite being denser.
+E1	packet_8712eae61f	Lantern	Summit	Summit	Summit matches Lantern's fidelity with better concision, structure, and reader orientation.
+E1	packet_8712eae61f	Meadow	Quartz	Meadow	Meadow has cleaner article architecture and fewer reconstructed method-style statements.
+E1	packet_8712eae61f	Meadow	Ivory	Meadow	Meadow is more fully developed and better oriented for a scientific readership.
+E1	packet_8712eae61f	Meadow	Summit	Summit	Summit is slightly sharper, more compact, and more consistently bounded in its conclusions.
+E1	packet_8712eae61f	Quartz	Ivory	Ivory	Ivory is more restrained and readable, while Quartz feels somewhat over-formal and slightly more inferential.
+E1	packet_8712eae61f	Quartz	Summit	Summit	Summit is clearer, more cohesive, and better calibrated about the limits of the evidence.
+E1	packet_8712eae61f	Ivory	Summit	Summit	Summit provides stronger synthesis and orientation while retaining Ivory's caution.

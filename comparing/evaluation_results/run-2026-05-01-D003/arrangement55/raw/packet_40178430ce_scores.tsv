@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_40178430ce	Summit	20	14	15	19	15	10	4	97	1	Best overall balance of faithful CASP5C-specific mechanism, clear organization, strong uncertainty handling, and concise readable synthesis.
+E1	packet_40178430ce	Meadow	20	15	15	19	15	9	3	96	2	Exceptionally complete and cautious, but its length and encyclopedic density slightly weaken readability and constraint fit.
+E1	packet_40178430ce	Ivory	20	14	14	19	15	9	4	95	3	Very faithful and well controlled on uncertainty, with slightly less polished flow and article feel than the top two.
+E1	packet_40178430ce	Quartz	19	13	14	18	14	9	4	91	4	Comprehensive and mostly accurate, but the reconstructed Methods framing and a little unsupported background reduce discipline.
+E1	packet_40178430ce	Lantern	18	10	14	18	14	9	3	86	5	Accurate and coherent as an explanatory essay, but weak formal article structure and some extra background make it less compliant.

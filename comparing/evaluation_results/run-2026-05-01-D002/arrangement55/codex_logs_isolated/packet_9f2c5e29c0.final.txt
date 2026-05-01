@@ -1,0 +1,7 @@
+Done. I created and verified:
+
+- [packet_9f2c5e29c0.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_9f2c5e29c0/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9f2c5e29c0.md)
+- [packet_9f2c5e29c0_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_9f2c5e29c0/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9f2c5e29c0_scores.tsv)
+- [packet_9f2c5e29c0_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_9f2c5e29c0/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9f2c5e29c0_pairwise.tsv)
+
+Validation passed: score TSV has 5 rows with correct totals, pairwise TSV has all 10 unordered pairs, and both TSVs have the required field counts.

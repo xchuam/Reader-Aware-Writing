@@ -1,0 +1,3 @@
+Done. The article is saved at [C1_R3.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C1_R3/comparing/authoring_results/run-2026-05-01-D003/C1_R3.md).
+
+Verified article word count after metadata: `1524`, within the 1500-1800 target.

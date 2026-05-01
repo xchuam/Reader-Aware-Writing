@@ -1,0 +1,1035 @@
+OpenAI Codex v0.126.0-alpha.8 (research preview)
+--------
+workdir: /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+model: gpt-5.5
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: medium
+reasoning summaries: none
+session id: 019de35c-76d1-7643-9a8d-f90a230ac318
+--------
+user
+You are an independent blinded evaluator in a benchmark of scientific writing quality.
+
+Evaluator Metadata
+- Run ID: run-2026-05-01-D002
+- Evaluator ID: E1
+- Packet ID: packet_1cfba51daa
+- Prompt version: evaluation-arrangement55-v1
+- Markdown output path: comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+- Scores TSV path: comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+- Pairwise TSV path: comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+
+Blinding Rules
+- Article labels are neutral nicknames. Do not infer source, skill, model, condition, or replicate from them.
+- Evaluate only the fixed dossier and the five blinded articles in this packet.
+- Ignore presentation position as much as possible; earlier or later placement is not meaningful.
+- Do not use web search or external sources.
+- Do not reward facts absent from the dossier.
+- Penalize invented or unsupported claims.
+
+Scoring Dimensions
+- scientific_fidelity: 20 points
+- article_structure: 15 points
+- reader_orientation: 15 points
+- cohesion_coherence: 20 points
+- evidence_uncertainty: 15 points
+- style_readability: 10 points
+- constraint_following: 5 points
+
+Required Output Files
+1. Save a Markdown evaluation note to `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md`.
+2. Save a tab-separated score table to `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv` with exactly this header:
+   evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+3. Save a tab-separated pairwise table to `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv` with exactly this header:
+   evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+
+Score Table Rules
+- Include exactly one score row for each of the five article nicknames.
+- Scores must be integers, and total_score must equal the seven dimension scores.
+- Rank 1 is strongest within this packet.
+- Do not include tabs inside justifications.
+
+Pairwise Table Rules
+- Include every unordered pair among the five article nicknames exactly once: 10 rows.
+- preferred_nickname must be one article nickname or Tie.
+- Do not include tabs inside reasons.
+
+Fixed Dossier
+---
+---
+dossier_id: D002
+created_at_utc: 2026-05-01T10:42:51Z
+created_by: Codex
+source_dossier: comparing/dossiers/D001_caspase5c_wnt_intestinal_homeostasis.md
+source_pdf: comparing/blinded_articles/s41586-026-10343-8.pdf
+source_article: "Jia, B., Shi, Y., Hong, Y. et al. Caspase 5c amplifies Wnt via APC cleavage to promote intestinal homeostasis. Nature 652, 1362-1374 (2026). https://doi.org/10.1038/s41586-026-10343-8"
+article_type: scientific article
+audience: life-science researchers
+word_count_target: 1500-1800 words
+citation_style: none
+web_access_allowed: false
+noise_profile: simplified notes with deliberate disorder, repeated points, typos, grammar errors, and a few confusing transitions
+---
+
+# Source Notes
+
+These notes are the source packet for one article. They are not arranged in
+article order. Some wording is rough, some items repeat, and some transitions
+are missing.
+
+- CASP5 is one of the inflammatory caspase-family proteases. It is similar to
+  CASP4 and to mouse caspase 11, but what CASP5 actually does has not been
+  very clear.
+- Human CASP4 looked more like mouse caspase 11 in sequence/phylogeny and was
+  the main actor in the tested noncanonical inflammasome response to cytosolic
+  LPS and bacteria. CASP5 did not do this job in the experiments with human
+  intestinal epithelial cells and macrophages.
+- So the question was maybe CASP5 has another function, esp in intestine.
+  CASP5 expression was more concentrated in intestinal tract/appendix and in
+  epithelial cells plus some monocyte/macrophage populations.
+- In colonic organoids CASP5 was higher than CASP4, CASP1 and PYCARD compared
+  with macrophages. CASP4 was broader.
+- Organoids from human colon and small intestine expressed three isoforms:
+  CASP5A, CASP5B, CASP5C. Approx sizes: 49.7 kDa, 43.2 kDa, 33.3 kDa.
+- CASP5B is missing part of the CARD region. CASP5C has no CARD. It was not
+  just a cleavage product of CASP5A/B according to siRNA experiments.
+- CASP5 increased after Salmonella, IFN-beta, IFN-gamma in organoids, but LPS
+  alone did not raise it much in epithelium, probably because TLR4 low.
+- BioID2 in human colonic organoids found DVL1, DVL2, DVL3 near CASP5.
+  Wnt-related terms appeared in the interactor analysis.
+- CASP5 isoforms co-immunoprecipitated with DVL1/2/3. DVL2 complexes also had
+  AXIN1 and beta-catenin. The binding involved DVL DEP domain and CASP5
+  catalytic domain, maybe direct but not fully proven.
+- Wnt/beta-catenin controls intestinal development, repair, stem-cell renewal
+  and differentiation. DVL connects Wnt receptor events to downstream beta
+  catenin control. APC is scaffold/tumor suppressor in the destruction complex.
+- TOPFlash assays: CASP5C increased Wnt reporter activity in HEK293T and HCT116
+  cells, with or without WNT3A. CASP5A, CASP5B, CASP1, CASP4 did not do the
+  same.
+- CASP5C increased AXIN2 and TCF7 and moved beta-catenin into nucleus/cytosol.
+  CASP5A or CASP5B could compete with CASP5C for DVL2 and reduce this effect.
+- Tested CARD-less mouse caspase 11 forms did not copy the Wnt effect, so maybe
+  this is primate CASP5 specialization after duplication. Do not over say this.
+- In organoids, CASP5C but not CASP5A/B increased Wnt reporter activity.
+  CASP5C made more viable cells, around 40% bigger organoids, more Ki-67 and
+  EdU positive cells, fewer CK20 enterocytes.
+- CASP5C increased some Wnt/proliferation markers in colonic organoids:
+  AXIN2 about 3-fold, TCF7 1.4-fold, MYC 1.3-fold, LGR5 1.2-fold, MKI67
+  2.4-fold. ALPI and MUC2 went down about 57% and 53%.
+- CASP5C-expressing organoids could grow longer without Wnt and re-enter cell
+  cycle after Wnt came back. This sounds like it helps repair but do not say
+  proven in human body.
+- In irradiated human colonic organoids, CASP5c transcript increased 42.4-fold
+  in 24 h; CASP5a 5.6-fold; CASP5b 6.6-fold. Then LGR5, OLFM4, TCF7 and MYC
+  went up faster in CASP5C-expressing organoids.
+- Mechanism note, but order confusing: CASP5C reduced DVL2, beta-catenin,
+  phospho-beta-catenin, APC and beta-TrCP in AXIN1-containing complexes after
+  Wnt stimulation. It also reduced beta-catenin ubiquitination.
+- The catalytic mutant CASP5C(C173A) lost reporter activation and beta-catenin
+  effects. CASP5C had higher enzymatic activity than CASP5A/B. Removing CARD
+  from CASP5A/B made them more active and gave more Wnt reporter signalling.
+- APC cleavage: predicted CASP5 sites in APC, mostly N-terminal. CASP5C made
+  APC cleavage products; CASP5A/B and CASP5C(C173A) did not. Recombinant
+  CASP5C directly cleaved truncated APC in vitro.
+- APC D556A mutation removed the major cleavage products. In APC knockout
+  HEK293T, adding wild-type APC let CASP5C disrupt the complex and increase Wnt
+  reporter activity; APC(D556A) made this weaker. APC fragments that look like
+  cleavage products reduced beta-catenin in destruction complex and increased
+  reporter activity.
+- Important: D556 is a primary site but maybe other APC cleavage sites also do
+  something. Do not make D556 the only possible site.
+- Localization is weird: CASP5 transcripts nearly absent in LGR5+ stem cells,
+  higher in transit-amplifying cells, highest in enterocytes in one scRNA
+  analysis. But CASP5c was deeper in crypts and overlapped with MKI67 and
+  AXIN2 more than CASP5a/b. CASP5A/B more luminal/differentiated/CK20.
+- Pseudotime and CIBERSORTx supported CASP5c with early-lineage or
+  transit-amplifying cells; CASP5a/b with mature/differentiating states.
+- In differentiation after Wnt withdrawal CASP5c peaked early with MKI67,
+  CASP5a/b later with differentiation markers.
+- Knock down CASP5a and CASP5b while keeping CASP5C caused higher Wnt reporter,
+  bigger organoids, more ATP, more EdU and Ki-67. When CASP5c also knocked down
+  these effects went back down. This support competition model: CASP5A/B can
+  restrain CASP5C by DVL2 competition.
+- Disease notes are only associations. CASP5 and CASP4 increased in ulcerative
+  colitis datasets but kept their cell type patterns. CASP5 mutations in colon
+  or rectal cancer were around 3%, similar to AXIN1 in that analysis.
+- CASP5 mutations tended to co-occur with Wnt-pathway mutations but were
+  mutually exclusive with APC mutations in the reported analysis. In MSI-high
+  colorectal cancer, CASP5 mutations were reported more often than APC in one
+  comparison, about 68% vs 17%.
+- The cancer/IBD stuff is temptng for therapy story but it is not proven. Do
+  not claim CASP5C cause cancer, UC, IBD, or that it is a validated drug target.
+- Also do not say all CASP5 isoforms promote Wnt. CASP5C is the one that did.
+  CASP5A/B can restrain the CASP5C effect.
+- No supplied reference list. Do not add bibliography.
+---
+
+Blinded Articles
+---
+### Ivory
+
+# Caspase 5c amplifies epithelial Wnt signalling through APC cleavage
+
+## Abstract
+
+Inflammatory caspases link microbial sensing to host defence, but the role of
+human caspase 5 has remained unclear.
+Here we identify a CARD-lacking caspase 5 isoform, CASP5C, as a regulator of
+Wnt signalling in human intestinal epithelium.
+CASP5 expression was enriched in the intestinal tract and in epithelial cell
+populations, whereas CASP4 showed a broader distribution and behaved more like
+mouse caspase 11 in noncanonical inflammasome assays.
+Human intestinal organoids expressed three CASP5 isoforms, CASP5A, CASP5B and
+CASP5C, and CASP5C was not explained by proteolytic processing of longer
+isoforms.
+Proximity labelling and co-immunoprecipitation placed CASP5 isoforms near
+Dishevelled proteins, which connect Wnt receptor activation to beta-catenin
+control.
+Among the isoforms tested, CASP5C selectively increased Wnt reporter activity,
+induced Wnt target genes and promoted nuclear and cytosolic beta-catenin.
+In organoids, CASP5C increased proliferation, organoid size and resistance to
+Wnt withdrawal, whereas CASP5A and CASP5B restrained this effect by competing
+for Dishevelled binding.
+Mechanistically, CASP5C required catalytic activity and cleaved APC, with D556
+acting as a major cleavage site.
+These findings support a model in which CASP5C amplifies Wnt signalling by
+modifying the beta-catenin destruction complex.
+They suggest that a primate CASP5 isoform contributes to intestinal epithelial
+homeostasis, while disease associations in ulcerative colitis and colorectal
+cancer remain correlative.
+
+## Introduction
+
+Human inflammatory caspases include CASP4 and CASP5, which are related to
+mouse caspase 11.
+CASP4 has been widely associated with noncanonical inflammasome responses to
+cytosolic lipopolysaccharide and intracellular bacteria.
+CASP5 is similar in sequence to CASP4, but its physiological contribution has
+been less clear.
+The intestine provides a setting in which this question can be tested.
+Intestinal epithelial cells must balance host defence, barrier renewal and
+controlled proliferation.
+Wnt and beta-catenin signalling are central to this balance because they
+support intestinal development, repair, stem-cell renewal and differentiation.
+Dishevelled proteins transmit receptor-proximal Wnt signals to downstream
+components that control beta-catenin.
+APC acts as a scaffold and tumour suppressor in the beta-catenin destruction
+complex, where it helps limit Wnt pathway output.
+
+We investigated whether CASP5 has an epithelial function distinct from CASP4.
+The data support a model in which CASP5C amplifies Wnt signalling in human
+intestinal epithelial cells and organoids through APC cleavage.
+The longer CASP5A and CASP5B isoforms do not share this activity and can
+restrain CASP5C by competing for Dishevelled binding.
+
+## CASP5 is enriched in intestinal epithelial contexts
+
+Expression analyses placed CASP5 in the intestinal tract and appendix, with
+signal in epithelial and selected myeloid populations.
+In human colonic organoids, CASP5 expression exceeded CASP4, CASP1 and PYCARD
+relative to macrophages.
+CASP4 showed a broader pattern and more closely resembled mouse caspase 11 in
+sequence and phylogeny.
+Functionally, CASP4 was the main mediator of the tested noncanonical
+inflammasome response to cytosolic lipopolysaccharide and bacteria in human
+intestinal epithelial cells and macrophages.
+CASP5 did not account for this response in those assays.
+
+Human colon and small-intestinal organoids expressed CASP5A, CASP5B and
+CASP5C, with approximate predicted sizes of
+49.7 kDa, 43.2 kDa and 33.3 kDa.
+CASP5B lacks part of the CARD region, and CASP5C lacks the CARD region.
+Small interfering RNA experiments indicated that CASP5C was not merely a
+cleavage product of CASP5A or CASP5B.
+CASP5 expression increased after Salmonella infection and after exposure to
+interferon beta or interferon gamma in organoids.
+Lipopolysaccharide alone had little effect in epithelium, consistent with low
+TLR4 expression in that context.
+
+## CASP5 isoforms associate with Dishevelled proteins
+
+BioID2 proximity labelling in human colonic organoids identified DVL1, DVL2
+and DVL3 near CASP5.
+Interactor analysis also recovered Wnt-related terms.
+Co-immunoprecipitation confirmed that CASP5 isoforms associated with DVL1,
+DVL2 and DVL3.
+DVL2 complexes also contained AXIN1 and beta-catenin, placing the interaction
+near the machinery that controls beta-catenin stability.
+
+Domain analysis mapped the interaction to the Dishevelled DEP domain and the
+CASP5 catalytic domain.
+These data support proximity between CASP5 isoforms and Dishevelled complexes,
+although they do not prove direct binding in intact epithelium.
+The binding pattern provided a mechanistic entry point for testing Wnt pathway
+regulation.
+
+## CASP5C selectively amplifies Wnt signalling
+
+Wnt reporter assays separated CASP5C from the longer CASP5 isoforms.
+In HEK293T and HCT116 cells, CASP5C increased TOPFlash reporter activity both
+with and without WNT3A stimulation.
+CASP5A, CASP5B, CASP1 and CASP4 did not show the same activity.
+CASP5C also increased the Wnt-associated genes AXIN2 and TCF7 and promoted
+the accumulation of beta-catenin in nuclear and cytosolic fractions.
+
+The effect was reproduced in organoids.
+CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity in this
+epithelial model.
+CASP5C-expressing colonic organoids contained more viable cells, were about
+40% larger and had more Ki-67-positive and EdU-positive cells.
+They also contained fewer CK20-positive enterocytes, consistent with a shift
+towards proliferative rather than differentiated states.
+
+AXIN2 increased about threefold.
+TCF7, MYC, LGR5 and MKI67 increased by about 1.4-fold, 1.3-fold, 1.2-fold and
+2.4-fold, respectively.
+The differentiation-associated markers ALPI and MUC2 decreased by about 57%
+and 53%.
+These results indicate that CASP5C can increase Wnt output and proliferation
+in human intestinal organoids.
+
+CASP5C-expressing organoids also grew longer after Wnt withdrawal and
+re-entered the cell cycle more readily after Wnt restoration.
+In irradiated human colonic organoids, CASP5c transcript increased 42.4-fold
+within 24 hours, compared with 5.6-fold for CASP5a and 6.6-fold for CASP5b.
+After irradiation, LGR5, OLFM4, TCF7 and MYC increased faster in
+CASP5C-expressing organoids.
+These findings are consistent with a repair-associated programme in organoids,
+but they do not establish that CASP5C drives repair in the human body.
+
+## CASP5A and CASP5B restrain CASP5C activity
+
+CASP5A and CASP5B could compete with CASP5C for DVL2 binding and reduce the
+CASP5C-dependent reporter effect.
+This antagonism was also observed in organoids.
+When CASP5a and CASP5b were knocked down while CASP5C was retained, Wnt
+reporter activity increased.
+These organoids became larger, produced more ATP and contained more EdU-positive
+and Ki-67-positive cells.
+When CASP5c was also knocked down, these effects decreased.
+
+This pattern supports an isoform-competition model in which CASP5A and CASP5B
+occupy Dishevelled-containing complexes and limit CASP5C.
+Total CASP5 expression is therefore not sufficient to infer Wnt output.
+
+## CASP5C modifies the beta-catenin destruction complex
+
+The Wnt-amplifying activity of CASP5C required its catalytic site.
+A CASP5C C173A mutant lost reporter activation and failed to reproduce the
+beta-catenin effects of wild-type CASP5C.
+CASP5C showed higher enzymatic activity than CASP5A and CASP5B.
+Removing the CARD region from CASP5A or CASP5B increased their activity and
+conferred greater Wnt reporter signalling.
+Further experiments connected CASP5C to the destruction complex.
+After Wnt stimulation, CASP5C reduced the abundance of DVL2, beta-catenin,
+phosphorylated beta-catenin, APC and beta-TrCP in AXIN1-containing complexes.
+CASP5C also reduced beta-catenin ubiquitination.
+Together, these results suggest that CASP5C weakens destruction-complex
+function and allows beta-catenin to escape degradation.
+
+APC emerged as a direct substrate candidate.
+Predicted CASP5 cleavage sites in APC were concentrated mainly in the
+N-terminal region.
+CASP5C produced APC cleavage fragments, whereas CASP5A, CASP5B and
+CASP5C(C173A) did not.
+Recombinant CASP5C directly cleaved truncated APC in vitro.
+Mutation of APC D556 removed the major observed cleavage products.
+In APC-knockout HEK293T cells, reintroducing wild-type APC allowed CASP5C to
+disrupt the complex and increase Wnt reporter activity.
+The APC(D556A) mutant weakened this effect.
+APC fragments resembling cleavage products reduced beta-catenin in the
+destruction complex and increased reporter activity.
+These data identify D556 as a primary APC cleavage site for CASP5C, while not
+excluding contributions from other APC cleavage sites.
+
+## CASP5 isoforms mark different epithelial states
+
+CASP5 transcripts were nearly absent from LGR5-positive stem cells in one
+single-cell RNA analysis.
+They were higher in transit-amplifying cells and highest in enterocytes.
+However, CASP5c was enriched deeper in crypts and overlapped more with MKI67
+and AXIN2 than CASP5a or CASP5b.
+CASP5A and CASP5B showed more luminal, differentiated and CK20-associated
+patterns.
+
+Pseudotime analysis and CIBERSORTx supported this division, with CASP5c
+tracking early-lineage or transit-amplifying states and CASP5a and CASP5b
+tracking mature or differentiating states.
+During differentiation after Wnt withdrawal, CASP5c peaked early with MKI67.
+CASP5a and CASP5b peaked later with differentiation markers.
+These data align isoform expression with the functional results.
+
+## Disease associations and implications
+
+CASP5 and CASP4 increased in ulcerative colitis datasets while retaining their
+cell-type patterns.
+In colon and rectal cancer analyses, CASP5 mutations occurred in about 3% of
+cases, similar to AXIN1 in the reported comparison.
+CASP5 mutations tended to co-occur with Wnt-pathway mutations and were reported
+as mutually exclusive with APC mutations.
+In microsatellite instability-high colorectal cancer, CASP5 mutations were
+reported more often than APC mutations in one comparison, at about 68% versus
+17%.
+These observations are compatible with a link between CASP5 biology and Wnt
+pathway state in intestinal disease.
+They do not show that CASP5C causes ulcerative colitis, inflammatory bowel
+disease or colorectal cancer.
+They also do not establish CASP5C as a validated therapeutic target.
+Any disease interpretation should remain constrained to the evidence that CASP5
+is altered or mutated in some datasets and that CASP5C modulates Wnt signalling
+in experimental systems.
+
+## Discussion
+
+The data distinguish CASP5C from CASP4, which more closely matched mouse
+caspase 11 in the tested noncanonical inflammasome response.
+They also distinguish CASP5C from CASP5A and CASP5B, which did not activate
+Wnt signalling and instead restrained CASP5C.
+The central mechanism is catalytic and involves APC cleavage, with D556 acting
+as a major site.
+By weakening the beta-catenin destruction complex, CASP5C increases reporter
+activity, beta-catenin accumulation and proliferation in human organoids.
+
+The findings also raise evolutionary and physiological questions.
+CARD-less mouse caspase 11 forms did not reproduce the CASP5C Wnt effect.
+This result suggests that CASP5C may reflect a primate-specific specialisation
+after caspase gene duplication.
+That interpretation remains provisional because the data do not define every
+sequence feature required for the effect.
+The organoid results support a role in epithelial renewal after injury-like
+stress, but in vivo repair functions remain to be tested directly.
+
+The main conclusion is therefore precise.
+CASP5C, not all CASP5 isoforms, amplifies Wnt signalling in human intestinal
+epithelial models.
+It does so through a catalytic mechanism that includes APC cleavage and
+reduced destruction-complex restraint on beta-catenin.
+CASP5A and CASP5B can oppose this activity by competing for Dishevelled
+binding.
+This isoform-specific control provides a mechanism by which an inflammatory
+caspase paralogue can regulate intestinal epithelial homeostasis outside the
+canonical frame of inflammasome activation.
+### Summit
+
+# Caspase 5c amplifies Wnt signalling through APC cleavage in human intestinal epithelium
+
+## Abstract
+
+Inflammatory caspases are best known for innate immune responses, but individual family members may also have tissue-specific functions outside canonical inflammasome pathways. CASP5 is closely related to human CASP4 and mouse caspase 11, yet its function has remained unclear, particularly in intestinal epithelial cells where CASP5 expression is enriched. Here, analyses of human intestinal organoids, epithelial cell lines, macrophages and interaction assays identify the CARD-less isoform CASP5C as a positive regulator of Wnt/beta-catenin signalling. CASP5C, but not CASP5A, CASP5B, CASP1 or CASP4, increased Wnt reporter activity, promoted beta-catenin redistribution, induced Wnt-responsive genes and supported proliferative features in intestinal organoids. Mechanistically, CASP5C associated with DVL proteins and cleaved APC, weakening destruction-complex assembly and reducing beta-catenin ubiquitination. CASP5A and CASP5B competed with CASP5C for DVL2 and restrained this effect. These findings define an epithelial CASP5C-APC axis that links an inflammatory caspase family member to Wnt control in human intestinal homeostasis.
+
+## Introduction
+
+The intestinal epithelium must renew rapidly while maintaining differentiated barrier functions. Wnt/beta-catenin signalling is central to this balance because it supports intestinal development, repair, stem-cell renewal and lineage decisions. In this pathway, DVL proteins connect receptor-level Wnt inputs to downstream beta-catenin regulation, whereas APC functions as a scaffold and tumour suppressor within the beta-catenin destruction complex. Changes in the assembly or activity of this complex can therefore alter whether epithelial cells maintain a proliferative programme or progress toward differentiation.
+
+Inflammatory caspases provide a less expected entry point into this epithelial signalling problem. CASP5 belongs to the inflammatory caspase family and is related to CASP4 and mouse caspase 11. CASP4 more closely resembles mouse caspase 11 in sequence and phylogeny, and in the tested human systems CASP4, rather than CASP5, acted as the principal mediator of noncanonical inflammasome responses to cytosolic LPS and bacteria. CASP5 did not perform that role in human intestinal epithelial cells or macrophages, raising the possibility that CASP5 has a different function.
+
+Several observations focused attention on the intestine. CASP5 expression was concentrated in the intestinal tract and appendix and was detected in epithelial cells as well as in some monocyte and macrophage populations. In human colonic organoids, CASP5 was expressed at higher relative levels than CASP4, CASP1 and PYCARD compared with macrophages. Human colon and small-intestinal organoids expressed three CASP5 isoforms: CASP5A, CASP5B and CASP5C. CASP5B lacks part of the CARD region, CASP5C lacks the CARD entirely, and siRNA experiments indicated that CASP5C was not simply a cleavage product of CASP5A or CASP5B. Together, these features suggested that CASP5 isoforms might partition distinct epithelial functions.
+
+The study therefore asked whether CASP5, and specifically one of its isoforms, contributes to intestinal epithelial signalling independently of the noncanonical inflammasome response. The findings identify CASP5C as a Wnt-amplifying isoform that acts through DVL-associated APC cleavage, while CASP5A and CASP5B appear to restrain this activity by competition for DVL2.
+
+## Results
+
+CASP5 expression in intestinal epithelium was responsive to inflammatory and microbial cues, but its pattern did not match a simple LPS-triggered inflammasome model. In organoids, CASP5 increased after Salmonella infection and after IFN-beta or IFN-gamma exposure, whereas LPS alone induced little epithelial CASP5, consistent with low TLR4 expression. This pattern placed CASP5 at an interface between inflammatory stimulation and epithelial biology.
+
+Proximity labelling in human colonic organoids then identified proteins near CASP5. BioID2 analysis recovered DVL1, DVL2 and DVL3, and Wnt-related terms appeared in the interactor analysis. Co-immunoprecipitation supported association between CASP5 isoforms and DVL proteins. DVL2-containing complexes also included AXIN1 and beta-catenin, placing the interaction near the Wnt destruction complex. Mapping experiments implicated the DVL DEP domain and the CASP5 catalytic domain in binding, although the available evidence did not fully establish whether the interaction was direct.
+
+Functional tests then distinguished CASP5C from the other inflammatory caspases and CASP5 isoforms. In TOPFlash assays in HEK293T and HCT116 cells, CASP5C increased Wnt reporter activity with or without WNT3A stimulation. CASP5A, CASP5B, CASP1 and CASP4 did not produce the same effect. CASP5C also increased expression of Wnt-responsive markers, including AXIN2 and TCF7, and promoted beta-catenin accumulation in nuclear and cytosolic fractions. CARD-less forms of mouse caspase 11 did not reproduce the Wnt effect, suggesting a possible primate CASP5 specialization after gene duplication, but this comparison does not establish the evolutionary origin of the function.
+
+The same isoform specificity was evident in human intestinal organoids. CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity. CASP5C-expressing organoids contained more viable cells, were about 40% larger, and showed more Ki-67-positive and EdU-positive cells. At the same time, they contained fewer CK20-positive enterocytes, indicating a shift away from differentiated enterocyte features. Gene expression changes were consistent with this phenotype: CASP5C increased AXIN2 by about threefold, TCF7 by 1.4-fold, MYC by 1.3-fold, LGR5 by 1.2-fold and MKI67 by 2.4-fold, whereas ALPI and MUC2 decreased by about 57% and 53%, respectively.
+
+The organoid phenotypes also suggested that CASP5C can support epithelial cells under Wnt-limited or injury-like conditions. CASP5C-expressing organoids survived longer after Wnt withdrawal and could re-enter the cell cycle when Wnt was restored. After irradiation, CASP5c transcript rose 42.4-fold within 24 hours, compared with 5.6-fold for CASP5a and 6.6-fold for CASP5b; LGR5, OLFM4, TCF7 and MYC then increased more rapidly in CASP5C-expressing organoids. These findings are consistent with regenerative signalling in organoids, but they do not prove repair in vivo.
+
+Mechanistic experiments linked CASP5C activity to remodelling of the beta-catenin destruction complex. After Wnt stimulation, CASP5C reduced DVL2, beta-catenin, phosphorylated beta-catenin, APC and beta-TrCP in AXIN1-containing complexes and decreased beta-catenin ubiquitination. These changes provide a plausible route from CASP5C-DVL association to increased beta-catenin signalling.
+
+The catalytic activity of CASP5C was required for this pathway. A CASP5C(C173A) mutant lost reporter activation and beta-catenin effects. CASP5C also showed higher enzymatic activity than CASP5A or CASP5B. Consistent with the idea that the CARD constrains activity, removing the CARD from CASP5A or CASP5B increased enzymatic activity and Wnt reporter signalling. Thus, CASP5C's CARD-less architecture is closely linked to its signalling output.
+
+APC emerged as a key substrate connecting CASP5C activity to Wnt amplification. Predicted CASP5 cleavage sites in APC were concentrated mainly in the N-terminal region. CASP5C generated APC cleavage products, whereas CASP5A, CASP5B and CASP5C(C173A) did not. Recombinant CASP5C directly cleaved truncated APC in vitro, supporting APC as a CASP5C substrate. Mutation of APC D556 removed the major cleavage products, identifying D556 as a primary site, although other APC cleavage sites may also contribute to the pathway.
+
+APC rescue and fragment experiments connected cleavage to destruction-complex function. In APC-knockout HEK293T cells, expression of wild-type APC allowed CASP5C to disrupt the complex and increase Wnt reporter activity. APC(D556A) weakened this effect. APC fragments resembling cleavage products reduced beta-catenin in the destruction complex and increased Wnt reporter activity. These results support a model in which CASP5C cleaves APC, with D556 serving as a major site, and thereby compromises APC-dependent beta-catenin control.
+
+CASP5 isoforms also differed across epithelial states. CASP5 transcripts were nearly absent in LGR5-positive stem cells in one single-cell analysis, higher in transit-amplifying cells, and highest in enterocytes. Within that broad pattern, CASP5c was detected deeper in crypt regions and overlapped more with MKI67 and AXIN2 than CASP5a or CASP5b. CASP5A and CASP5B were more luminal and associated with differentiated or CK20-positive populations. Pseudotime and CIBERSORTx analyses similarly linked CASP5c with early-lineage or transit-amplifying states. During differentiation after Wnt withdrawal, CASP5c peaked early with MKI67, whereas CASP5a/b peaked later with differentiation markers.
+
+The opposing isoform patterns were functionally relevant. CASP5A and CASP5B could compete with CASP5C for DVL2 and reduce CASP5C-dependent Wnt activation. Conversely, knockdown of CASP5a and CASP5b while preserving CASP5C increased Wnt reporter activity, organoid size, ATP content, EdU incorporation and Ki-67 positivity. When CASP5c was also knocked down, these effects decreased. This genetic relationship supports a competition model in which CASP5A and CASP5B restrain CASP5C by limiting its access to DVL-associated Wnt complexes.
+
+Disease-associated data were consistent with relevance to intestinal pathology but did not establish causality. CASP5 and CASP4 were increased in ulcerative colitis datasets while retaining their cell-type patterns. CASP5 mutations occurred in approximately 3% of colon or rectal cancers, tended to co-occur with Wnt-pathway mutations, and were mutually exclusive with APC mutations. In MSI-high colorectal cancer, CASP5 mutations were reported more often than APC mutations in one comparison, approximately 68% versus 17%. These associations do not show that CASP5C causes ulcerative colitis, colorectal cancer or therapeutic vulnerability.
+
+## Discussion
+
+This study defines a noncanonical role for a human inflammatory caspase isoform in intestinal epithelial Wnt signalling. The central finding is isoform-specific: CASP5C amplifies Wnt/beta-catenin activity, whereas CASP5A and CASP5B do not share this activity and can instead restrain CASP5C through DVL2 competition. This distinction is essential because CASP5 cannot be treated as a single functional entity in the intestinal epithelium.
+
+The proposed mechanism links CASP5C to the Wnt destruction complex through DVL proteins and APC cleavage. CASP5C associates with DVL-containing complexes, requires catalytic activity for reporter and beta-catenin effects, directly cleaves APC in vitro, and depends in part on a major APC cleavage site at D556. Cleavage of APC provides a mechanistic explanation for reduced destruction-complex components, decreased beta-catenin ubiquitination and increased Wnt target expression. At the same time, D556 should be viewed as a primary site rather than the only possible site, and the directness of CASP5-DVL binding remains incompletely resolved.
+
+The biological meaning of the pathway is most strongly supported in organoids. CASP5C promoted Wnt-responsive transcription, proliferation markers, organoid growth and recovery after Wnt restoration or irradiation-like stress. These observations fit a model in which CASP5C helps transit-amplifying or early-lineage epithelial cells sustain a regenerative Wnt programme. The expression data reinforce that model because CASP5c aligned more closely with crypt, MKI67-positive and AXIN2-positive states than did CASP5a/b. However, the organoid and dataset findings should not be extended to claims of proven human tissue repair without additional in vivo evidence.
+
+The disease observations are best interpreted as hypotheses for future work. Increased CASP5 and CASP4 in ulcerative colitis datasets, recurrent CASP5 mutations in colorectal cancer subsets, and relationships with Wnt-pathway mutation patterns all suggest that CASP5 isoform biology may matter in inflamed or transformed intestinal tissue. Yet these data are associative. They do not establish CASP5C as a driver of disease or a validated drug target. A useful next step would be to determine how CASP5 isoform abundance, catalytic activity and APC cleavage vary across defined epithelial cell states during injury, inflammation and tumorigenesis.
+
+Overall, CASP5C expands the functional range of inflammatory caspase-family proteins beyond microbial sensing and inflammasome execution. In human intestinal epithelial models, the CARD-less CASP5C isoform uses catalytic activity to cleave APC and amplify Wnt/beta-catenin signalling, while related CASP5 isoforms can temper this activity. This isoform-resolved view provides a framework for studying how inflammatory cues and epithelial renewal programmes intersect without assuming that all CASP5 products share the same function.
+### Lantern
+
+# Caspase 5c amplifies Wnt signalling through APC cleavage in human intestinal epithelial models
+
+## Abstract
+
+CASP5 is an inflammatory caspase-family protease related to CASP4 and mouse caspase 11, but its function has been unclear. In human intestinal epithelial cells and macrophages, CASP4, not CASP5, acted as the main mediator of the tested noncanonical inflammasome response to cytosolic LPS and bacteria. This raised the possibility that CASP5 has a different role, particularly in the intestine, where its expression is enriched. Human intestinal organoids expressed three CASP5 isoforms: CASP5A, CASP5B and the CARD-less CASP5C. Proximity labelling and co-immunoprecipitation linked CASP5 isoforms to DVL1, DVL2 and DVL3, placing CASP5 near Wnt/beta-catenin signalling machinery. Among the isoforms, CASP5C selectively increased Wnt reporter activity, promoted beta-catenin redistribution, increased Wnt target-gene expression and enhanced organoid proliferation. CASP5C required catalytic activity and cleaved APC, a destruction-complex scaffold. APC D556 was a major cleavage site, although other sites may contribute. CASP5A and CASP5B did not reproduce this activity and could restrain CASP5C by competing for DVL2 binding. These data support a model in which CASP5C links inflammatory caspase biology to Wnt-dependent intestinal epithelial homeostasis.
+
+## Introduction
+
+The intestinal epithelium must renew itself continuously while responding to microbial and inflammatory cues. Wnt/beta-catenin signalling is central to intestinal development, stem-cell renewal, differentiation and repair. Inflammatory caspases, by contrast, are usually studied as innate immune proteases. CASP5 sits at the intersection of these topics because it is related to inflammatory caspases yet does not behave like the main human counterpart of mouse caspase 11 in the tested noncanonical inflammasome setting.
+
+Several observations suggested that CASP5 might have an epithelial function. CASP5 expression was concentrated in the intestinal tract and appendix and appeared in epithelial cells as well as some monocyte and macrophage populations. In colonic organoids, CASP5 was higher than CASP4, CASP1 and PYCARD when compared with macrophages, whereas CASP4 was broader. CASP5 expression increased after Salmonella infection and after IFN-beta or IFN-gamma exposure in organoids, but LPS alone caused little epithelial induction, probably because TLR4 was low.
+
+Human colon and small-intestinal organoids expressed CASP5A, CASP5B and CASP5C, with approximate sizes of 49.7, 43.2 and 33.3 kDa. CASP5B lacks part of the CARD region, and CASP5C lacks the CARD entirely. siRNA experiments indicated that CASP5C was not simply a cleavage product of CASP5A or CASP5B. The study therefore examined whether these isoforms have distinct epithelial signalling roles.
+
+This isoform question was especially important because intestinal epithelial outcomes depend on dosage and timing of Wnt activity. Too little signalling can compromise renewal, whereas sustained or misplaced signalling can alter differentiation and growth. A CASP5 isoform that changes Wnt output would therefore be biologically meaningful only if its effect, localization and mechanism were defined separately from the other CASP5 products.
+
+## CASP5 associates with Wnt pathway proteins
+
+BioID2 proximity labelling in human colonic organoids identified DVL1, DVL2 and DVL3 near CASP5, and Wnt-related terms appeared in the interactor analysis. This was a notable result because DVL proteins connect Wnt receptor activation to downstream control of beta-catenin. Co-immunoprecipitation supported the proximity data: CASP5 isoforms associated with DVL1, DVL2 and DVL3. DVL2 complexes also contained AXIN1 and beta-catenin, placing CASP5 near the beta-catenin destruction complex.
+
+Mapping experiments implicated the DVL DEP domain and the CASP5 catalytic domain in the interaction. The data are consistent with direct binding, but do not fully prove it. Even so, the interaction offered a plausible route by which a caspase-family protein could affect Wnt signalling. In the destruction complex, APC and AXIN1 help coordinate beta-catenin phosphorylation, ubiquitination and degradation. Disruption of this system allows beta-catenin to accumulate and activate transcriptional programmes linked to proliferation and epithelial renewal.
+
+## CASP5C selectively activates Wnt signalling
+
+Reporter assays showed that the Wnt effect was specific to CASP5C. In HEK293T and HCT116 cells, CASP5C increased TOPFlash activity with or without WNT3A. CASP5A, CASP5B, CASP1 and CASP4 did not have the same effect. CASP5C also increased AXIN2 and TCF7 expression and moved beta-catenin into the nucleus and cytosol, consistent with pathway activation.
+
+This isoform specificity is central to the interpretation. The results do not show that all CASP5 isoforms promote Wnt signalling. CASP5C amplified the pathway, whereas CASP5A and CASP5B lacked this activity and could reduce the CASP5C effect by competing for DVL2. CARD-less mouse caspase 11 forms did not reproduce the Wnt reporter activation, suggesting, without proving, that CASP5C may represent a primate-specialized function after duplication.
+
+The same pattern appeared in human organoids. CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity. CASP5C-expressing organoids had more viable cells, were about 40% larger, contained more Ki-67- and EdU-positive cells and had fewer CK20-positive enterocytes. In colonic organoids, CASP5C increased AXIN2 by about threefold, TCF7 by 1.4-fold, MYC by 1.3-fold, LGR5 by 1.2-fold and MKI67 by 2.4-fold. Differentiation-associated ALPI and MUC2 decreased by about 57% and 53%.
+
+CASP5C also altered organoid responses to Wnt withdrawal and injury-like stress. CASP5C-expressing organoids survived longer without Wnt and re-entered the cell cycle after Wnt was restored. After irradiation of human colonic organoids, CASP5c transcript increased 42.4-fold within 24 h, compared with 5.6-fold for CASP5a and 6.6-fold for CASP5b. LGR5, OLFM4, TCF7 and MYC then rose faster in CASP5C-expressing organoids. These findings suggest a role in regenerative signalling in organoid models, but they do not prove repair activity in the human body.
+
+## CASP5C cleaves APC to weaken the destruction complex
+
+CASP5C required protease activity to activate Wnt signalling. The catalytic mutant CASP5C(C173A) lost reporter activation and beta-catenin effects. CASP5C had higher enzymatic activity than CASP5A or CASP5B, and removing the CARD from CASP5A or CASP5B increased activity and Wnt reporter signalling. Thus, the CARD-less structure of CASP5C is linked to both enzymatic activity and pathway output.
+
+Mechanistic experiments pointed to the destruction complex. After Wnt stimulation, CASP5C reduced DVL2, beta-catenin, phospho-beta-catenin, APC and beta-TrCP in AXIN1-containing complexes. It also reduced beta-catenin ubiquitination. These results fit a model in which CASP5C weakens the machinery that normally keeps beta-catenin unstable.
+
+APC emerged as a direct substrate. Predicted CASP5 cleavage sites occurred mostly in the N-terminal region of APC. CASP5C generated APC cleavage products, whereas CASP5A, CASP5B and CASP5C(C173A) did not. Recombinant CASP5C directly cleaved truncated APC in vitro. APC D556A removed the major cleavage products, identifying D556 as a primary site, though not necessarily the only functional site. In APC-knockout HEK293T cells, reintroduced wild-type APC allowed CASP5C to disrupt the complex and increase Wnt reporter activity, whereas APC(D556A) weakened this response. APC fragments resembling cleavage products reduced beta-catenin in the destruction complex and increased reporter activity.
+
+Together, these findings support a mechanism in which CASP5C cleaves APC, loosens the destruction complex, reduces beta-catenin ubiquitination and thereby amplifies Wnt/beta-catenin transcriptional signalling.
+
+## Isoform localization and competition
+
+CASP5 isoform expression varied along the epithelial lineage. In one single-cell RNA analysis, total CASP5 transcripts were nearly absent in LGR5-positive stem cells, higher in transit-amplifying cells and highest in enterocytes. At the isoform level, however, CASP5c was deeper in crypts and overlapped more with MKI67 and AXIN2 than CASP5a or CASP5b. CASP5A and CASP5B were more luminal and more associated with differentiated or CK20-positive cells.
+
+Pseudotime analysis and CIBERSORTx supported this division: CASP5c aligned with early-lineage or transit-amplifying states, while CASP5a and CASP5b aligned with mature or differentiating states. During differentiation after Wnt withdrawal, CASP5c peaked early with MKI67, whereas CASP5a and CASP5b rose later with differentiation markers.
+
+Knockdown experiments tested whether the longer isoforms restrain CASP5C. Reducing CASP5a and CASP5b while keeping CASP5C increased Wnt reporter activity, organoid size, ATP, EdU and Ki-67. When CASP5c was also knocked down, these effects decreased. This supports a competition model in which CASP5A and CASP5B limit CASP5C-driven Wnt activation, at least partly through DVL2 competition.
+
+## Disease associations and discussion
+
+The disease data are suggestive but not causal. CASP5 and CASP4 increased in ulcerative colitis datasets while retaining their cell-type patterns. CASP5 mutations in colon or rectal cancer were around 3%, similar to AXIN1 in that analysis. CASP5 mutations tended to co-occur with Wnt-pathway mutations and were mutually exclusive with APC mutations. In MSI-high colorectal cancer, CASP5 mutations were reported more often than APC in one comparison, about 68% versus 17%. These observations do not show that CASP5C causes ulcerative colitis, inflammatory bowel disease or cancer, and they do not establish CASP5C as a validated drug target.
+
+The stronger conclusion is that CASP5C has a specific epithelial signalling function that differs from CASP4-like noncanonical inflammasome activity. CASP5C associates with DVL proteins, requires catalytic activity, cleaves APC and increases Wnt/beta-catenin output. In organoids, this biochemical mechanism corresponds with increased Wnt target expression, proliferation, larger organoid size and improved recovery of proliferative programmes after Wnt restoration or irradiation. CASP5A and CASP5B provide an important counterpoint because they do not activate the pathway and can restrain CASP5C.
+
+Several limits remain. The CASP5-DVL interaction has not been fully proven to be direct. APC D556 is a major CASP5C cleavage site, but other cleavage events may contribute. Organoid experiments support a role in epithelial renewal-like states, but they do not establish in vivo human repair. Within these boundaries, the data define CASP5C as a CARD-less CASP5 isoform that amplifies intestinal epithelial Wnt signalling by cleaving APC and weakening beta-catenin destruction-complex function.
+### Meadow
+
+# Caspase 5c amplifies epithelial Wnt signalling through APC cleavage in human intestinal models
+
+## Abstract
+
+Human caspase 5 is an inflammatory caspase-family protease, but its function has been less clear than that of CASP4, which more closely resembles mouse caspase 11 and mediates tested noncanonical inflammasome responses to cytosolic lipopolysaccharide and bacteria. Here, human intestinal organoid and cell-line experiments identify a distinct role for the CARD-less CASP5C isoform in Wnt/beta-catenin signalling. CASP5C, but not CASP5A, CASP5B, CASP1 or CASP4, increased Wnt reporter activity, promoted beta-catenin redistribution, and induced Wnt-associated genes. CASP5C associated with Dishevelled proteins and used its catalytic activity to cleave APC, weakening beta-catenin destruction-complex function. In organoids, CASP5C increased proliferation, reduced differentiation markers, supported growth during Wnt limitation, and accelerated Wnt-response gene induction after irradiation. CASP5A and CASP5B could restrain this activity, probably by competing with CASP5C for Dishevelled-containing complexes. These findings support CASP5C as an intestinal epithelial amplifier of Wnt signalling rather than a simple paralogue of CASP4.
+
+## Introduction
+
+The intestinal epithelium renews continuously, requiring a controlled balance between stem-cell maintenance, transit-amplifying proliferation and differentiation. Wnt/beta-catenin signalling is central to this process. Dishevelled proteins transmit receptor-proximal Wnt signals, whereas the destruction complex, including AXIN1, APC and beta-TrCP, limits beta-catenin accumulation. Changes in this pathway can therefore alter epithelial growth, differentiation and repair-associated responses.
+
+CASP5 raised a different question. Although it belongs to the inflammatory caspase family, tested human intestinal epithelial cells and macrophages used CASP4, not CASP5, as the main caspase for noncanonical inflammasome responses to cytosolic lipopolysaccharide and bacteria. CASP5 expression was also more concentrated in the intestinal tract and appendix, including epithelial cells and selected monocyte or macrophage populations. In colonic organoids, CASP5 was higher than CASP4, CASP1 and PYCARD relative to macrophages, whereas CASP4 had a broader distribution. These observations suggested that CASP5 might have an intestine-focused epithelial function outside the usual noncanonical inflammasome frame.
+
+Human colon and small-intestinal organoids expressed three CASP5 isoforms: CASP5A, CASP5B and CASP5C, with approximate masses of 49.7, 43.2 and 33.3 kDa. CASP5B lacks part of the CARD region, and CASP5C lacks the CARD entirely. siRNA experiments indicated that CASP5C was not simply a cleavage product of CASP5A or CASP5B. CASP5 expression increased after Salmonella infection and after interferon-beta or interferon-gamma exposure, whereas lipopolysaccharide alone caused little epithelial induction, consistent with low epithelial TLR4. The study therefore asked whether CASP5 isoforms connect inflammatory or injury-associated cues to epithelial Wnt signalling.
+
+## Methods
+
+The work combined human intestinal organoids, macrophage comparisons, reporter assays, interaction mapping and biochemical cleavage experiments. Expression analyses distinguished CASP5A, CASP5B and CASP5C rather than treating CASP5 as a single product. BioID2 in human colonic organoids identified candidate CASP5-proximal proteins, and co-immunoprecipitation tested association with DVL1, DVL2 and DVL3. Additional mapping examined the DVL DEP domain and the CASP5 catalytic domain.
+
+Wnt activity was measured with TOPFlash reporters in HEK293T cells, HCT116 cells and organoids, with and without WNT3A. Catalytic dependence was tested using CASP5C(C173A), and CARD-dependent regulation was evaluated by comparing full-length and CARD-deleted caspase forms. Organoid consequences were assessed by viability, size, proliferation markers, differentiation markers, Wnt withdrawal and Wnt restoration. Irradiated colonic organoids were used to examine injury-associated CASP5 isoform induction and downstream Wnt-response genes. Mechanistic experiments measured beta-catenin localization, beta-catenin ubiquitination, AXIN1-associated complexes, APC cleavage, APC site mutants and APC fragments resembling cleavage products.
+
+## Results
+
+Protein-proximity analysis first linked CASP5 to Wnt machinery. BioID2 identified DVL1, DVL2 and DVL3 near CASP5 in human colonic organoids, and Wnt-related terms appeared in the interactor analysis. CASP5 isoforms co-immunoprecipitated with DVL1, DVL2 and DVL3, and DVL2 complexes also contained AXIN1 and beta-catenin. The interaction involved the DVL DEP domain and the CASP5 catalytic domain, although direct binding was not fully proven.
+
+Functional assays showed that the Wnt effect was isoform specific. CASP5C increased TOPFlash activity in HEK293T and HCT116 cells, both with and without WNT3A, whereas CASP5A, CASP5B, CASP1 and CASP4 did not. CASP5C also increased AXIN2 and TCF7 and shifted beta-catenin into cytosolic and nuclear fractions. CARD-less mouse caspase 11 forms did not reproduce this effect, suggesting that CASP5C may reflect a primate CASP5 specialization after duplication, although this evolutionary interpretation remains provisional.
+
+Human intestinal organoids showed the same specificity. CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity. CASP5C-expressing organoids contained more viable cells, were approximately 40% larger, had more Ki-67-positive and EdU-positive cells, and had fewer CK20-positive enterocytes. CASP5C increased Wnt and proliferation-associated markers, including AXIN2 by about threefold, TCF7 by 1.4-fold, MYC by 1.3-fold, LGR5 by 1.2-fold and MKI67 by 2.4-fold. Differentiation markers decreased, with ALPI and MUC2 falling by approximately 57% and 53%. These results indicate that CASP5C shifts organoids toward a proliferative, Wnt-responsive state.
+
+CASP5C also affected organoid responses to Wnt limitation and injury. CASP5C-expressing organoids grew longer without Wnt and re-entered the cell cycle after Wnt restoration. After irradiation of human colonic organoids, CASP5c transcript increased 42.4-fold within 24 h, compared with 5.6-fold for CASP5a and 6.6-fold for CASP5b. LGR5, OLFM4, TCF7 and MYC then rose faster in CASP5C-expressing organoids. These findings are consistent with a role in epithelial recovery programs in organoid systems, but they do not prove repair activity in the human body.
+
+The mechanism depended on CASP5C catalytic activity and APC cleavage. CASP5C had higher enzymatic activity than CASP5A or CASP5B, and CASP5C(C173A) lost reporter activation and beta-catenin effects. Removing the CARD from CASP5A or CASP5B increased their activity and gave stronger Wnt reporter signalling. After Wnt stimulation, CASP5C reduced DVL2, beta-catenin, phospho-beta-catenin, APC and beta-TrCP in AXIN1-containing complexes, and it reduced beta-catenin ubiquitination. Predicted CASP5 cleavage sites in APC were concentrated largely in the N-terminal region. CASP5C produced APC cleavage products, whereas CASP5A, CASP5B and CASP5C(C173A) did not, and recombinant CASP5C directly cleaved truncated APC in vitro.
+
+APC D556 was a major cleavage site. Mutating D556 removed the major cleavage products, and in APC-knockout HEK293T cells, wild-type APC allowed CASP5C to disrupt the destruction complex and increase Wnt reporter activity more effectively than APC(D556A). APC fragments resembling cleavage products reduced beta-catenin in the destruction complex and increased reporter activity. D556 is therefore a primary site, but the data do not exclude contributions from additional APC cleavage sites.
+
+CASP5 isoforms also opposed one another. CASP5A and CASP5B could compete with CASP5C for DVL2 and reduce CASP5C-driven Wnt activation. In organoids, knocking down CASP5a and CASP5b while preserving CASP5c increased Wnt reporter activity, organoid size, ATP levels, EdU staining and Ki-67 staining. When CASP5c was also knocked down, these effects decreased. This supports a competition model in which CARD-containing or partially CARD-containing isoforms restrain CASP5C by occupying shared Dishevelled-associated complexes.
+
+Cell-state analyses were consistent with this model. In one single-cell RNA analysis, total CASP5 transcripts were nearly absent from LGR5-positive stem cells, higher in transit-amplifying cells and highest in enterocytes. Isoform-resolved patterns refined that picture: CASP5c was deeper in crypts and overlapped more with MKI67 and AXIN2, whereas CASP5a and CASP5b were more luminal and associated with differentiated or CK20-positive states. Pseudotime and CIBERSORTx similarly linked CASP5c to early-lineage or transit-amplifying cells and CASP5a/b to mature or differentiating states. During differentiation after Wnt withdrawal, CASP5c peaked early with MKI67, whereas CASP5a/b rose later with differentiation markers.
+
+Disease datasets provided associations, not causal evidence. CASP5 and CASP4 increased in ulcerative colitis datasets while retaining their cell-type patterns. CASP5 mutations in colon or rectal cancer were around 3%, similar to AXIN1 in the reported analysis. CASP5 mutations tended to co-occur with Wnt-pathway mutations and be mutually exclusive with APC mutations. In one microsatellite instability-high colorectal cancer comparison, CASP5 mutations were reported more often than APC mutations, about 68% versus 17%. These observations suggest clinical relevance worth testing, but they do not show that CASP5C causes inflammatory bowel disease or cancer, and they do not establish CASP5C as a validated drug target.
+
+## Discussion
+
+These findings define CASP5C as an epithelial regulator of Wnt/beta-catenin signalling in human intestinal models. The key distinction is isoform specificity: CASP5C amplified Wnt output, whereas CASP5A and CASP5B did not and could restrain CASP5C. This means CASP5 cannot be interpreted only through total gene expression or through analogy to CASP4. Its biological effect depends on which isoform is expressed and in which epithelial state.
+
+The proposed mechanism is that CASP5C associates with Dishevelled-containing complexes and cleaves APC, thereby weakening beta-catenin destruction. The resulting reduction in beta-catenin ubiquitination and destruction-complex association permits greater beta-catenin-dependent transcription. This mechanism explains why CASP5C increases Wnt reporter activity, Wnt target genes and proliferative organoid phenotypes. It also explains why CASP5A and CASP5B can act as restraints: by competing for DVL2, they can reduce access of active CASP5C to the relevant complex.
+
+The organoid data connect this mechanism to epithelial renewal behaviour. CASP5C promoted proliferation-associated markers, reduced differentiation markers, supported growth under Wnt-limited conditions and accelerated Wnt-response gene induction after irradiation. These results fit a repair-associated model, but the evidence remains model-system evidence. Organoids do not reproduce the full immune, microbial and stromal environment of human intestine, and disease-dataset associations remain correlative.
+
+Overall, CASP5C expands the functional range of inflammatory caspase-family proteases. Rather than acting as the main noncanonical inflammasome caspase in the tested human systems, CASP5C links injury- and cytokine-responsive epithelial biology to a core intestinal renewal pathway. The work highlights APC cleavage and CASP5 isoform balance as important determinants of Wnt signalling in human intestinal epithelial models.
+### Quartz
+
+# Caspase 5c amplifies Wnt signalling through APC cleavage in intestinal epithelial models
+
+## Abstract
+
+Inflammatory caspases are best known for innate immune functions, but the role of human caspase 5 remains incompletely defined. Here we describe an intestinal epithelial function for the short isoform caspase 5c (CASP5C). In tested human intestinal epithelial cells and macrophages, CASP4, rather than CASP5, mediated responses to cytosolic lipopolysaccharide and bacteria. CASP5 was instead enriched in intestinal epithelial contexts, where organoids expressed CASP5A, CASP5B and CASP5C. Proximity labelling and co-immunoprecipitation linked CASP5 to Dishevelled proteins and Wnt signalling. CASP5C selectively increased Wnt reporter activity, promoted beta-catenin redistribution, induced Wnt target genes and enhanced organoid growth. Mechanistically, CASP5C required catalytic activity and cleaved APC, including at a major D556 site, weakening destruction-complex assembly and reducing beta-catenin ubiquitination. CASP5A and CASP5B did not reproduce this activity and could restrain CASP5C by competing for Dishevelled binding. These findings identify CASP5C as an epithelial modulator of Wnt signalling and suggest that CASP5 isoform balance may influence intestinal renewal programmes.
+
+## Introduction
+
+The intestinal epithelium renews rapidly while maintaining a barrier against microbes and injury. This balance depends heavily on Wnt/beta-catenin signalling, which supports intestinal development, repair, stem-cell renewal and lineage decisions. Dishevelled proteins connect Wnt receptor activation to downstream signalling, whereas APC functions as a destruction-complex scaffold and tumour suppressor that helps restrain beta-catenin. Mechanisms that tune Wnt signalling in intestinal cells are therefore central to epithelial homeostasis.
+
+Inflammatory caspases are generally studied as innate immune proteases. Human CASP4 and CASP5 are related to mouse caspase 11, but their respective functions have been difficult to separate. Sequence and phylogenetic comparisons place CASP4 closer to mouse caspase 11, and functional assays in human intestinal epithelial cells and macrophages supported CASP4 as the dominant mediator of noncanonical inflammasome responses to cytosolic lipopolysaccharide and bacteria. CASP5 did not perform this role detectably in those experiments. This raised the possibility that CASP5 has a different function, particularly in tissues where it is enriched.
+
+Expression patterns pointed to the intestine as a relevant site for CASP5 biology. CASP5 was concentrated in the intestinal tract and appendix, with signal in epithelial cells and some monocyte or macrophage populations. Colonic organoids expressed CASP5 strongly relative to several inflammasome components. Human intestinal organoids contained three CASP5 isoforms: full-length CASP5A, CASP5B, which lacks part of the CARD region, and CASP5C, an approximately 33.3 kDa isoform lacking the CARD. Isoform-specific knockdown indicated that CASP5C was not simply a cleavage product of the longer isoforms.
+
+Here we reconstruct the evidence that CASP5C has a specialized epithelial role. The data show that CASP5C, but not CASP5A or CASP5B, amplifies Wnt/beta-catenin signalling in intestinal organoid and cell-line models. The mechanism involves binding to Dishevelled proteins and catalytic cleavage of APC, leading to reduced destruction-complex function. The findings also reveal an isoform competition model in which CASP5A and CASP5B can restrain CASP5C activity.
+
+## Methods
+
+Human intestinal epithelial cells, macrophages and human colon and small-intestinal organoids were used to compare inflammatory caspase function, CASP5 expression and Wnt pathway activity. CASP5 induction was assessed after Salmonella, interferon-beta and interferon-gamma stimulation, and lipopolysaccharide exposure was examined in epithelial contexts. BioID2 proximity labelling, co-immunoprecipitation and domain mapping tested CASP5 association with Dishevelled proteins. TOPFlash reporter assays, beta-catenin localization, Wnt target-gene expression and AXIN1-complex analyses measured pathway output. Organoid size, viability, ATP content, proliferation, differentiation, Wnt withdrawal and irradiation responses were used to assess epithelial phenotypes. Catalytic requirements were tested with CASP5C(C173A), APC mutants, recombinant cleavage assays and APC knockout cells reconstituted with wild-type or D556A APC. Single-cell and computational analyses related CASP5 isoforms to epithelial cell states.
+
+## Results
+
+### CASP5 is enriched in intestinal epithelial contexts and includes a short CARD-less isoform
+
+CASP5 differed from CASP4 functionally and by expression pattern. In cytosolic lipopolysaccharide and bacterial-response assays, CASP4, not CASP5, acted as the main noncanonical inflammasome caspase in human intestinal epithelial cells and macrophages. CASP5 instead associated more strongly with intestinal tissues and epithelial models.
+
+Human intestinal organoids expressed CASP5A, CASP5B and CASP5C. The short isoform, CASP5C, lacks the CARD domain, whereas CASP5B lacks part of this region. CASP5 expression increased after Salmonella infection and after interferon-beta or interferon-gamma treatment. Lipopolysaccharide alone produced little epithelial induction, consistent with limited TLR4 activity in this setting.
+
+### CASP5 associates with Dishevelled proteins and the Wnt pathway
+
+BioID2 proximity labelling in human colonic organoids identified DVL1, DVL2 and DVL3 near CASP5, and Wnt-related terms were enriched in the interactor analysis. Co-immunoprecipitation confirmed that CASP5 isoforms associated with Dishevelled proteins. DVL2 complexes also contained AXIN1 and beta-catenin. The interaction involved the Dishevelled DEP domain and the CASP5 catalytic domain, supporting proximity to Wnt machinery without proving a direct binary interaction.
+
+### CASP5C selectively increases Wnt/beta-catenin signalling
+
+Functional assays separated the CASP5 isoforms sharply. CASP5C increased TOPFlash Wnt reporter activity in HEK293T and HCT116 cells, with or without WNT3A. CASP5A, CASP5B, CASP1 and CASP4 did not. CASP5C also increased AXIN2 and TCF7 and promoted beta-catenin accumulation in cytosolic and nuclear fractions.
+
+The same isoform specificity was observed in organoids. CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity. CASP5C-expressing organoids had more viable cells, were approximately 40% larger, showed increased Ki-67 and EdU positivity, and contained fewer CK20-positive enterocytes. AXIN2 rose about threefold, MKI67 about 2.4-fold and TCF7, MYC and LGR5 increased more modestly, whereas ALPI and MUC2 decreased by approximately 57% and 53%.
+
+CASP5C also altered organoid behaviour under Wnt-limited and injury-associated conditions. CASP5C-expressing organoids grew for longer after Wnt withdrawal and re-entered the cell cycle when Wnt was restored. In irradiated human colonic organoids, CASP5c transcript increased 42.4-fold within 24 h, compared with 5.6-fold for CASP5a and 6.6-fold for CASP5b, and renewal-associated genes rose faster in CASP5C-expressing organoids. These findings support a role for CASP5C in epithelial renewal programmes in model systems, without establishing in vivo effects.
+
+### CASP5C catalytic activity weakens the beta-catenin destruction complex through APC cleavage
+
+The Wnt-amplifying activity of CASP5C required its catalytic site. The CASP5C(C173A) mutant lost reporter activation and beta-catenin effects. CASP5C showed higher enzymatic activity than CASP5A or CASP5B, and CARD removal from CASP5A or CASP5B increased activity and Wnt reporter signalling.
+
+CASP5C reduced DVL2, beta-catenin, phosphorylated beta-catenin, APC and beta-TrCP in AXIN1-containing complexes after Wnt stimulation and reduced beta-catenin ubiquitination. Predicted CASP5 cleavage sites were concentrated in the N-terminal region of APC. CASP5C generated APC cleavage products, whereas CASP5A, CASP5B and catalytically inactive CASP5C(C173A) did not. Recombinant CASP5C directly cleaved truncated APC in vitro.
+
+Mutation of APC D556 removed the major cleavage products, identifying D556 as a primary, but not necessarily exclusive, cleavage site. In APC knockout HEK293T cells, reintroduction of wild-type APC allowed CASP5C to disrupt the destruction complex and increase Wnt reporter activity; APC(D556A) weakened these effects. APC fragments resembling cleavage products reduced beta-catenin association with the destruction complex and increased reporter activity.
+
+### CASP5A and CASP5B restrain CASP5C by competing for Dishevelled binding
+
+CASP5 isoforms had opposing effects on Wnt signalling. CASP5A and CASP5B did not amplify reporter activity, and their expression could reduce the effect of CASP5C by competing for DVL2 binding. When CASP5a and CASP5b were knocked down while CASP5C was retained, Wnt reporter activity increased, organoids became larger, ATP content rose and EdU and Ki-67 positivity increased. When CASP5c was also knocked down, these effects decreased. These results support an isoform balance model in which longer CASP5 isoforms buffer CASP5C activity.
+
+Cell-state analyses were consistent with this model but also showed complexity. In one single-cell RNA analysis, CASP5 transcripts were nearly absent in LGR5-positive stem cells, higher in transit-amplifying cells and highest in enterocytes. However, CASP5c was deeper in crypts and overlapped more with MKI67 and AXIN2 than CASP5a or CASP5b. Pseudotime, CIBERSORTx and Wnt-withdrawal differentiation analyses linked CASP5c with early-lineage or transit-amplifying states and CASP5a/b with mature or differentiating states.
+
+### Disease-associated observations suggest relevance but do not establish causality
+
+Available disease data were associative. CASP5 and CASP4 increased in ulcerative colitis datasets while retaining their cell-type expression patterns. CASP5 mutations were reported in approximately 3% of colon or rectal cancers, tended to co-occur with Wnt-pathway mutations and were mutually exclusive with APC mutations in the reported analysis. In microsatellite instability-high colorectal cancer, CASP5 mutations were reported more often than APC in one comparison, at approximately 68% versus 17%. These observations do not demonstrate that CASP5C causes inflammatory bowel disease or colorectal cancer, nor do they validate CASP5C as a therapeutic target.
+
+## Discussion
+
+This study identifies CASP5C as a Wnt-amplifying inflammatory caspase isoform in intestinal epithelial models. The central finding is not that all CASP5 proteins promote Wnt signalling, but that the CARD-less CASP5C isoform has a distinct catalytic activity that modifies the beta-catenin destruction complex. By associating with Dishevelled proteins and cleaving APC, CASP5C reduces destruction-complex function, decreases beta-catenin ubiquitination and increases Wnt transcriptional output. CASP5A and CASP5B have different effects: they can bind Dishevelled but do not reproduce CASP5C signalling, and they can restrain CASP5C by competition.
+
+The work also clarifies the relationship between CASP5 and related inflammatory caspases. CASP4, rather than CASP5, performed the principal noncanonical inflammasome role in the tested human epithelial and macrophage systems. CASP5C therefore appears to represent a divergent epithelial function of the CASP5 locus rather than a redundant form of CASP4-like immune sensing. CARD-less mouse caspase 11 forms did not mimic the Wnt effect, suggesting that the activity may reflect a primate CASP5 specialization after gene duplication. That evolutionary interpretation remains tentative because the data do not establish the full comparative mechanism across species.
+
+The organoid data suggest that CASP5C can support epithelial proliferative capacity under Wnt-limited and injury-associated conditions. CASP5C expression increased strongly after irradiation, and CASP5C-expressing organoids showed faster induction of renewal-associated genes. These findings fit a model in which CASP5C contributes to repair-associated Wnt amplification. However, the evidence comes from model systems, and the physiological magnitude, timing and safety of this activity in human tissue remain unresolved.
+
+Several limitations constrain interpretation. Direct binding between CASP5 and Dishevelled is suggested but not fully proven. APC D556 is a major CASP5C cleavage site, yet other APC sites may contribute. Disease associations in ulcerative colitis and colorectal cancer are hypothesis-generating only, and therapeutic implications remain undefined.
+
+Overall, the findings expand the functional range of inflammatory caspases by linking a CASP5 isoform to epithelial Wnt control. CASP5C provides a mechanism for amplifying Wnt/beta-catenin signalling through APC cleavage, whereas CASP5A and CASP5B may restrain that activity through Dishevelled competition. This isoform-specific framework helps reconcile CASP5 intestinal enrichment with its limited role in the tested noncanonical inflammasome response and provides a basis for future studies of epithelial repair, differentiation and disease-associated Wnt regulation.
+---
+
+2026-05-01T11:46:22.144310Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:46:22.145105Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-05-01T11:46:22.690320Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:46:22.690957Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-05-01T11:46:22.694013Z  WARN codex_core::plugins::manager: ignoring remote plugins missing from local marketplace during sync marketplace=openai-curated missing_remote_plugin_count=3 missing_remote_plugin_examples=["ios-design", "vercel-plugin", "vibe-builder"]
+2026-05-01T11:46:23.841122Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:46:23.841663Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+2026-05-01T11:46:24.896877Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:46:24.898070Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+I’ll evaluate only the dossier and the five blinded articles, then write the required Markdown and TSV files locally. I’ll first create the output directory and inspect the workspace structure so the files land exactly where requested.
+exec
+/bin/bash -lc 'mkdir -p comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw' in /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+ succeeded in 0ms:
+exec
+/bin/bash -lc "pwd && rg --files -g 'packet_1cfba51daa*' -g 'comparing/**' | head -80" in /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+ succeeded in 0ms:
+/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+
+2026-05-01T11:46:31.074399Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:46:31.074954Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+I’ve finished the comparative read. The articles are all relatively strong, so the ranking is driven mostly by precision around isoform specificity, uncertainty boundaries, and whether the structure stays article-like without drifting into an overlong reconstruction.
+codex
+I’m writing the three required outputs now: a compact evaluation note plus score and pairwise TSVs. I’ll keep TSV justifications single-line and tab-free so they parse cleanly.
+apply patch
+patch: completed
+/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b9722f2a6faacf232cd6b2fbb2552a4a0095b55
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+@@ -0,0 +1,38 @@
++# Evaluation: packet_1cfba51daa
++
++Evaluator: E1  
++Packet: packet_1cfba51daa
++
++## Overall ranking
++
++1. Summit
++2. Ivory
++3. Quartz
++4. Lantern
++5. Meadow
++
++## Article notes
++
++### Summit
++
++Summit is the strongest article in the packet. It preserves the dossier's key distinctions: CASP4 rather than CASP5 in the tested noncanonical inflammasome assays, CASP5C rather than all CASP5 isoforms as the Wnt-amplifying species, and CASP5A/B as restraints through DVL2 competition. The mechanistic sequence from DVL association to catalytic dependence, APC cleavage, reduced destruction-complex function and beta-catenin signalling is clear. It also handles uncertainty well, especially around direct DVL binding, D556 as a primary rather than exclusive site, evolutionary interpretation and disease associations. Its structure is conventional and readable, with good orientation from introduction through results and discussion.
++
++### Ivory
++
++Ivory is highly faithful and very complete. It captures almost every important point in the dossier, including quantitative organoid effects, irradiation responses, isoform localization, APC cleavage and disease caveats. Its main weakness is length and density: the many short sections make it feel more like an exhaustive review of the dossier than a polished 1500-1800 word scientific article. Still, its scientific fidelity and uncertainty handling are excellent, and it avoids the major overclaims the dossier warns against.
++
++### Quartz
++
++Quartz is accurate, well organized and easy to follow. It provides strong reader orientation and a clear article structure, including useful subheadings that separate expression, Wnt activation, APC mechanism, isoform competition and disease associations. It is slightly less complete than Ivory and Summit on some isoform-expression details and somewhat method-like in presentation, but it stays within the dossier and is careful about uncertainty. Its discussion is balanced and appropriately avoids causal disease and therapeutic claims.
++
++### Lantern
++
++Lantern is concise, faithful and particularly good at stating the core mechanism without overclaiming. It captures the major experimental findings and limitations, including the uncertain directness of CASP5-DVL binding, the nonexclusive nature of D556 and the correlative disease data. Compared with the top articles, it gives less depth to the CASP4/CASP5 expression contrast, the broader experimental sequence and some quantitative context. It is nevertheless a clear and reliable synthesis.
++
++### Meadow
++
++Meadow is scientifically solid and mostly faithful, but it is a little less polished as an article. The Methods section is not unsupported in content, but it reads as a reconstructed methods inventory rather than a natural part of the requested scientific article, and it interrupts the narrative. The article captures the central CASP5C-APC-Wnt model and most caveats, though its uncertainty framing is slightly less strong than the top entries. It remains accurate overall and avoids the major prohibited overclaims.
++
++## Main discriminators
++
++The highest-scoring articles most consistently maintained isoform specificity, avoided turning organoid repair-like results into proven human repair, treated disease findings as associations only, and described APC D556 as a major site without excluding other cleavage sites. Summit ranked first because it combined these strengths with the cleanest narrative structure and readability. Ivory was nearly as strong scientifically but overextended in length and density. Quartz and Lantern were both accurate, with Quartz providing a fuller article architecture and Lantern offering a tighter but less complete synthesis. Meadow was credible but somewhat less cohesive because of its methods-heavy reconstruction.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e78ea1f812e6656af0bfa5e50486dbd48c1d275
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+@@ -0,0 +1,11 @@
++evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
++E1	packet_1cfba51daa	Ivory	Summit	Summit	Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability.
++E1	packet_1cfba51daa	Ivory	Lantern	Ivory	Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats.
++E1	packet_1cfba51daa	Ivory	Meadow	Ivory	Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
++E1	packet_1cfba51daa	Ivory	Quartz	Ivory	Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser.
++E1	packet_1cfba51daa	Summit	Lantern	Summit	Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
++E1	packet_1cfba51daa	Summit	Meadow	Summit	Summit is more polished, better integrated and clearer about the hierarchy of evidence.
++E1	packet_1cfba51daa	Summit	Quartz	Summit	Summit has the best overall balance of completeness, flow and uncertainty framing.
++E1	packet_1cfba51daa	Lantern	Meadow	Lantern	Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions.
++E1	packet_1cfba51daa	Lantern	Quartz	Quartz	Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
++E1	packet_1cfba51daa	Meadow	Quartz	Quartz	Quartz has cleaner article structure, stronger cohesion and better handling of limitations.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..5148cf75df30196dd1ac8ab92f03d76215a1eb86
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+@@ -0,0 +1,6 @@
++evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
++E1	packet_1cfba51daa	Summit	20	14	15	20	15	10	5	99	1	Best balance of fidelity, uncertainty control, coherent scientific narrative, and readable article structure.
++E1	packet_1cfba51daa	Ivory	20	15	15	19	15	9	4	97	2	Exceptionally complete and faithful, but somewhat overlong and dense relative to the target article format.
++E1	packet_1cfba51daa	Quartz	19	14	14	19	15	9	5	95	3	Accurate and well organized with strong caveats, though slightly less complete and somewhat methods-like in presentation.
++E1	packet_1cfba51daa	Lantern	19	14	14	18	15	9	5	94	4	Concise and faithful with good uncertainty handling, but less comprehensive and slightly less developed than the top entries.
++E1	packet_1cfba51daa	Meadow	19	13	14	18	14	9	4	91	5	Scientifically sound overall, but the reconstructed Methods framing and slightly weaker narrative integration lower its score.
+
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b9722f2a6faacf232cd6b2fbb2552a4a0095b55
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+@@ -0,0 +1,38 @@
++# Evaluation: packet_1cfba51daa
++
++Evaluator: E1  
++Packet: packet_1cfba51daa
++
++## Overall ranking
++
++1. Summit
++2. Ivory
++3. Quartz
++4. Lantern
++5. Meadow
++
++## Article notes
++
++### Summit
++
++Summit is the strongest article in the packet. It preserves the dossier's key distinctions: CASP4 rather than CASP5 in the tested noncanonical inflammasome assays, CASP5C rather than all CASP5 isoforms as the Wnt-amplifying species, and CASP5A/B as restraints through DVL2 competition. The mechanistic sequence from DVL association to catalytic dependence, APC cleavage, reduced destruction-complex function and beta-catenin signalling is clear. It also handles uncertainty well, especially around direct DVL binding, D556 as a primary rather than exclusive site, evolutionary interpretation and disease associations. Its structure is conventional and readable, with good orientation from introduction through results and discussion.
++
++### Ivory
++
++Ivory is highly faithful and very complete. It captures almost every important point in the dossier, including quantitative organoid effects, irradiation responses, isoform localization, APC cleavage and disease caveats. Its main weakness is length and density: the many short sections make it feel more like an exhaustive review of the dossier than a polished 1500-1800 word scientific article. Still, its scientific fidelity and uncertainty handling are excellent, and it avoids the major overclaims the dossier warns against.
++
++### Quartz
++
++Quartz is accurate, well organized and easy to follow. It provides strong reader orientation and a clear article structure, including useful subheadings that separate expression, Wnt activation, APC mechanism, isoform competition and disease associations. It is slightly less complete than Ivory and Summit on some isoform-expression details and somewhat method-like in presentation, but it stays within the dossier and is careful about uncertainty. Its discussion is balanced and appropriately avoids causal disease and therapeutic claims.
++
++### Lantern
++
++Lantern is concise, faithful and particularly good at stating the core mechanism without overclaiming. It captures the major experimental findings and limitations, including the uncertain directness of CASP5-DVL binding, the nonexclusive nature of D556 and the correlative disease data. Compared with the top articles, it gives less depth to the CASP4/CASP5 expression contrast, the broader experimental sequence and some quantitative context. It is nevertheless a clear and reliable synthesis.
++
++### Meadow
++
++Meadow is scientifically solid and mostly faithful, but it is a little less polished as an article. The Methods section is not unsupported in content, but it reads as a reconstructed methods inventory rather than a natural part of the requested scientific article, and it interrupts the narrative. The article captures the central CASP5C-APC-Wnt model and most caveats, though its uncertainty framing is slightly less strong than the top entries. It remains accurate overall and avoids the major prohibited overclaims.
++
++## Main discriminators
++
++The highest-scoring articles most consistently maintained isoform specificity, avoided turning organoid repair-like results into proven human repair, treated disease findings as associations only, and described APC D556 as a major site without excluding other cleavage sites. Summit ranked first because it combined these strengths with the cleanest narrative structure and readability. Ivory was nearly as strong scientifically but overextended in length and density. Quartz and Lantern were both accurate, with Quartz providing a fuller article architecture and Lantern offering a tighter but less complete synthesis. Meadow was credible but somewhat less cohesive because of its methods-heavy reconstruction.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e78ea1f812e6656af0bfa5e50486dbd48c1d275
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+@@ -0,0 +1,11 @@
++evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
++E1	packet_1cfba51daa	Ivory	Summit	Summit	Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability.
++E1	packet_1cfba51daa	Ivory	Lantern	Ivory	Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats.
++E1	packet_1cfba51daa	Ivory	Meadow	Ivory	Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
++E1	packet_1cfba51daa	Ivory	Quartz	Ivory	Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser.
++E1	packet_1cfba51daa	Summit	Lantern	Summit	Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
++E1	packet_1cfba51daa	Summit	Meadow	Summit	Summit is more polished, better integrated and clearer about the hierarchy of evidence.
++E1	packet_1cfba51daa	Summit	Quartz	Summit	Summit has the best overall balance of completeness, flow and uncertainty framing.
++E1	packet_1cfba51daa	Lantern	Meadow	Lantern	Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions.
++E1	packet_1cfba51daa	Lantern	Quartz	Quartz	Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
++E1	packet_1cfba51daa	Meadow	Quartz	Quartz	Quartz has cleaner article structure, stronger cohesion and better handling of limitations.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..5148cf75df30196dd1ac8ab92f03d76215a1eb86
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+@@ -0,0 +1,6 @@
++evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
++E1	packet_1cfba51daa	Summit	20	14	15	20	15	10	5	99	1	Best balance of fidelity, uncertainty control, coherent scientific narrative, and readable article structure.
++E1	packet_1cfba51daa	Ivory	20	15	15	19	15	9	4	97	2	Exceptionally complete and faithful, but somewhat overlong and dense relative to the target article format.
++E1	packet_1cfba51daa	Quartz	19	14	14	19	15	9	5	95	3	Accurate and well organized with strong caveats, though slightly less complete and somewhat methods-like in presentation.
++E1	packet_1cfba51daa	Lantern	19	14	14	18	15	9	5	94	4	Concise and faithful with good uncertainty handling, but less comprehensive and slightly less developed than the top entries.
++E1	packet_1cfba51daa	Meadow	19	13	14	18	14	9	4	91	5	Scientifically sound overall, but the reconstructed Methods framing and slightly weaker narrative integration lower its score.
+
+2026-05-01T11:47:16.470376Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:47:16.471632Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+The files are in place. I’m running a quick format check now: row counts, headers, integer totals, and pairwise coverage.
+exec
+/bin/bash -lc "awk -F '\\t' 'NR==1{print \"pairwise_header_fields=\" NF; next} {print NR-1, "'$3 "/" $4, "pref=" $5, "fields=" NF} END{print "pairwise_rows=" NR-1}'"' comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv" in /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+ succeeded in 0ms:
+pairwise_header_fields=6
+1 Ivory/Summit pref=Summit fields=6
+2 Ivory/Lantern pref=Ivory fields=6
+3 Ivory/Meadow pref=Ivory fields=6
+4 Ivory/Quartz pref=Ivory fields=6
+5 Summit/Lantern pref=Summit fields=6
+6 Summit/Meadow pref=Summit fields=6
+7 Summit/Quartz pref=Summit fields=6
+8 Lantern/Meadow pref=Lantern fields=6
+9 Lantern/Quartz pref=Quartz fields=6
+10 Meadow/Quartz pref=Quartz fields=6
+pairwise_rows=10
+
+exec
+/bin/bash -lc "awk -F '\\t' 'NR==1{print \"scores_header_fields=\" NF; next} {sum="'$4+$5+$6+$7+$8+$9+$10; print $3, "fields=" NF, "sum=" sum, "total=" $11, "rank=" $12}'"' comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv" in /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+ succeeded in 0ms:
+scores_header_fields=13
+Summit fields=13 sum=99 total=99 rank=1
+Ivory fields=13 sum=97 total=97 rank=2
+Quartz fields=13 sum=95 total=95 rank=3
+Lantern fields=13 sum=94 total=94 rank=4
+Meadow fields=13 sum=91 total=91 rank=5
+
+exec
+/bin/bash -lc 'wc -l comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv' in /tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa
+ succeeded in 0ms:
+  38 comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+   6 comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+  11 comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+  55 total
+
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b9722f2a6faacf232cd6b2fbb2552a4a0095b55
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+@@ -0,0 +1,38 @@
++# Evaluation: packet_1cfba51daa
++
++Evaluator: E1  
++Packet: packet_1cfba51daa
++
++## Overall ranking
++
++1. Summit
++2. Ivory
++3. Quartz
++4. Lantern
++5. Meadow
++
++## Article notes
++
++### Summit
++
++Summit is the strongest article in the packet. It preserves the dossier's key distinctions: CASP4 rather than CASP5 in the tested noncanonical inflammasome assays, CASP5C rather than all CASP5 isoforms as the Wnt-amplifying species, and CASP5A/B as restraints through DVL2 competition. The mechanistic sequence from DVL association to catalytic dependence, APC cleavage, reduced destruction-complex function and beta-catenin signalling is clear. It also handles uncertainty well, especially around direct DVL binding, D556 as a primary rather than exclusive site, evolutionary interpretation and disease associations. Its structure is conventional and readable, with good orientation from introduction through results and discussion.
++
++### Ivory
++
++Ivory is highly faithful and very complete. It captures almost every important point in the dossier, including quantitative organoid effects, irradiation responses, isoform localization, APC cleavage and disease caveats. Its main weakness is length and density: the many short sections make it feel more like an exhaustive review of the dossier than a polished 1500-1800 word scientific article. Still, its scientific fidelity and uncertainty handling are excellent, and it avoids the major overclaims the dossier warns against.
++
++### Quartz
++
++Quartz is accurate, well organized and easy to follow. It provides strong reader orientation and a clear article structure, including useful subheadings that separate expression, Wnt activation, APC mechanism, isoform competition and disease associations. It is slightly less complete than Ivory and Summit on some isoform-expression details and somewhat method-like in presentation, but it stays within the dossier and is careful about uncertainty. Its discussion is balanced and appropriately avoids causal disease and therapeutic claims.
++
++### Lantern
++
++Lantern is concise, faithful and particularly good at stating the core mechanism without overclaiming. It captures the major experimental findings and limitations, including the uncertain directness of CASP5-DVL binding, the nonexclusive nature of D556 and the correlative disease data. Compared with the top articles, it gives less depth to the CASP4/CASP5 expression contrast, the broader experimental sequence and some quantitative context. It is nevertheless a clear and reliable synthesis.
++
++### Meadow
++
++Meadow is scientifically solid and mostly faithful, but it is a little less polished as an article. The Methods section is not unsupported in content, but it reads as a reconstructed methods inventory rather than a natural part of the requested scientific article, and it interrupts the narrative. The article captures the central CASP5C-APC-Wnt model and most caveats, though its uncertainty framing is slightly less strong than the top entries. It remains accurate overall and avoids the major prohibited overclaims.
++
++## Main discriminators
++
++The highest-scoring articles most consistently maintained isoform specificity, avoided turning organoid repair-like results into proven human repair, treated disease findings as associations only, and described APC D556 as a major site without excluding other cleavage sites. Summit ranked first because it combined these strengths with the cleanest narrative structure and readability. Ivory was nearly as strong scientifically but overextended in length and density. Quartz and Lantern were both accurate, with Quartz providing a fuller article architecture and Lantern offering a tighter but less complete synthesis. Meadow was credible but somewhat less cohesive because of its methods-heavy reconstruction.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e78ea1f812e6656af0bfa5e50486dbd48c1d275
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+@@ -0,0 +1,11 @@
++evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
++E1	packet_1cfba51daa	Ivory	Summit	Summit	Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability.
++E1	packet_1cfba51daa	Ivory	Lantern	Ivory	Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats.
++E1	packet_1cfba51daa	Ivory	Meadow	Ivory	Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
++E1	packet_1cfba51daa	Ivory	Quartz	Ivory	Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser.
++E1	packet_1cfba51daa	Summit	Lantern	Summit	Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
++E1	packet_1cfba51daa	Summit	Meadow	Summit	Summit is more polished, better integrated and clearer about the hierarchy of evidence.
++E1	packet_1cfba51daa	Summit	Quartz	Summit	Summit has the best overall balance of completeness, flow and uncertainty framing.
++E1	packet_1cfba51daa	Lantern	Meadow	Lantern	Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions.
++E1	packet_1cfba51daa	Lantern	Quartz	Quartz	Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
++E1	packet_1cfba51daa	Meadow	Quartz	Quartz	Quartz has cleaner article structure, stronger cohesion and better handling of limitations.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..5148cf75df30196dd1ac8ab92f03d76215a1eb86
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+@@ -0,0 +1,6 @@
++evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
++E1	packet_1cfba51daa	Summit	20	14	15	20	15	10	5	99	1	Best balance of fidelity, uncertainty control, coherent scientific narrative, and readable article structure.
++E1	packet_1cfba51daa	Ivory	20	15	15	19	15	9	4	97	2	Exceptionally complete and faithful, but somewhat overlong and dense relative to the target article format.
++E1	packet_1cfba51daa	Quartz	19	14	14	19	15	9	5	95	3	Accurate and well organized with strong caveats, though slightly less complete and somewhat methods-like in presentation.
++E1	packet_1cfba51daa	Lantern	19	14	14	18	15	9	5	94	4	Concise and faithful with good uncertainty handling, but less comprehensive and slightly less developed than the top entries.
++E1	packet_1cfba51daa	Meadow	19	13	14	18	14	9	4	91	5	Scientifically sound overall, but the reconstructed Methods framing and slightly weaker narrative integration lower its score.
+
+2026-05-01T11:47:27.463001Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: prompt must be at most 128 characters path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/build-ios-apps/.codex-plugin/plugin.json
+2026-05-01T11:47:27.463516Z  WARN codex_core_plugins::manifest: ignoring interface.defaultPrompt: maximum of 3 prompts is supported path=/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/.tmp/plugins/plugins/plugin-eval/.codex-plugin/plugin.json
+codex
+Done. I wrote and validated all three required files:
+
+- [packet_1cfba51daa.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md)
+- [packet_1cfba51daa_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv)
+- [packet_1cfba51daa_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv)
+
+Validation passed: score totals match dimension sums, score table has 5 article rows, and pairwise table has all 10 unordered pairs.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b9722f2a6faacf232cd6b2fbb2552a4a0095b55
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md
+@@ -0,0 +1,38 @@
++# Evaluation: packet_1cfba51daa
++
++Evaluator: E1  
++Packet: packet_1cfba51daa
++
++## Overall ranking
++
++1. Summit
++2. Ivory
++3. Quartz
++4. Lantern
++5. Meadow
++
++## Article notes
++
++### Summit
++
++Summit is the strongest article in the packet. It preserves the dossier's key distinctions: CASP4 rather than CASP5 in the tested noncanonical inflammasome assays, CASP5C rather than all CASP5 isoforms as the Wnt-amplifying species, and CASP5A/B as restraints through DVL2 competition. The mechanistic sequence from DVL association to catalytic dependence, APC cleavage, reduced destruction-complex function and beta-catenin signalling is clear. It also handles uncertainty well, especially around direct DVL binding, D556 as a primary rather than exclusive site, evolutionary interpretation and disease associations. Its structure is conventional and readable, with good orientation from introduction through results and discussion.
++
++### Ivory
++
++Ivory is highly faithful and very complete. It captures almost every important point in the dossier, including quantitative organoid effects, irradiation responses, isoform localization, APC cleavage and disease caveats. Its main weakness is length and density: the many short sections make it feel more like an exhaustive review of the dossier than a polished 1500-1800 word scientific article. Still, its scientific fidelity and uncertainty handling are excellent, and it avoids the major overclaims the dossier warns against.
++
++### Quartz
++
++Quartz is accurate, well organized and easy to follow. It provides strong reader orientation and a clear article structure, including useful subheadings that separate expression, Wnt activation, APC mechanism, isoform competition and disease associations. It is slightly less complete than Ivory and Summit on some isoform-expression details and somewhat method-like in presentation, but it stays within the dossier and is careful about uncertainty. Its discussion is balanced and appropriately avoids causal disease and therapeutic claims.
++
++### Lantern
++
++Lantern is concise, faithful and particularly good at stating the core mechanism without overclaiming. It captures the major experimental findings and limitations, including the uncertain directness of CASP5-DVL binding, the nonexclusive nature of D556 and the correlative disease data. Compared with the top articles, it gives less depth to the CASP4/CASP5 expression contrast, the broader experimental sequence and some quantitative context. It is nevertheless a clear and reliable synthesis.
++
++### Meadow
++
++Meadow is scientifically solid and mostly faithful, but it is a little less polished as an article. The Methods section is not unsupported in content, but it reads as a reconstructed methods inventory rather than a natural part of the requested scientific article, and it interrupts the narrative. The article captures the central CASP5C-APC-Wnt model and most caveats, though its uncertainty framing is slightly less strong than the top entries. It remains accurate overall and avoids the major prohibited overclaims.
++
++## Main discriminators
++
++The highest-scoring articles most consistently maintained isoform specificity, avoided turning organoid repair-like results into proven human repair, treated disease findings as associations only, and described APC D556 as a major site without excluding other cleavage sites. Summit ranked first because it combined these strengths with the cleanest narrative structure and readability. Ivory was nearly as strong scientifically but overextended in length and density. Quartz and Lantern were both accurate, with Quartz providing a fuller article architecture and Lantern offering a tighter but less complete synthesis. Meadow was credible but somewhat less cohesive because of its methods-heavy reconstruction.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e78ea1f812e6656af0bfa5e50486dbd48c1d275
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv
+@@ -0,0 +1,11 @@
++evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
++E1	packet_1cfba51daa	Ivory	Summit	Summit	Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability.
++E1	packet_1cfba51daa	Ivory	Lantern	Ivory	Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats.
++E1	packet_1cfba51daa	Ivory	Meadow	Ivory	Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
++E1	packet_1cfba51daa	Ivory	Quartz	Ivory	Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser.
++E1	packet_1cfba51daa	Summit	Lantern	Summit	Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
++E1	packet_1cfba51daa	Summit	Meadow	Summit	Summit is more polished, better integrated and clearer about the hierarchy of evidence.
++E1	packet_1cfba51daa	Summit	Quartz	Summit	Summit has the best overall balance of completeness, flow and uncertainty framing.
++E1	packet_1cfba51daa	Lantern	Meadow	Lantern	Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions.
++E1	packet_1cfba51daa	Lantern	Quartz	Quartz	Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
++E1	packet_1cfba51daa	Meadow	Quartz	Quartz	Quartz has cleaner article structure, stronger cohesion and better handling of limitations.
+diff --git a//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+new file mode 100644
+index 0000000000000000000000000000000000000000..5148cf75df30196dd1ac8ab92f03d76215a1eb86
+--- /dev/null
++++ b//tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv
+@@ -0,0 +1,6 @@
++evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
++E1	packet_1cfba51daa	Summit	20	14	15	20	15	10	5	99	1	Best balance of fidelity, uncertainty control, coherent scientific narrative, and readable article structure.
++E1	packet_1cfba51daa	Ivory	20	15	15	19	15	9	4	97	2	Exceptionally complete and faithful, but somewhat overlong and dense relative to the target article format.
++E1	packet_1cfba51daa	Quartz	19	14	14	19	15	9	5	95	3	Accurate and well organized with strong caveats, though slightly less complete and somewhat methods-like in presentation.
++E1	packet_1cfba51daa	Lantern	19	14	14	18	15	9	5	94	4	Concise and faithful with good uncertainty handling, but less comprehensive and slightly less developed than the top entries.
++E1	packet_1cfba51daa	Meadow	19	13	14	18	14	9	4	91	5	Scientifically sound overall, but the reconstructed Methods framing and slightly weaker narrative integration lower its score.
+
+2026-05-01T11:47:33.299178Z  WARN codex_core::file_watcher: failed to unwatch /home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/skills/.system: No watch was found. about ["/home/vscode/.codex-benchmark/run-2026-05-01-D002/E1_isolated_packets/packet_1cfba51daa/skills/.system"]
+tokens used
+25,453
+Done. I wrote and validated all three required files:
+
+- [packet_1cfba51daa.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa.md)
+- [packet_1cfba51daa_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_scores.tsv)
+- [packet_1cfba51daa_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_1cfba51daa/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_1cfba51daa_pairwise.tsv)
+
+Validation passed: score totals match dimension sums, score table has 5 article rows, and pairwise table has all 10 unordered pairs.

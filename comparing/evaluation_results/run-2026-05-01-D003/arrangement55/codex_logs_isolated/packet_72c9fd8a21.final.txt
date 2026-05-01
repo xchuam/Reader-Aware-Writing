@@ -1,0 +1,7 @@
+Done. I wrote and validated:
+
+- [packet_72c9fd8a21.md](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_72c9fd8a21/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_72c9fd8a21.md)
+- [packet_72c9fd8a21_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_72c9fd8a21/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_72c9fd8a21_scores.tsv)
+- [packet_72c9fd8a21_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_72c9fd8a21/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_72c9fd8a21_pairwise.tsv)
+
+Validation passed: score TSV has 5 rows plus header, pairwise TSV has 10 rows plus header, field counts match, and all total scores equal the summed dimension scores.

@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_15a373ed0f	Amber	20	15	15	20	15	10	5	100	1	Best overall balance of complete dossier coverage, clear structure, accurate isoform-specific mechanism and careful uncertainty handling.
+E1	packet_15a373ed0f	Ridge	20	13	15	20	15	10	5	98	2	Highly faithful and coherent narrative with excellent caution, though it has fewer structural signposts than the top article.
+E1	packet_15a373ed0f	Fjord	20	15	14	19	15	9	5	97	3	Accurate and well organized with strong caveats, but slightly more compressed and less synthetically rich than the top two.
+E1	packet_15a373ed0f	Tundra	18	15	14	19	14	9	5	94	4	Comprehensive and clear, with good caveats, but includes minor unsupported background framing and a somewhat method-heavy presentation.
+E1	packet_15a373ed0f	Juniper	17	15	14	18	13	10	5	92	5	Polished and mostly accurate, but loses fidelity and uncertainty credit for several broader claims not directly supported by the dossier.

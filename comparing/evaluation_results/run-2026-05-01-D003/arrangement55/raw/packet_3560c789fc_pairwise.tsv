@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_3560c789fc	Ember	Zephyr	Ember	Ember is slightly more complete and better organized while preserving the same key caveats.
+E1	packet_3560c789fc	Ember	Vale	Ember	Ember has comparable fidelity but a much stronger scientific article structure.
+E1	packet_3560c789fc	Ember	Dawn	Ember	Ember gives fuller coverage and more precise uncertainty handling across mechanism organoids and disease context.
+E1	packet_3560c789fc	Ember	Granite	Ember	Ember is more polished and reader-oriented with stronger synthesis of the evidence.
+E1	packet_3560c789fc	Zephyr	Vale	Zephyr	Zephyr matches Vale's accuracy closely while offering clearer article-level organization and experimental framing.
+E1	packet_3560c789fc	Zephyr	Dawn	Zephyr	Zephyr is more precise and complete in connecting isoform specificity to the APC mechanism and limitations.
+E1	packet_3560c789fc	Zephyr	Granite	Zephyr	Zephyr provides sharper synthesis and orientation while maintaining high fidelity.
+E1	packet_3560c789fc	Vale	Dawn	Vale	Vale has stronger mechanistic cohesion and more careful interpretive nuance despite weaker formal sectioning.
+E1	packet_3560c789fc	Vale	Granite	Vale	Vale explains the biological logic more effectively and handles caveats with greater precision.
+E1	packet_3560c789fc	Dawn	Granite	Dawn	Dawn is slightly more polished and coherent as an article, though both are similarly faithful.

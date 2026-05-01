@@ -1,0 +1,7 @@
+Completed the evaluation files:
+
+- [packet_4c24b0d637.md](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_4c24b0d637/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_4c24b0d637.md)
+- [packet_4c24b0d637_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_4c24b0d637/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_4c24b0d637_scores.tsv)
+- [packet_4c24b0d637_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_4c24b0d637/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_4c24b0d637_pairwise.tsv)
+
+Validation passed: score TSV has 5 rows with 13 fields each and matching totals; pairwise TSV has all 10 unordered pairs with 6 fields each.

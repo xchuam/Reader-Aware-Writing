@@ -1,0 +1,106 @@
+evaluator_id	article_a	article_b	preferred_article	reason
+E1	Article_E	Article_J	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_E while preserving dossier fidelity.
+E1	Article_E	Article_C	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_C while preserving dossier fidelity.
+E1	Article_E	Article_L	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_L while preserving dossier fidelity.
+E1	Article_E	Article_G	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_G while preserving dossier fidelity.
+E1	Article_E	Article_N	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_N while preserving dossier fidelity.
+E1	Article_E	Article_A	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_A while preserving dossier fidelity.
+E1	Article_E	Article_F	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_F while preserving dossier fidelity.
+E1	Article_E	Article_H	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_H while preserving dossier fidelity.
+E1	Article_E	Article_I	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_I while preserving dossier fidelity.
+E1	Article_E	Article_O	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_O while preserving dossier fidelity.
+E1	Article_E	Article_D	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_D while preserving dossier fidelity.
+E1	Article_E	Article_K	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_K while preserving dossier fidelity.
+E1	Article_E	Article_M	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_M while preserving dossier fidelity.
+E1	Article_E	Article_B	Article_E	Preferred Article_E because it offers clearer mechanistic progression and stronger synthesis than Article_B while preserving dossier fidelity.
+E1	Article_J	Article_C	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_C while preserving dossier fidelity.
+E1	Article_J	Article_L	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_L while preserving dossier fidelity.
+E1	Article_J	Article_G	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_G while preserving dossier fidelity.
+E1	Article_J	Article_N	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_N while preserving dossier fidelity.
+E1	Article_J	Article_A	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_A while preserving dossier fidelity.
+E1	Article_J	Article_F	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_F while preserving dossier fidelity.
+E1	Article_J	Article_H	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_H while preserving dossier fidelity.
+E1	Article_J	Article_I	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_I while preserving dossier fidelity.
+E1	Article_J	Article_O	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_O while preserving dossier fidelity.
+E1	Article_J	Article_D	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_D while preserving dossier fidelity.
+E1	Article_J	Article_K	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_K while preserving dossier fidelity.
+E1	Article_J	Article_M	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_M while preserving dossier fidelity.
+E1	Article_J	Article_B	Article_J	Preferred Article_J because it offers more complete integration of mechanism, localization, and cautious disease interpretation than Article_B while preserving dossier fidelity.
+E1	Article_C	Article_L	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_L while preserving dossier fidelity.
+E1	Article_C	Article_G	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_G while preserving dossier fidelity.
+E1	Article_C	Article_N	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_N while preserving dossier fidelity.
+E1	Article_C	Article_A	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_A while preserving dossier fidelity.
+E1	Article_C	Article_F	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_F while preserving dossier fidelity.
+E1	Article_C	Article_H	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_H while preserving dossier fidelity.
+E1	Article_C	Article_I	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_I while preserving dossier fidelity.
+E1	Article_C	Article_O	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_O while preserving dossier fidelity.
+E1	Article_C	Article_D	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_D while preserving dossier fidelity.
+E1	Article_C	Article_K	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_K while preserving dossier fidelity.
+E1	Article_C	Article_M	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_M while preserving dossier fidelity.
+E1	Article_C	Article_B	Article_C	Preferred Article_C because it offers stronger organization and fuller evidence chain than Article_B while preserving dossier fidelity.
+E1	Article_L	Article_G	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_G while preserving dossier fidelity.
+E1	Article_L	Article_N	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_N while preserving dossier fidelity.
+E1	Article_L	Article_A	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_A while preserving dossier fidelity.
+E1	Article_L	Article_F	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_F while preserving dossier fidelity.
+E1	Article_L	Article_H	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_H while preserving dossier fidelity.
+E1	Article_L	Article_I	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_I while preserving dossier fidelity.
+E1	Article_L	Article_O	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_O while preserving dossier fidelity.
+E1	Article_L	Article_D	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_D while preserving dossier fidelity.
+E1	Article_L	Article_K	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_K while preserving dossier fidelity.
+E1	Article_L	Article_M	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_M while preserving dossier fidelity.
+E1	Article_L	Article_B	Article_L	Preferred Article_L because it offers better reader orientation and more complete core mechanism than Article_B while preserving dossier fidelity.
+E1	Article_G	Article_N	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_N while preserving dossier fidelity.
+E1	Article_G	Article_A	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_A while preserving dossier fidelity.
+E1	Article_G	Article_F	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_F while preserving dossier fidelity.
+E1	Article_G	Article_H	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_H while preserving dossier fidelity.
+E1	Article_G	Article_I	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_I while preserving dossier fidelity.
+E1	Article_G	Article_O	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_O while preserving dossier fidelity.
+E1	Article_G	Article_D	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_D while preserving dossier fidelity.
+E1	Article_G	Article_K	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_K while preserving dossier fidelity.
+E1	Article_G	Article_M	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_M while preserving dossier fidelity.
+E1	Article_G	Article_B	Article_G	Preferred Article_G because it offers tighter cohesion and better caveat handling than Article_B while preserving dossier fidelity.
+E1	Article_N	Article_A	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_A while preserving dossier fidelity.
+E1	Article_N	Article_F	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_N while preserving dossier fidelity.
+E1	Article_N	Article_H	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_N while preserving dossier fidelity.
+E1	Article_N	Article_I	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_I while preserving dossier fidelity.
+E1	Article_N	Article_O	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_O while preserving dossier fidelity.
+E1	Article_N	Article_D	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_D while preserving dossier fidelity.
+E1	Article_N	Article_K	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_K while preserving dossier fidelity.
+E1	Article_N	Article_M	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_M while preserving dossier fidelity.
+E1	Article_N	Article_B	Article_N	Preferred Article_N because it offers more complete evidence coverage and caution than Article_B while preserving dossier fidelity.
+E1	Article_A	Article_F	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_H	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_I	Article_I	Preferred Article_I because it offers more complete results and caveats than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_O	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_D	Article_D	Preferred Article_D because it offers more coherent development of the CASP5 question than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_K	Article_K	Preferred Article_K because it offers clearer structure and more complete uncertainty handling than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_M	Article_M	Preferred Article_M because it offers better evidence discipline and completeness than Article_A while preserving dossier fidelity.
+E1	Article_A	Article_B	Article_B	Preferred Article_B because it offers fuller mechanistic and localization coverage than Article_A while preserving dossier fidelity.
+E1	Article_F	Article_H	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_F while preserving dossier fidelity.
+E1	Article_F	Article_I	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_I while preserving dossier fidelity.
+E1	Article_F	Article_O	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_O while preserving dossier fidelity.
+E1	Article_F	Article_D	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_D while preserving dossier fidelity.
+E1	Article_F	Article_K	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_K while preserving dossier fidelity.
+E1	Article_F	Article_M	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_M while preserving dossier fidelity.
+E1	Article_F	Article_B	Article_F	Preferred Article_F because it offers better definitions and mechanistic framing than Article_B while preserving dossier fidelity.
+E1	Article_H	Article_I	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_I while preserving dossier fidelity.
+E1	Article_H	Article_O	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_O while preserving dossier fidelity.
+E1	Article_H	Article_D	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_D while preserving dossier fidelity.
+E1	Article_H	Article_K	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_K while preserving dossier fidelity.
+E1	Article_H	Article_M	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_M while preserving dossier fidelity.
+E1	Article_H	Article_B	Article_H	Preferred Article_H because it offers clearer treatment of isoform specificity and limitations than Article_B while preserving dossier fidelity.
+E1	Article_I	Article_O	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_I while preserving dossier fidelity.
+E1	Article_I	Article_D	Article_D	Preferred Article_D because it offers more coherent development of the CASP5 question than Article_I while preserving dossier fidelity.
+E1	Article_I	Article_K	Article_K	Preferred Article_K because it offers clearer structure and more complete uncertainty handling than Article_I while preserving dossier fidelity.
+E1	Article_I	Article_M	Article_M	Preferred Article_M because it offers better evidence discipline and completeness than Article_I while preserving dossier fidelity.
+E1	Article_I	Article_B	Article_B	Preferred Article_B because it offers fuller mechanistic and localization coverage than Article_I while preserving dossier fidelity.
+E1	Article_O	Article_D	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_D while preserving dossier fidelity.
+E1	Article_O	Article_K	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_K while preserving dossier fidelity.
+E1	Article_O	Article_M	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_M while preserving dossier fidelity.
+E1	Article_O	Article_B	Article_O	Preferred Article_O because it offers stronger coherence and fuller organoid-mechanism linkage than Article_B while preserving dossier fidelity.
+E1	Article_D	Article_K	Article_D	Preferred Article_D because it offers more coherent development of the CASP5 question than Article_K while preserving dossier fidelity.
+E1	Article_D	Article_M	Article_D	Preferred Article_D because it offers more coherent development of the CASP5 question than Article_M while preserving dossier fidelity.
+E1	Article_D	Article_B	Article_D	Preferred Article_D because it offers more coherent development of the CASP5 question than Article_B while preserving dossier fidelity.
+E1	Article_K	Article_M	Article_M	Preferred Article_M because it offers better evidence discipline and completeness than Article_K while preserving dossier fidelity.
+E1	Article_K	Article_B	Article_K	Preferred Article_K because it offers clearer structure and more complete uncertainty handling than Article_B while preserving dossier fidelity.
+E1	Article_M	Article_B	Article_M	Preferred Article_M because it offers better evidence discipline and completeness than Article_B while preserving dossier fidelity.

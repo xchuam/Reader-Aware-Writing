@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_17ba1bd0a7	Zephyr	Vale	Vale	Vale preserves nearly all essential science with better organization and much stronger length discipline than Zephyr.
+E1	packet_17ba1bd0a7	Zephyr	Dawn	Dawn	Dawn is slightly less exhaustive but delivers a more usable article-form synthesis than Zephyr's overlong reconstruction.
+E1	packet_17ba1bd0a7	Zephyr	Granite	Granite	Granite is nearly as faithful while being more concise and better aligned with the requested article target.
+E1	packet_17ba1bd0a7	Zephyr	Ember	Ember	Ember covers the key evidence and uncertainty with far better economy and constraint following.
+E1	packet_17ba1bd0a7	Vale	Dawn	Vale	Vale has marginally sharper structure and uncertainty framing, while Dawn has a slight abstract overstatement and similar length issues.
+E1	packet_17ba1bd0a7	Vale	Granite	Granite	Granite is more concise and article-like with only a small loss of detail relative to Vale.
+E1	packet_17ba1bd0a7	Vale	Ember	Ember	Ember is similarly faithful but more economical and closer to the requested target length.
+E1	packet_17ba1bd0a7	Dawn	Granite	Granite	Granite is more restrained and concise while retaining the central mechanistic and disease-caveat points.
+E1	packet_17ba1bd0a7	Dawn	Ember	Ember	Ember has comparable fidelity with cleaner restraint and better constraint following.
+E1	packet_17ba1bd0a7	Granite	Ember	Ember	Ember is slightly better balanced as a finished article, whereas Granite's methods summary feels less central to the requested format.

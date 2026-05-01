@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_7f8c76a2df	Ridge	20	15	15	19	15	9	5	98	1	Most complete and polished synthesis, with excellent fidelity and careful limits on mechanism, organoids and disease associations.
+E1	packet_7f8c76a2df	Fjord	20	14	15	19	15	9	5	97	2	Very faithful and well calibrated, only slightly less article-shaped than Ridge because much evidence sits in one broad Results section.
+E1	packet_7f8c76a2df	Tundra	19	13	14	18	14	9	5	92	3	Highly accurate and comprehensive, but the methods-heavy structure is less elegant and a few phrases slightly overstate organoid evidence.
+E1	packet_7f8c76a2df	Juniper	19	13	14	18	15	8	5	92	4	Careful and accurate with strong uncertainty handling, though the prose is more segmented and one irradiation interpretation is mildly inferential.
+E1	packet_7f8c76a2df	Amber	18	13	14	18	14	8	5	90	5	Accurate and readable overall, but slightly less complete and somewhat weakened by a report-like methods summary and modest overstatement of homeostatic implications.

@@ -1,0 +1,5 @@
+C1: home=/home/vscode/.codex-benchmark/run-2026-05-01-D001/C1 skill=reader-aware-writing source=skills/reader-aware-writing/ @ 97c06ad26991c68060a4094b6fbd63cb5ed4a671
+C2: home=/home/vscode/.codex-benchmark/run-2026-05-01-D001/C2 skill=None source=N/A
+C3: home=/home/vscode/.codex-benchmark/run-2026-05-01-D001/C3 skill=scientific-writing source=comparing/skill_snapshots/C3_smithery_scientific_writing/ skills.sh snapshot 2026-05-01T09:52:19Z
+C4: home=/home/vscode/.codex-benchmark/run-2026-05-01-D001/C4 skill=scientific-writing source=comparing/skill_snapshots/C4_ovachiever_scientific_writing/ @ 7acd12a7547ded8f801615e69c3b881a584ce323
+C5: home=/home/vscode/.codex-benchmark/run-2026-05-01-D001/C5 skill=academic-writing-standards source=comparing/skill_snapshots/C5_academic_writing_standards/ @ 006088dd99868765db0847d068b5089c192086b5

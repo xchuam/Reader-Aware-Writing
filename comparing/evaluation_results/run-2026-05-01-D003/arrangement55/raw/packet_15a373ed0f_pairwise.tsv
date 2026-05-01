@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_15a373ed0f	Amber	Ridge	Amber	Amber has equally strong fidelity with clearer sectioning and slightly more explicit preservation of mechanistic and disease caveats.
+E1	packet_15a373ed0f	Amber	Fjord	Amber	Amber provides fuller synthesis and reader orientation while retaining the same high level of factual accuracy and uncertainty control.
+E1	packet_15a373ed0f	Amber	Tundra	Amber	Amber avoids the small unsupported background additions present in Tundra and gives a more polished integrated account.
+E1	packet_15a373ed0f	Amber	Juniper	Amber	Amber is more strictly dossier-bound and handles disease and repair limitations more carefully than Juniper.
+E1	packet_15a373ed0f	Ridge	Fjord	Ridge	Ridge is more cohesive and explanatory, although Fjord has stronger visible sectioning.
+E1	packet_15a373ed0f	Ridge	Tundra	Ridge	Ridge has cleaner fidelity and smoother synthesis, while Tundra includes minor unsupported framing and a more procedural structure.
+E1	packet_15a373ed0f	Ridge	Juniper	Ridge	Ridge is more consistently cautious and avoids Juniper's broader unsupported background and future-direction framing.
+E1	packet_15a373ed0f	Fjord	Tundra	Fjord	Fjord is tighter and slightly more dossier-faithful, whereas Tundra adds a few extra background claims and reads more like a methods report.
+E1	packet_15a373ed0f	Fjord	Juniper	Fjord	Fjord is more restrained about unsupported claims and preserves the dossier's uncertainty boundaries more consistently.
+E1	packet_15a373ed0f	Tundra	Juniper	Tundra	Tundra is somewhat more faithful and cautious overall, despite Juniper's polished style.

@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_8712eae61f	Summit	20	15	15	19	15	10	5	99	1	Most effectively balances completeness, structure, mechanistic precision, and caution about repair and disease claims.
+E1	packet_8712eae61f	Meadow	20	15	15	19	14	9	5	97	2	Highly faithful and well organized with strong coverage of isoform specificity and APC cleavage, though slightly less sharp than Summit.
+E1	packet_8712eae61f	Lantern	20	14	14	19	15	9	4	95	3	Exceptionally detailed and careful, but denser and likely over the target length compared with the strongest entries.
+E1	packet_8712eae61f	Ivory	19	14	14	18	15	9	5	94	4	Clear and cautious with solid fidelity, but less deeply synthesized and less article-like than the top-ranked versions.
+E1	packet_8712eae61f	Quartz	19	14	14	18	14	9	5	93	5	Accurate and complete overall, but the methods-style reconstruction and a few broader framing phrases make it slightly less disciplined.

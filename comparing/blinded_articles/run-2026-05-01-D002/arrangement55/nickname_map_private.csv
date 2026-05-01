@@ -1,0 +1,16 @@
+nickname,source_output_path,condition_id,replicate_id,word_count
+Amber,comparing/authoring_results/run-2026-05-01-D002/C1_R1.md,C1,R1,1780
+Ridge,comparing/authoring_results/run-2026-05-01-D002/C2_R1.md,C2,R1,1808
+Fjord,comparing/authoring_results/run-2026-05-01-D002/C3_R1.md,C3,R1,1798
+Tundra,comparing/authoring_results/run-2026-05-01-D002/C4_R1.md,C4,R1,1811
+Juniper,comparing/authoring_results/run-2026-05-01-D002/C5_R1.md,C5,R1,1808
+Zephyr,comparing/authoring_results/run-2026-05-01-D002/C1_R2.md,C1,R2,1791
+Vale,comparing/authoring_results/run-2026-05-01-D002/C2_R2.md,C2,R2,1802
+Dawn,comparing/authoring_results/run-2026-05-01-D002/C3_R2.md,C3,R2,1802
+Granite,comparing/authoring_results/run-2026-05-01-D002/C4_R2.md,C4,R2,1619
+Ember,comparing/authoring_results/run-2026-05-01-D002/C5_R2.md,C5,R2,1661
+Summit,comparing/authoring_results/run-2026-05-01-D002/C1_R3.md,C1,R3,1818
+Lantern,comparing/authoring_results/run-2026-05-01-D002/C2_R3.md,C2,R3,1540
+Meadow,comparing/authoring_results/run-2026-05-01-D002/C3_R3.md,C3,R3,1565
+Quartz,comparing/authoring_results/run-2026-05-01-D002/C4_R3.md,C4,R3,1770
+Ivory,comparing/authoring_results/run-2026-05-01-D002/C5_R3.md,C5,R3,1691

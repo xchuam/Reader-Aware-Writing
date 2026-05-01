@@ -1,0 +1,9 @@
+# Authoring CODEX_HOME Manifest: run-2026-05-01-D003
+
+| Condition | CODEX_HOME | Installed user skills | Skill source/snapshot |
+|---|---|---|---|
+| C1 | `/home/vscode/.codex-benchmark/run-2026-05-01-D003/C1` | reader-aware-writing | skills/reader-aware-writing/ working tree; git_head 97c06ad26991c68060a4094b6fbd63cb5ed4a671; tree_sha256 b3ade6b38356ddf5fe16b139a8ee13d371e1017e789e2aa39feac5031d352f65 |
+| C2 | `/home/vscode/.codex-benchmark/run-2026-05-01-D003/C2` | none | no user writing skill installed |
+| C3 | `/home/vscode/.codex-benchmark/run-2026-05-01-D003/C3` | scientific-writing | comparing/skill_snapshots/C3_smithery_scientific_writing; tree_sha256 cf4c35607ffc8f5e1c57b447f201b941ce1597fb26ff69aa36821dbab1726332 |
+| C4 | `/home/vscode/.codex-benchmark/run-2026-05-01-D003/C4` | scientific-writing | comparing/skill_snapshots/C4_ovachiever_scientific_writing; tree_sha256 faac0c616485479b7b0c9698541b17f6e82c0d6f10842849f7c1e5113d095b7a |
+| C5 | `/home/vscode/.codex-benchmark/run-2026-05-01-D003/C5` | academic-writing-standards | comparing/skill_snapshots/C5_academic_writing_standards; tree_sha256 0b92cea6eef9b58fa57ee01f5cc72605f43e55d1404c2b95eadcdd38b17728f7 |

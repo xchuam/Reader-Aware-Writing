@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_81e599fed7	Amber	Fjord	Amber	Amber is slightly more cohesive and better integrated while preserving the same core fidelity and uncertainty limits.
+E1	packet_81e599fed7	Amber	Juniper	Juniper	Juniper is more complete and has stronger formal article architecture without losing precision.
+E1	packet_81e599fed7	Amber	Ridge	Amber	Amber has clearer scientific article structure and stronger reader orientation while remaining equally faithful.
+E1	packet_81e599fed7	Amber	Tundra	Amber	Amber is more polished and avoids the somewhat artificial Methods reconstruction in Tundra.
+E1	packet_81e599fed7	Fjord	Juniper	Juniper	Juniper covers the dossier more fully and integrates caveats and disease associations more thoroughly.
+E1	packet_81e599fed7	Fjord	Ridge	Fjord	Fjord has stronger sectioned article structure and comparable scientific accuracy.
+E1	packet_81e599fed7	Fjord	Tundra	Fjord	Fjord is a cleaner article and has slightly better constraint fit despite similar fidelity.
+E1	packet_81e599fed7	Juniper	Ridge	Juniper	Juniper is more complete and much better organized as a scientific article.
+E1	packet_81e599fed7	Juniper	Tundra	Juniper	Juniper has stronger structure, fuller integration and more precise uncertainty handling.
+E1	packet_81e599fed7	Ridge	Tundra	Tundra	Tundra is more complete and formally structured, despite a small penalty for its Methods framing.

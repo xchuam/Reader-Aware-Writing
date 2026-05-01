@@ -1,0 +1,7 @@
+Done. I saved the three required files:
+
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_17ba1bd0a7.md`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_17ba1bd0a7_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_17ba1bd0a7_pairwise.tsv`
+
+Validation passed: score table has 5 rows with correct totals, pairwise table has 10 rows, and both TSVs have the required field counts.

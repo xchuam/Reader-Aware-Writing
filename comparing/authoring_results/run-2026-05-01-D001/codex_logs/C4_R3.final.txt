@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[ C4_R3.md ](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D001/C4_R3.md)
+
+Verified word count is 1719 words including the metadata block, with no References section and no external sources used.

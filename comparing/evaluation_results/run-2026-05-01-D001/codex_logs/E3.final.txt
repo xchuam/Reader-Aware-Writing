@@ -1,0 +1,8 @@
+Done.
+
+Created and validated:
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E3.md`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E3_scores.tsv`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E3_pairwise.tsv`
+
+Validation passed: score TSV has the required header and 15 rows; pairwise TSV has the required header and 105 rows; score totals match dimension sums.

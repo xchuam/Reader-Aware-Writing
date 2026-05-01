@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_014181e57a	Ivory	20	15	15	19	15	9	5	98	1	Most complete and best calibrated article, preserving isoform specificity, mechanism, lineage context, and uncertainty without unsupported disease or repair claims.
+E1	packet_014181e57a	Quartz	20	14	15	19	14	9	5	96	2	Highly faithful and well structured, with excellent coverage of mechanism and limits, though the formal Methods reconstruction is slightly less natural.
+E1	packet_014181e57a	Summit	19	13	14	19	15	9	5	94	3	Concise and accurate synthesis with strong uncertainty handling, but somewhat less complete in article scaffolding and methodological orientation.
+E1	packet_014181e57a	Meadow	19	14	14	18	14	9	5	93	4	Accurate and readable account of the main biology, with only minor compression and slightly broader framing reducing precision.
+E1	packet_014181e57a	Lantern	19	11	14	18	14	9	4	89	5	Scientifically rich and fluent but less compliant with scientific article structure and somewhat more interpretive in framing.

@@ -1,0 +1,8 @@
+Done.
+
+Created and verified:
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_c11b2acb3f.md`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_c11b2acb3f_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_c11b2acb3f_pairwise.tsv`
+
+Validation passed: 5 score rows, 10 pairwise rows, correct field counts, and all total scores match dimension sums.

@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_8f2288ad73	Lantern	Meadow	Lantern	Lantern is marginally more cohesive and narratively balanced while matching Meadow on fidelity and caveats.
+E1	packet_8f2288ad73	Lantern	Quartz	Lantern	Lantern provides fuller context and slightly better reader orientation while preserving the same uncertainty boundaries.
+E1	packet_8f2288ad73	Lantern	Ivory	Lantern	Lantern is more complete and more consistently nuanced about mechanism, organoid limits and disease associations.
+E1	packet_8f2288ad73	Lantern	Summit	Lantern	Lantern covers the dossier more fully and gives clearer section-level guidance without sacrificing readability.
+E1	packet_8f2288ad73	Meadow	Quartz	Meadow	Meadow gives somewhat stronger experimental orientation and more complete coverage of methods and results.
+E1	packet_8f2288ad73	Meadow	Ivory	Meadow	Meadow is more comprehensive and better organized around the full experimental chain.
+E1	packet_8f2288ad73	Meadow	Summit	Meadow	Meadow offers fuller coverage and stronger reader scaffolding, though Summit is also polished and accurate.
+E1	packet_8f2288ad73	Quartz	Ivory	Quartz	Quartz is comparably readable but more complete and more careful in its uncertainty framing.
+E1	packet_8f2288ad73	Quartz	Summit	Quartz	Quartz has slightly better sectioning and coverage of the dossier while retaining strong style.
+E1	packet_8f2288ad73	Ivory	Summit	Summit	Summit is more cohesive and slightly more complete, with more precise handling of evidence limits.

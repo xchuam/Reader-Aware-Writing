@@ -1,0 +1,2 @@
+run_id,dossier_id,evaluator_id,article_id,condition_id,replicate_id,scientific_fidelity_20,article_structure_15,reader_orientation_15,cohesion_coherence_20,evidence_uncertainty_15,style_readability_10,constraint_following_5,total_100,pairwise_wins,pairwise_losses,overall_rank,evaluator_notes
+TBD,TBD,E1,Article_A,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD

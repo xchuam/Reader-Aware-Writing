@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_2b4a406b49	Vale	20	15	15	19	15	9	4	97	1	Most complete and best organized synthesis, with excellent isoform specificity, mechanistic coverage, quantitative detail, and cautious handling of organoid and disease claims.
+E1	packet_2b4a406b49	Dawn	19	14	15	19	15	9	4	95	2	Highly faithful and well oriented article that clearly connects DVL binding, CASP5C catalysis, APC cleavage, and organoid phenotypes while avoiding overclaiming.
+E1	packet_2b4a406b49	Granite	19	14	14	18	15	9	4	93	3	Accurate and concise account with strong mechanism and uncertainty handling, though slightly less fully oriented and less integrated than the top two.
+E1	packet_2b4a406b49	Zephyr	19	14	14	18	14	9	4	92	4	Polished and coherent article with careful boundaries, but it is somewhat less complete on quantitative transcript details and places disease associations less cleanly.
+E1	packet_2b4a406b49	Ember	18	13	14	17	14	9	4	89	5	Faithful and readable summary of the core story, but it is more compressed and structurally less developed than the other submissions.

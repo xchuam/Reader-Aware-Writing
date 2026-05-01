@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_6da0b5da8f	Tundra	20	15	15	19	15	9	5	98	1	Most complete and well-structured reconstruction, with excellent fidelity to isoform specificity, APC cleavage nuance, organoid limits, and associative disease claims.
+E1	packet_6da0b5da8f	Juniper	20	14	15	19	15	9	5	97	2	Highly faithful and very clear, especially on uncertainty and limitations, though slightly less explicitly scaffolded than the strongest article.
+E1	packet_6da0b5da8f	Fjord	19	14	14	19	15	9	5	95	3	Polished and cohesive with careful caveats, but a bit less complete in orientation and methodological framing than the top two.
+E1	packet_6da0b5da8f	Amber	19	13	14	18	14	9	5	92	4	Accurate and readable with good mechanistic coverage, but the late methods summary and compressed framing make it somewhat less effective structurally.
+E1	packet_6da0b5da8f	Ridge	18	13	14	18	14	9	5	91	5	Faithful and clear overall, but comparatively less precise in a few phrasings and more sectional than fully synthesized.

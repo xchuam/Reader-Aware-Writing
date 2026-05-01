@@ -66,3 +66,17 @@ Before returning the result:
 5. If you changed strategy, mention the reader-specific reason in one concise note.
 6. For scientific text, verify that no data, citations, methods, mechanisms, or conclusions were invented during revision.
 7. For generated scientific articles, silently confirm coherence, no unexplained novelty, old-to-new flow, and one-reader-question-per-paragraph.
+8. For generated scientific articles, silently run the reader contract, paragraph-question path, claim ladder, and paragraph gates. If the user requested an audit, provide a compact table with paragraph ID, reader question, orienting sentence, bridge need, evidence/interpretation status, and exit handoff.
+
+## Optional Benchmark Audit
+
+When the user explicitly asks to make reader-aware behavior testable, save or return a compact audit table separate from the final article. Do not include this table in a publication-ready article unless requested.
+
+| Field | Test |
+|---|---|
+| `paragraph_id` | Stable paragraph number or section label. |
+| `reader_question` | The one reader question this paragraph answers. |
+| `orienting_sentence` | The sentence that tells the reader why the paragraph exists. |
+| `new_concept_bridge` | Any bridge needed before a new term, method, mechanism, or implication. |
+| `claim_strength` | Observation, result, mechanistic evidence, model-supported interpretation, implication, speculation, or forbidden upgrade removed. |
+| `exit_handoff` | How the paragraph prepares the next reader question or closes the local point. |

@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_9a2f8edd82	Summit	20	15	15	20	15	9	5	99	1	Near-complete and carefully bounded synthesis with excellent structure, only slightly dense in places.
+E1	packet_9a2f8edd82	Meadow	20	15	15	19	15	9	5	98	2	Highly faithful, well organized and cautious, with only marginally less synthesis than the top article.
+E1	packet_9a2f8edd82	Ivory	20	15	14	19	15	9	5	97	3	Very accurate and clear with strong limitation handling, though a bit more report-like and less synthesized.
+E1	packet_9a2f8edd82	Lantern	19	13	14	19	15	9	5	94	4	Scientifically strong and nuanced but less scannable because it lacks internal section structure.
+E1	packet_9a2f8edd82	Quartz	19	14	14	18	14	8	5	92	5	Accurate and complete overall, but the reconstructed Methods framing and a few broader contextual phrases reduce precision.

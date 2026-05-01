@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_c11b2acb3f	Dawn	20	15	15	20	15	9	5	99	1	Most complete and best calibrated synthesis, preserving the mechanistic, organoid, isoform-specific, and disease-association limits with excellent structure.
+E1	packet_c11b2acb3f	Granite	19	15	15	19	15	9	5	97	2	Highly faithful and well organized, with strong uncertainty handling and only minor loss of integrative completeness compared with Dawn.
+E1	packet_c11b2acb3f	Vale	19	14	14	18	15	9	5	94	3	Faithful and detailed with good caveats, though slightly less polished and less smoothly synthesized than the top two.
+E1	packet_c11b2acb3f	Zephyr	18	13	14	18	15	9	5	92	4	Clear and cautious article that captures the main claims but compresses or omits some quantitative and structural detail.
+E1	packet_c11b2acb3f	Ember	18	12	13	17	15	8	5	88	5	Accurate and readable but less complete and less polished, with weaker navigability and some missing dossier details.

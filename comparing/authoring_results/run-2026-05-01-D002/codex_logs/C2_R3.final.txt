@@ -1,0 +1,5 @@
+Saved the drafted article to:
+
+[comparing/authoring_results/run-2026-05-01-D002/C2_R3.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C2_R3.md)
+
+Verification: required metadata block is present, and the file is 1,554 words by `wc -w`, within the requested 1,500-1,800 range.

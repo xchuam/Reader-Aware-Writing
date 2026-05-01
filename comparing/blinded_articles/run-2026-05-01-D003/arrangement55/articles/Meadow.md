@@ -1,0 +1,59 @@
+# Caspase 5c amplifies epithelial Wnt signalling through APC cleavage
+
+## Abstract
+
+Inflammatory caspases are best known for innate immune responses, but the functions of human caspase 5 have remained unclear. CASP5 is related to CASP4 and mouse caspase 11, yet human CASP4 more closely resembled caspase 11 in sequence, phylogeny and activity in the tested noncanonical inflammasome response to cytosolic lipopolysaccharide and bacteria. CASP5 did not perform this dominant inflammasome function in human intestinal epithelial cells or macrophages, suggesting a distinct role. Here, evidence from human intestinal organoids and cell-based assays identifies the CARD-less CASP5C isoform as a regulator of Wnt/beta-catenin signalling. CASP5 expression was enriched in intestinal tissues and epithelial populations, and organoids expressed CASP5A, CASP5B and CASP5C. Proximity labelling and co-immunoprecipitation linked CASP5 isoforms to DVL proteins. Among the isoforms tested, CASP5C selectively increased Wnt reporter activity, induced Wnt target genes, promoted beta-catenin redistribution and supported organoid growth. Mechanistically, CASP5C required catalytic activity and cleaved APC, including at a major site around D556, thereby weakening destruction-complex assembly and reducing beta-catenin ubiquitination. CASP5A and CASP5B did not activate Wnt signalling in the same way and could compete with CASP5C for DVL2. These findings support a model in which CASP5C acts as an epithelial amplifier of Wnt signalling during intestinal homeostasis and repair-associated states.
+
+## Introduction
+
+Human inflammatory caspases connect microbial sensing to inflammatory and epithelial responses. CASP4 and CASP5 are both related to mouse caspase 11, but their individual activities have been difficult to separate. In tests of the noncanonical inflammasome pathway, CASP4 behaved as the closer human counterpart of mouse caspase 11 and was the principal mediator of responses to cytosolic lipopolysaccharide and bacteria. CASP5 did not substitute for CASP4, suggesting that its main biological role may lie outside the canonical view of inflammatory caspase function.
+
+Several observations pointed toward the intestine as a setting in which CASP5 might have a specialized role. CASP5 expression was concentrated in the intestinal tract and appendix and was detected in epithelial cells and some monocyte and macrophage populations. In colonic organoids, CASP5 was expressed at higher levels than CASP4, CASP1 and PYCARD when compared with macrophages, whereas CASP4 showed a broader pattern. CASP5 expression increased after Salmonella infection or interferon-beta and interferon-gamma exposure. Lipopolysaccharide alone had little effect in epithelium, consistent with low epithelial TLR4 expression.
+
+The intestinal epithelium depends on Wnt/beta-catenin signalling for development, stem-cell renewal, repair and differentiation. Wnt pathway activity is coordinated by receptors, DVL proteins and the beta-catenin destruction complex, in which APC acts as a scaffold and tumour suppressor. The work summarized here identifies CASP5C as a Wnt amplifier in human intestinal epithelial models.
+
+## CASP5 isoforms in intestinal epithelium
+
+Human colon and small-intestinal organoids expressed three CASP5 isoforms: CASP5A, CASP5B and CASP5C, with approximate predicted sizes of 49.7, 43.2 and 33.3 kDa. CASP5B lacks part of the CARD region, whereas CASP5C lacks the CARD altogether. Knockdown experiments supported the conclusion that CASP5C is not merely a cleavage product of CASP5A or CASP5B.
+
+The isoforms also differed in epithelial localization. Total CASP5 transcripts were nearly absent from LGR5-positive stem cells, higher in transit-amplifying cells and highest in enterocytes in one single-cell analysis. Isoform-resolved patterns refined this view: CASP5C was deeper in crypt-like regions and overlapped more with MKI67 and AXIN2, whereas CASP5A and CASP5B were more luminal and associated with differentiated CK20-positive cells. Pseudotime and deconvolution analyses connected CASP5C with early-lineage or transit-amplifying states and CASP5A/B with mature or differentiating states. During differentiation after Wnt withdrawal, CASP5C peaked early with MKI67, while CASP5A and CASP5B rose later with differentiation markers.
+
+## CASP5C engages DVL and activates Wnt signalling
+
+BioID2 proximity labelling in human colonic organoids detected DVL1, DVL2 and DVL3 near CASP5, and Wnt-related terms were enriched in the interactor analysis. Co-immunoprecipitation confirmed that CASP5 isoforms associated with DVL1, DVL2 and DVL3. DVL2-containing complexes also included AXIN1 and beta-catenin, placing the CASP5 interaction near core Wnt machinery. The interaction involved the DVL DEP domain and the CASP5 catalytic domain, although direct binding was not fully established.
+
+Functional assays distinguished CASP5C from the other isoforms. In TOPFlash reporter assays in HEK293T and HCT116 cells, CASP5C increased Wnt reporter activity with and without WNT3A. CASP5A, CASP5B, CASP1 and CASP4 did not. CASP5C also increased AXIN2 and TCF7 and shifted beta-catenin into nuclear and cytosolic fractions. In organoids, CASP5C, but not CASP5A or CASP5B, increased Wnt reporter activity.
+
+CASP5A and CASP5B were not inert. Rather than activating Wnt signalling, they could compete with CASP5C for DVL2 and reduce its effect. Knockdown of CASP5A and CASP5B while retaining CASP5C increased Wnt reporter activity, organoid size, ATP levels, EdU incorporation and Ki-67 positivity. When CASP5C was also knocked down, these increases were reversed. These results support a competition model in which CASP5A and CASP5B restrain CASP5C.
+
+The CARD-less structure of CASP5C was important. CASP5C showed higher enzymatic activity than CASP5A or CASP5B, and the catalytic mutant CASP5C(C173A) lost Wnt reporter activation and beta-catenin effects. Removing the CARD from CASP5A or CASP5B increased their activity and conferred stronger Wnt reporter signalling. Tested CARD-less forms of mouse caspase 11 did not reproduce the CASP5C Wnt effect, suggesting a possible primate CASP5 specialization rather than a generic CARD-less caspase property.
+
+## APC cleavage links CASP5C activity to beta-catenin stabilization
+
+The mechanism connecting CASP5C to Wnt activation centred on the beta-catenin destruction complex. After Wnt stimulation, CASP5C reduced DVL2, beta-catenin, phospho-beta-catenin, APC and beta-TrCP in AXIN1-containing complexes. CASP5C also reduced beta-catenin ubiquitination, consistent with weakened destruction-complex function.
+
+APC emerged as a direct CASP5C substrate. Predicted CASP5 cleavage sites were mainly in the N-terminal region of APC. CASP5C produced APC cleavage products in cells, whereas CASP5A, CASP5B and catalytically inactive CASP5C(C173A) did not. Recombinant CASP5C directly cleaved truncated APC in vitro. Mutation of APC D556 removed the major cleavage products, identifying D556 as a primary site, although other APC cleavage events may also contribute.
+
+The importance of APC cleavage was tested in APC-knockout HEK293T cells. Reintroduction of wild-type APC allowed CASP5C to disrupt complex assembly and increase Wnt reporter activity, whereas APC(D556A) weakened these effects. APC fragments resembling cleavage products reduced beta-catenin association with the destruction complex and increased reporter activity. Together, these data support a model in which CASP5C binds near DVL-containing complexes and cleaves APC, reducing beta-catenin ubiquitination and amplifying Wnt output.
+
+## Effects in human intestinal organoids
+
+The Wnt-amplifying activity of CASP5C had measurable effects on human intestinal organoids. CASP5C increased viable cell numbers, produced organoids approximately 40% larger than controls, increased Ki-67 and EdU positivity, and reduced CK20-positive enterocytes. Marker analysis showed increases in AXIN2 by about threefold, TCF7 by 1.4-fold, MYC by 1.3-fold, LGR5 by 1.2-fold and MKI67 by 2.4-fold. Differentiation-associated genes declined, with ALPI reduced by about 57% and MUC2 by about 53%.
+
+CASP5C-expressing organoids also tolerated Wnt withdrawal better than controls and re-entered the cell cycle after Wnt was restored. In irradiated human colonic organoids, CASP5C transcript increased 42.4-fold within 24 hours, compared with 5.6-fold for CASP5A and 6.6-fold for CASP5B. CASP5C-expressing organoids then showed faster induction of LGR5, OLFM4, TCF7 and MYC. These findings are compatible with repair-associated epithelial states, although they do not prove that CASP5C drives repair in vivo.
+
+The organoid data connect the biochemical mechanism to epithelial behaviour. CASP5C was sufficient to increase Wnt output, promote proliferative markers and delay differentiation-associated features. CASP5A and CASP5B did not share this activity and instead could limit it through competition for DVL2.
+
+## Disease associations and implications
+
+The disease-related observations were associative. CASP5 and CASP4 were increased in ulcerative colitis datasets while retaining their cell-type patterns. In colon and rectal cancer analyses, CASP5 mutations occurred in roughly 3% of cases, similar to AXIN1. CASP5 mutations tended to co-occur with Wnt-pathway mutations but were reported as mutually exclusive with APC mutations. In microsatellite instability-high colorectal cancer, CASP5 mutations were reported more often than APC mutations in one comparison, approximately 68% versus 17%. These observations raise hypotheses about epithelial inflammation and Wnt dysregulation, but they do not establish that CASP5C causes inflammatory bowel disease or colorectal cancer, nor do they validate CASP5C as a therapeutic target.
+
+## Discussion
+
+This work reframes human CASP5 as more than a weaker counterpart of CASP4. CASP4 behaved as the principal human inflammatory caspase in the tested noncanonical inflammasome response, whereas CASP5 showed a distinct epithelial pattern. Within CASP5, isoform structure determined function. CASP5C, the CARD-less isoform, had higher catalytic activity, associated with DVL-containing Wnt complexes, cleaved APC and amplified beta-catenin-dependent transcription. CASP5A and CASP5B did not simply share this activity; they could antagonize it by competing for DVL2.
+
+The resulting model links inflammatory-caspase diversification to intestinal epithelial homeostasis. CASP5C is induced by infection-associated and injury-associated cues, enriched in proliferative or early-lineage epithelial states, and capable of strengthening Wnt output through APC proteolysis. At the same time, the data argue for isoform-specific language. It would be misleading to state that CASP5 as a whole promotes Wnt signalling, because CASP5A and CASP5B can restrain the CASP5C effect.
+
+Several limitations remain important. Direct binding between CASP5C and DVL proteins was suggested but not fully proven. APC D556 was a major cleavage site, but additional sites may contribute. Organoid findings support effects on epithelial growth, differentiation markers and recovery-associated responses, but in vivo repair functions in humans remain inferential. Disease datasets provide associations rather than causation.
+
+Even with these constraints, the central conclusion is clear. CASP5C is a specialized human CASP5 isoform that amplifies Wnt/beta-catenin signalling by cleaving APC and weakening the destruction complex. This activity distinguishes it from CASP4, CASP1 and other CASP5 isoforms and suggests that inflammatory caspase diversification can influence epithelial pathways central to intestinal homeostasis.

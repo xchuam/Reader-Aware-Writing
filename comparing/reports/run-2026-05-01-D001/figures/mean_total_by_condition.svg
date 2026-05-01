@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="30.0" font-size="20" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Mean total score by condition</text>
+<line x1="90" y1="380.0" x2="865" y2="380.0" stroke="#e6e6e6"/>
+<text x="78.0" y="384.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">0</text>
+<line x1="90" y1="315.0" x2="865" y2="315.0" stroke="#e6e6e6"/>
+<text x="78.0" y="319.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">20</text>
+<line x1="90" y1="250.0" x2="865" y2="250.0" stroke="#e6e6e6"/>
+<text x="78.0" y="254.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">40</text>
+<line x1="90" y1="185.0" x2="865" y2="185.0" stroke="#e6e6e6"/>
+<text x="78.0" y="189.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">60</text>
+<line x1="90" y1="120.0" x2="865" y2="120.0" stroke="#e6e6e6"/>
+<text x="78.0" y="124.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">80</text>
+<line x1="90" y1="55.0" x2="865" y2="55.0" stroke="#e6e6e6"/>
+<text x="78.0" y="59.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="end">100</text>
+<line x1="90" y1="55" x2="90" y2="380" stroke="#333"/>
+<line x1="90" y1="380" x2="865" y2="380" stroke="#333"/>
+<rect x="122.6" y="78.5" width="89.9" height="301.5" fill="#3465a4"/>
+<line x1="167.5" y1="66.4" x2="167.5" y2="90.5" stroke="#222" stroke-width="2"/>
+<line x1="159.5" y1="66.4" x2="175.5" y2="66.4" stroke="#222" stroke-width="2"/>
+<line x1="159.5" y1="90.5" x2="175.5" y2="90.5" stroke="#222" stroke-width="2"/>
+<text x="167.5" y="70.5" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">92.8</text>
+<text x="167.5" y="415.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C1</text>
+<text x="167.5" y="435.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Reader-aware</text>
+<rect x="277.6" y="80.3" width="89.9" height="299.7" fill="#7a7a7a"/>
+<line x1="322.5" y1="66.3" x2="322.5" y2="94.2" stroke="#222" stroke-width="2"/>
+<line x1="314.5" y1="66.3" x2="330.5" y2="66.3" stroke="#222" stroke-width="2"/>
+<line x1="314.5" y1="94.2" x2="330.5" y2="94.2" stroke="#222" stroke-width="2"/>
+<text x="322.5" y="72.3" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">92.2</text>
+<text x="322.5" y="415.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C2</text>
+<text x="322.5" y="435.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">No skill</text>
+<rect x="432.6" y="81.7" width="89.9" height="298.3" fill="#2f8f83"/>
+<line x1="477.5" y1="68.1" x2="477.5" y2="95.3" stroke="#222" stroke-width="2"/>
+<line x1="469.5" y1="68.1" x2="485.5" y2="68.1" stroke="#222" stroke-width="2"/>
+<line x1="469.5" y1="95.3" x2="485.5" y2="95.3" stroke="#222" stroke-width="2"/>
+<text x="477.5" y="73.7" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">91.8</text>
+<text x="477.5" y="415.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C3</text>
+<text x="477.5" y="435.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Sci-writing A</text>
+<rect x="587.5" y="83.9" width="89.9" height="296.1" fill="#c07a2b"/>
+<line x1="632.5" y1="71.2" x2="632.5" y2="96.6" stroke="#222" stroke-width="2"/>
+<line x1="624.5" y1="71.2" x2="640.5" y2="71.2" stroke="#222" stroke-width="2"/>
+<line x1="624.5" y1="96.6" x2="640.5" y2="96.6" stroke="#222" stroke-width="2"/>
+<text x="632.5" y="75.9" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">91.1</text>
+<text x="632.5" y="415.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C4</text>
+<text x="632.5" y="435.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Sci-writing B</text>
+<rect x="742.5" y="98.7" width="89.9" height="281.3" fill="#8e5aa9"/>
+<line x1="787.5" y1="83.7" x2="787.5" y2="113.7" stroke="#222" stroke-width="2"/>
+<line x1="779.5" y1="83.7" x2="795.5" y2="83.7" stroke="#222" stroke-width="2"/>
+<line x1="779.5" y1="113.7" x2="795.5" y2="113.7" stroke="#222" stroke-width="2"/>
+<text x="787.5" y="90.7" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">86.6</text>
+<text x="787.5" y="415.0" font-size="12" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">C5</text>
+<text x="787.5" y="435.0" font-size="11" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Academic std.</text>
+<text x="25.0" y="217.5" font-size="13" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">Score out of 100</text>
+</svg>

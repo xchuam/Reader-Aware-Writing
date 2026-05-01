@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_8f2288ad73	Lantern	20	15	15	20	15	10	5	100	1	Most complete and balanced article with excellent mechanistic flow and consistently precise caveats.
+E1	packet_8f2288ad73	Meadow	20	15	15	19	15	9	5	98	2	Highly faithful and well oriented with strong experimental organization, though slightly more list-like in presentation.
+E1	packet_8f2288ad73	Quartz	19	15	14	19	15	10	5	97	3	Very clear and accurate synthesis with strong caveats, missing only a little of the depth and orientation of the top two.
+E1	packet_8f2288ad73	Summit	19	14	14	19	15	10	5	96	4	Polished and faithful with a strong mechanism-first narrative, but somewhat more compressed in coverage and setup.
+E1	packet_8f2288ad73	Ivory	19	14	14	18	14	10	5	94	5	Readable and accurate overall, but less complete and slightly less nuanced in a few biological implications.

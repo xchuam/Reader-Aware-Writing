@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[ C1_R3.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D001/C1_R3.md)
+
+Verification: article body is 1,779 words, includes the required metadata block, omits References, and stays within the dossier constraints.

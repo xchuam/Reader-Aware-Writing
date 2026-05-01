@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_014181e57a	Ivory	Quartz	Ivory	Ivory is slightly more natural and better calibrated while matching Quartz on core fidelity and preserving all key uncertainty limits.
+E1	packet_014181e57a	Ivory	Summit	Ivory	Ivory provides fuller coverage of methods, lineage data, organoid phenotypes, and disease associations while remaining equally cautious.
+E1	packet_014181e57a	Ivory	Lantern	Ivory	Ivory has stronger scientific article structure and less interpretive drift while retaining the same key mechanistic content.
+E1	packet_014181e57a	Ivory	Meadow	Ivory	Ivory is more complete and precise, especially on mechanistic uncertainty and the evidence boundaries around repair and disease.
+E1	packet_014181e57a	Quartz	Summit	Quartz	Quartz gives a more complete article-like reconstruction with abstract, methods, results, and discussion while maintaining high fidelity.
+E1	packet_014181e57a	Quartz	Lantern	Quartz	Quartz is better structured and more constraint-aligned, whereas Lantern is a long narrative with somewhat more interpretive language.
+E1	packet_014181e57a	Quartz	Meadow	Quartz	Quartz covers the dossier more comprehensively and marks uncertainty at least as well as Meadow.
+E1	packet_014181e57a	Summit	Lantern	Summit	Summit is more concise and structurally controlled while preserving the major mechanistic and uncertainty points.
+E1	packet_014181e57a	Summit	Meadow	Summit	Summit is slightly stronger on evidentiary boundaries and avoiding overstatement, despite Meadow's solid structure.
+E1	packet_014181e57a	Lantern	Meadow	Meadow	Meadow follows a clearer scientific article structure and is more constraint-aligned, while Lantern reads more like an interpretive review essay.

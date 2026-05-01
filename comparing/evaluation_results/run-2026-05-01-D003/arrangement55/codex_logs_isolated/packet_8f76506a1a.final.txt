@@ -1,0 +1,7 @@
+Done. I saved all three required files:
+
+- [packet_8f76506a1a.md](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8f76506a1a/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8f76506a1a.md)
+- [packet_8f76506a1a_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8f76506a1a/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8f76506a1a_scores.tsv)
+- [packet_8f76506a1a_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8f76506a1a/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8f76506a1a_pairwise.tsv)
+
+Validation passed: score table has 5 rows with 13 fields each, totals match dimension sums, and pairwise table has all 10 unordered pairs with 6 fields each.

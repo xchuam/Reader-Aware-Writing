@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_b01a49a839	Dawn	Ember	Ember	Ember is more complete and better sectioned, while Dawn has a few mild overstatements about primate association and delayed differentiation.
+E1	packet_b01a49a839	Dawn	Granite	Dawn	Dawn gives fuller reader orientation and more complete disease and organoid context, despite slightly stronger wording in places.
+E1	packet_b01a49a839	Dawn	Vale	Vale	Vale is similarly clear but handles uncertainty and isoform-specific claims a little more precisely.
+E1	packet_b01a49a839	Dawn	Zephyr	Zephyr	Zephyr is more comprehensive and better calibrated around repair, evolution, and disease associations.
+E1	packet_b01a49a839	Ember	Granite	Ember	Ember has stronger article structure, fuller dossier coverage, and better integration of mechanism and disease caveats.
+E1	packet_b01a49a839	Ember	Vale	Ember	Ember is slightly more complete and more strongly organized, especially in the mechanistic and expression-state sections.
+E1	packet_b01a49a839	Ember	Zephyr	Zephyr	Zephyr is a little tighter and more consistently calibrated, while Ember is slightly bulkier and more review-like.
+E1	packet_b01a49a839	Granite	Vale	Vale	Vale provides stronger orientation and smoother synthesis without the extraneous methods-summary element.
+E1	packet_b01a49a839	Granite	Zephyr	Zephyr	Zephyr is more complete, more cohesive, and clearer about the limits of organoid and disease evidence.
+E1	packet_b01a49a839	Vale	Zephyr	Zephyr	Zephyr has marginally better synthesis and uncertainty handling while maintaining equally broad scientific coverage.

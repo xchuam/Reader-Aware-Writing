@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_919bf1e39e	Vale	20	14	15	20	15	10	4	98	1	Most complete and nuanced account, with excellent mechanistic fidelity and uncertainty handling, though likely longer than the target.
+E1	packet_919bf1e39e	Dawn	19	15	15	19	15	9	5	97	2	Clean IMRaD structure and strong fidelity with only minor compression and slightly less narrative polish than Vale.
+E1	packet_919bf1e39e	Granite	19	15	14	19	15	9	5	96	3	Highly accurate and well structured, with clear limitations, but a little less orienting and integrative than the top two.
+E1	packet_919bf1e39e	Zephyr	18	14	14	18	14	9	5	92	4	Accurate and cohesive overall, but less complete on disease-context details and slightly stronger in some framing than the dossier warrants.
+E1	packet_919bf1e39e	Ember	18	14	13	18	14	8	5	90	5	Faithful and mostly cautious, but choppier in style and occasionally more causal in wording than the supplied evidence supports.

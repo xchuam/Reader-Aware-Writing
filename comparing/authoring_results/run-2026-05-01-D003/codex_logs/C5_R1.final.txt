@@ -1,0 +1,5 @@
+Done. Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C5_R1.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C5_R1/comparing/authoring_results/run-2026-05-01-D003/C5_R1.md)
+
+Verified article body word count is 1,791 words, and article lines after the required metadata block are within the 80-character line limit.

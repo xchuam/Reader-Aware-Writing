@@ -1,0 +1,7 @@
+Done. I saved all required outputs:
+
+- [packet_7f8c76a2df.md](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df.md)
+- [packet_7f8c76a2df_scores.tsv](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df_scores.tsv)
+- [packet_7f8c76a2df_pairwise.tsv](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df_pairwise.tsv)
+
+I also verified the TSV schemas, row counts, field counts, and score totals.

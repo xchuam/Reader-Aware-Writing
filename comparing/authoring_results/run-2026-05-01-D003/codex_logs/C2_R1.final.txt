@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[comparing/authoring_results/run-2026-05-01-D003/C2_R1.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C2_R1/comparing/authoring_results/run-2026-05-01-D003/C2_R1.md)
+
+I verified the required metadata block is present and the article body is 1,548 words, within the 1,500-1,800 target.

@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_919bf1e39e	Vale	Dawn	Vale	Vale is slightly more complete and better integrates mechanistic nuance, while Dawn has stronger formal structure.
+E1	packet_919bf1e39e	Vale	Granite	Vale	Vale provides fuller reader orientation and captures more dossier nuance without losing coherence.
+E1	packet_919bf1e39e	Vale	Ember	Vale	Vale is more polished, more cohesive, and more careful in limiting organoid and disease claims.
+E1	packet_919bf1e39e	Vale	Zephyr	Vale	Vale covers the full evidence chain and disease caveats more completely than Zephyr.
+E1	packet_919bf1e39e	Dawn	Granite	Dawn	Dawn has comparable fidelity but a clearer scientific article structure and slightly stronger reader orientation.
+E1	packet_919bf1e39e	Dawn	Ember	Dawn	Dawn is more polished and systematic while preserving the same key mechanistic and uncertainty points.
+E1	packet_919bf1e39e	Dawn	Zephyr	Dawn	Dawn is more complete across methods, organoid phenotypes, isoform balance, and disease associations.
+E1	packet_919bf1e39e	Granite	Ember	Granite	Granite is more cohesive and explicit about limitations, with fewer slightly over-causal formulations.
+E1	packet_919bf1e39e	Granite	Zephyr	Granite	Granite is somewhat more complete and better preserves the quantitative and disease-association details.
+E1	packet_919bf1e39e	Ember	Zephyr	Zephyr	Zephyr is smoother and more cohesive, though Ember includes some details that Zephyr compresses.

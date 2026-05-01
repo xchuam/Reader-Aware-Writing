@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_561af11b5e	Summit	Lantern	Summit	Summit is more comprehensive and slightly more coherent mechanistically, though Lantern is more concise.
+E1	packet_561af11b5e	Summit	Meadow	Summit	Summit has stronger narrative integration, fuller caveats and more polished synthesis.
+E1	packet_561af11b5e	Summit	Quartz	Summit	Summit is more complete and natural as an article while preserving the same uncertainty boundaries.
+E1	packet_561af11b5e	Summit	Ivory	Summit	Summit provides fuller mechanistic detail and a more nuanced discussion of limits.
+E1	packet_561af11b5e	Lantern	Meadow	Lantern	Lantern has cleaner reader orientation and a stronger balance of detail, caveat and concision.
+E1	packet_561af11b5e	Lantern	Quartz	Lantern	Lantern reads more naturally and avoids the slightly artificial methods and reconstruction framing in Quartz.
+E1	packet_561af11b5e	Lantern	Ivory	Lantern	Lantern is more polished and more explicit about mechanistic uncertainty while remaining concise.
+E1	packet_561af11b5e	Meadow	Quartz	Quartz	Quartz has slightly stronger structure and limitation handling, despite similar fidelity.
+E1	packet_561af11b5e	Meadow	Ivory	Meadow	Meadow gives fuller mechanistic coverage and better integrates organoid and cleavage evidence.
+E1	packet_561af11b5e	Quartz	Ivory	Quartz	Quartz is more complete and more precise about uncertainty and disease-association limits.

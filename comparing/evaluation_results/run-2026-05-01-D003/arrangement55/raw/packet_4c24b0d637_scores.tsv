@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_4c24b0d637	Tundra	20	15	15	19	15	9	5	98	1	Most complete and precise article, with excellent isoform specificity, mechanism coverage, and uncertainty boundaries.
+E1	packet_4c24b0d637	Juniper	19	15	15	19	14	9	5	96	2	Highly faithful and clearly structured, with only minor loss of integration compared with the strongest entry.
+E1	packet_4c24b0d637	Amber	19	14	14	18	14	9	5	93	3	Concise, coherent, and well caveated, though somewhat less complete on methods and secondary details.
+E1	packet_4c24b0d637	Fjord	18	14	14	18	14	9	5	92	4	Accurate and organized coverage of the main findings, with slightly less nuance and synthesis than the top entries.
+E1	packet_4c24b0d637	Ridge	18	12	13	18	13	9	4	87	5	Scientifically sound and readable, but weaker as a structured scientific article and somewhat more interpretive.

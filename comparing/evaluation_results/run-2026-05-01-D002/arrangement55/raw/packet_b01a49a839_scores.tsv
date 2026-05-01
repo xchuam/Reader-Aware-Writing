@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_b01a49a839	Zephyr	19	14	14	19	15	9	5	95	1	Best balance of comprehensive dossier coverage, coherent mechanism-first synthesis, and careful uncertainty around repair, evolution, and disease claims.
+E1	packet_b01a49a839	Ember	19	15	14	18	14	9	5	94	2	Exceptionally complete and well structured, with only slight bulk and occasional review-like expansiveness reducing its edge over Zephyr.
+E1	packet_b01a49a839	Vale	18	14	14	18	14	9	5	92	3	Very faithful and clearly organized, though marginally less polished in synthesis and framing than the top two articles.
+E1	packet_b01a49a839	Dawn	18	14	13	18	13	9	5	90	4	Strong and coherent overall, but a few phrases slightly overstate tentative evolutionary and differentiation conclusions.
+E1	packet_b01a49a839	Granite	18	13	13	17	14	9	4	88	5	Scientifically sound and cautious, but more compressed, less smoothly integrated, and weakened by an extraneous methods-summary ending.

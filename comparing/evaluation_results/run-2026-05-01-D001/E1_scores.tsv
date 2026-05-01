@@ -1,0 +1,16 @@
+evaluator_id	article_id	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	Article_J	20	15	15	19	15	10	4	98	1	Most complete and balanced account, with strong reader orientation, complete mechanism, and appropriately cautious disease framing.
+E1	Article_E	20	15	15	19	14	10	4	97	2	Excellent structure and fidelity with a coherent mechanistic arc, though disease-associated findings are less fully integrated than in the strongest article.
+E1	Article_C	20	15	15	18	14	10	4	96	3	Highly faithful and clear, with strong methods-to-results progression and good caveats, but slightly less polished synthesis than the top two.
+E1	Article_L	20	15	15	18	13	10	4	95	4	Very readable and well oriented, with complete core mechanism, though some inferential boundaries are handled a little less sharply.
+E1	Article_G	20	15	14	18	13	10	4	94	5	Strong and concise mechanistic article that preserves key caveats, with slightly less reader scaffolding than higher-ranked versions.
+E1	Article_H	20	15	14	17	13	10	4	93	6	Faithful and well structured, but somewhat more compressed in methods and transitions than the leading articles.
+E1	Article_F	20	14	15	17	13	9	4	92	7	Accurate and reader-aware, with good definitions and caveats, but the article is less cohesive and less publication-polished in places.
+E1	Article_N	20	14	14	17	13	9	4	91	8	Accurate and cautious, but somewhat flatter in structure and less complete on disease and localization detail than stronger entries.
+E1	Article_O	20	14	14	17	12	9	4	90	9	Covers the main mechanism faithfully, but compresses several evidence strands and leaves uncertainty handling less developed.
+E1	Article_D	20	14	14	16	12	9	4	89	10	Scientifically faithful and clear, but the Wnt-first framing and compressed evidence progression weaken the research-story structure.
+E1	Article_M	20	14	14	16	11	9	4	88	11	Accurate and readable, but comparatively generic in evidence separation and caveat handling.
+E1	Article_K	20	14	13	16	11	9	4	87	12	Faithful and organized, but more summary-like, with less reader orientation and less complete treatment of uncertainty.
+E1	Article_B	20	14	13	15	11	9	4	86	13	Preserves the dossier well, but compresses results and tissue-disease evidence enough to reduce coherence and evidence discipline.
+E1	Article_I	19	14	13	15	10	9	4	84	14	Generally accurate, but more abbreviated and less disciplined about evidence boundaries, with several key details treated too lightly.
+E1	Article_A	19	13	13	15	10	9	4	83	15	Faithful in broad outline but comparatively sparse, with weaker structure, fewer key definitions, and less complete uncertainty treatment.

@@ -1,0 +1,6 @@
+Saved the article to [C1_R1.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C1_R1.md).
+
+Verified:
+- Metadata block is present at the top.
+- Article word count after metadata is ~1,772 words, within the 1,500-1,800 target.
+- No web or external sources used.

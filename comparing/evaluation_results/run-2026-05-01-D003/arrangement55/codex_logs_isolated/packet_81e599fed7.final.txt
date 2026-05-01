@@ -1,0 +1,7 @@
+Completed the evaluation files:
+
+- [packet_81e599fed7.md](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_81e599fed7/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_81e599fed7.md)
+- [packet_81e599fed7_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_81e599fed7/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_81e599fed7_scores.tsv)
+- [packet_81e599fed7_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_81e599fed7/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_81e599fed7_pairwise.tsv)
+
+Verified the TSVs have the required headers, 5 score rows, 10 pairwise rows, and score totals match their component scores.

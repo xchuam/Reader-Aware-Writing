@@ -1,0 +1,5 @@
+Saved the drafted scientific article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C4_R3.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C4_R3/comparing/authoring_results/run-2026-05-01-D003/C4_R3.md)
+
+Verified the metadata block is present and the file is 1,732 words, within the requested 1,500-1,800 word target.

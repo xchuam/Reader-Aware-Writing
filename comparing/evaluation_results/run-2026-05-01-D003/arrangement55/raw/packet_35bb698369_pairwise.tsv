@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_35bb698369	Zephyr	Vale	Vale	Vale matches Zephyr's fidelity while giving a tighter and more integrated synthesis.
+E1	packet_35bb698369	Zephyr	Dawn	Zephyr	Zephyr is more comprehensive and slightly more careful across the full dossier.
+E1	packet_35bb698369	Zephyr	Granite	Zephyr	Zephyr covers more of the evidence with stronger reader orientation and uncertainty handling.
+E1	packet_35bb698369	Zephyr	Ember	Zephyr	Zephyr is more complete, more polished, and more precise about the supported claims.
+E1	packet_35bb698369	Vale	Dawn	Vale	Vale has stronger cohesion and a clearer mechanistic through-line while preserving caution.
+E1	packet_35bb698369	Vale	Granite	Vale	Vale is more polished and better synthesizes the evidence rather than listing it.
+E1	packet_35bb698369	Vale	Ember	Vale	Vale is more scientifically precise and substantially stronger in structure and style.
+E1	packet_35bb698369	Dawn	Granite	Dawn	Dawn is slightly better organized and more reader-guided while maintaining similar fidelity.
+E1	packet_35bb698369	Dawn	Ember	Dawn	Dawn provides fuller coverage and more polished scientific framing.
+E1	packet_35bb698369	Granite	Ember	Granite	Granite is more conventionally structured and more precise in its caveats and mechanisms.

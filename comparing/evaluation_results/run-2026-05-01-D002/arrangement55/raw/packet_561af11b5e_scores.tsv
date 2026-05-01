@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_561af11b5e	Summit	20	15	15	20	15	9	3	97	1	Most complete and coherent article, with excellent caveats and mechanism coverage, though it exceeds the target length.
+E1	packet_561af11b5e	Lantern	20	14	15	19	15	9	4	96	2	Excellent fidelity and reader orientation with strong uncertainty handling and better concision than Summit.
+E1	packet_561af11b5e	Meadow	19	13	14	18	14	8	4	90	4	Accurate and complete, but its methods-style framing and slightly less polished flow make it weaker than the top entries.
+E1	packet_561af11b5e	Quartz	19	14	14	18	15	8	4	92	3	Highly faithful and well caveated, with strong structure but a somewhat artificial reconstruction-style framing.
+E1	packet_561af11b5e	Ivory	18	13	14	17	14	8	5	89	5	Concise and generally faithful, but less polished and slightly less nuanced than the stronger articles.

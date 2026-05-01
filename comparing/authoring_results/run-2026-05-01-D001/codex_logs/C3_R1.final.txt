@@ -1,0 +1,5 @@
+Done. I saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D001/C3_R1.md](/tmp/reader-aware-benchmark-work/run-2026-05-01-D001/comparing/authoring_results/run-2026-05-01-D001/C3_R1.md)
+
+Verification: article body is 1,792 words, includes the required metadata block and sections, and omits References as requested.

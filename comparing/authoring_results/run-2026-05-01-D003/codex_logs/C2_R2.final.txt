@@ -1,0 +1,5 @@
+Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C2_R2.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C2_R2/comparing/authoring_results/run-2026-05-01-D003/C2_R2.md)
+
+Verified the file exists and is 1,588 words including the metadata block, within the requested target range.

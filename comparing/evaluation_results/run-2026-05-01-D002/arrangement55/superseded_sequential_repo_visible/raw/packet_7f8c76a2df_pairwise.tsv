@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_7f8c76a2df	Ridge	Fjord	Ridge	Ridge has similarly high fidelity but gives readers a clearer section-by-section route through mechanism, organoid effects, cell states, disease associations, and discussion.
+E1	packet_7f8c76a2df	Ridge	Tundra	Ridge	Ridge is more polished and article-like, while Tundra's methods section is accurate but slightly less effective for reader-centered synthesis.
+E1	packet_7f8c76a2df	Ridge	Juniper	Ridge	Ridge offers stronger structure, smoother cohesion, and tighter evidence boundaries while covering the same core findings.
+E1	packet_7f8c76a2df	Ridge	Amber	Ridge	Ridge is more complete and better organized, with fewer compressed statements that risk overstating organoid evidence.
+E1	packet_7f8c76a2df	Fjord	Tundra	Fjord	Fjord is more elegant and reader-oriented, while Tundra is systematic but somewhat procedural in structure.
+E1	packet_7f8c76a2df	Fjord	Juniper	Fjord	Fjord maintains stronger cohesion and sharper discussion framing with comparable or better fidelity.
+E1	packet_7f8c76a2df	Fjord	Amber	Fjord	Fjord better stages the mechanistic and organoid evidence and handles limitations more consistently.
+E1	packet_7f8c76a2df	Tundra	Juniper	Tundra	Tundra is more complete and systematically organized, with slightly stronger coverage of the dossier's evidence.
+E1	packet_7f8c76a2df	Tundra	Amber	Tundra	Tundra provides a fuller and more careful account of the evidence, despite its somewhat formal methods-style section.
+E1	packet_7f8c76a2df	Juniper	Amber	Juniper	Juniper has a clearer mechanistic narrative and slightly sharper limitation language, whereas Amber's appended methods summary weakens the article shape.

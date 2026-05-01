@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_1cfba51daa	Ivory	Summit	Summit	Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability.
+E1	packet_1cfba51daa	Ivory	Lantern	Ivory	Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats.
+E1	packet_1cfba51daa	Ivory	Meadow	Ivory	Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
+E1	packet_1cfba51daa	Ivory	Quartz	Ivory	Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser.
+E1	packet_1cfba51daa	Summit	Lantern	Summit	Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
+E1	packet_1cfba51daa	Summit	Meadow	Summit	Summit is more polished, better integrated and clearer about the hierarchy of evidence.
+E1	packet_1cfba51daa	Summit	Quartz	Summit	Summit has the best overall balance of completeness, flow and uncertainty framing.
+E1	packet_1cfba51daa	Lantern	Meadow	Lantern	Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions.
+E1	packet_1cfba51daa	Lantern	Quartz	Quartz	Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
+E1	packet_1cfba51daa	Meadow	Quartz	Quartz	Quartz has cleaner article structure, stronger cohesion and better handling of limitations.

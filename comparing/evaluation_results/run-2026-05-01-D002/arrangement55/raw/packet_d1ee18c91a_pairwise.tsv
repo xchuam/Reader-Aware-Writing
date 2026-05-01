@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_d1ee18c91a	Juniper	Amber	Juniper	Juniper is slightly more complete and more consistently cautious about direct binding, APC D556 and organoid-to-in vivo extrapolation.
+E1	packet_d1ee18c91a	Juniper	Ridge	Juniper	Juniper provides fuller evidence sequencing and discussion while preserving all key caveats at higher resolution.
+E1	packet_d1ee18c91a	Juniper	Fjord	Juniper	Juniper has comparable fidelity but stronger article structure and reader orientation across the full results-to-discussion arc.
+E1	packet_d1ee18c91a	Juniper	Tundra	Juniper	Juniper is more complete and avoids the somewhat broad methods reconstruction and expansive physiological framing seen in Tundra.
+E1	packet_d1ee18c91a	Amber	Ridge	Amber	Amber gives a more integrated and reader-friendly synthesis with fuller quantitative and mechanistic context.
+E1	packet_d1ee18c91a	Amber	Fjord	Amber	Amber is marginally better structured and easier to navigate, while Fjord is similarly faithful but more compressed.
+E1	packet_d1ee18c91a	Amber	Tundra	Amber	Amber preserves the dossier with cleaner narrative flow and fewer reconstructed methods-style claims.
+E1	packet_d1ee18c91a	Ridge	Fjord	Fjord	Fjord is slightly more complete and more explicit about limitations, especially around disease associations and in vivo repair claims.
+E1	packet_d1ee18c91a	Ridge	Tundra	Ridge	Ridge is smoother and less reliant on a broad methods reconstruction, with slightly better control of claims.
+E1	packet_d1ee18c91a	Fjord	Tundra	Fjord	Fjord has stronger uncertainty handling and a more natural article form, whereas Tundra's methods section feels less grounded in the dossier.

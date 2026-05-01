@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_0d8c567b59	Quartz	20	15	15	19	15	9	5	98	1	Most complete and best structured article, with excellent fidelity and careful limits on APC cleavage, in vivo repair and disease claims.
+E1	packet_0d8c567b59	Ivory	20	14	15	19	15	9	5	97	2	Exceptionally faithful and clear, preserving key quantitative details and caveats with only slightly less formal article scaffolding than Quartz.
+E1	packet_0d8c567b59	Meadow	19	14	14	19	15	9	5	95	3	Strong integrated account with good methods orientation and uncertainty handling, though a little less polished and reader-guiding than the top two.
+E1	packet_0d8c567b59	Summit	19	13	14	19	15	9	5	94	4	Cohesive and accurate narrative that handles caveats well but provides somewhat less formal structure and methodological orientation.
+E1	packet_0d8c567b59	Lantern	18	12	13	18	15	9	5	90	5	Accurate and readable coverage of the main claims, but less complete and less formally organized than the other articles.

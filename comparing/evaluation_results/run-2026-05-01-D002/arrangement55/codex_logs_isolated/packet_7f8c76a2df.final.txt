@@ -1,0 +1,7 @@
+Done. I saved all three required files:
+
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df.md`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_7f8c76a2df_pairwise.tsv`
+
+Validation passed: 5 score rows, 10 pairwise rows, expected column counts, and score totals match the dimension sums.

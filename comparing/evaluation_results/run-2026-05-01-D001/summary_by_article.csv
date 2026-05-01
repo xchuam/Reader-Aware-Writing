@@ -1,0 +1,16 @@
+article_id,condition_id,replicate_id,word_count,mean_total,sd_total
+Article_A,C5,R2,1734,82.667,0.577
+Article_B,C3,R1,1800,89.0,3.0
+Article_C,C1,R3,1794,92.333,4.726
+Article_D,C5,R3,1810,90.333,5.132
+Article_E,C3,R3,1711,92.667,4.041
+Article_F,C2,R2,1791,93.667,2.082
+Article_G,C4,R2,1813,91.333,3.786
+Article_H,C1,R2,1804,93.667,4.041
+Article_I,C5,R1,1779,86.667,3.786
+Article_J,C2,R3,1813,90.333,6.807
+Article_K,C4,R3,1706,90.0,6.083
+Article_L,C1,R1,1802,92.333,3.786
+Article_M,C3,R2,1811,93.667,5.132
+Article_N,C4,R1,1782,92.0,2.646
+Article_O,C2,R1,1810,92.667,3.786
