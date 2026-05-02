@@ -1,0 +1,6 @@
+Saved the article to [C1_R2.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C1_R2/comparing/authoring_results/run-2026-05-01-D003/C1_R2.md).
+
+Verified:
+- Metadata block is present at the top.
+- Article begins immediately after the metadata.
+- Article word count after metadata: 1,797 words.

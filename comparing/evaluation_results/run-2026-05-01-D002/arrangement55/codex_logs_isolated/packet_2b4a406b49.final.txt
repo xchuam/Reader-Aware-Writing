@@ -1,0 +1,7 @@
+Done. I saved all three required files:
+
+- [packet_2b4a406b49.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_2b4a406b49/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_2b4a406b49.md)
+- [packet_2b4a406b49_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_2b4a406b49/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_2b4a406b49_scores.tsv)
+- [packet_2b4a406b49_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_2b4a406b49/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_2b4a406b49_pairwise.tsv)
+
+Validation passed: score TSV has 5 article rows with totals matching component sums, and pairwise TSV has all 10 unordered pairs with the expected field counts.

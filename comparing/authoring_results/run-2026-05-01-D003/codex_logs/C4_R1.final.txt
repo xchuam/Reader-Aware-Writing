@@ -1,0 +1,5 @@
+Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C4_R1.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C4_R1/comparing/authoring_results/run-2026-05-01-D003/C4_R1.md)
+
+Verified the metadata block is present and the article body is 1,778 words, within the requested 1,500-1,800 word target.

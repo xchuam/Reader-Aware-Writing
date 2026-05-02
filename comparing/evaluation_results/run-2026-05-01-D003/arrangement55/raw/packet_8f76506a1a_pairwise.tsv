@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_8f76506a1a	Dawn	Granite	Granite	Granite matches Dawn's scientific fidelity while being slightly more economical and equally well structured.
+E1	packet_8f76506a1a	Dawn	Ember	Dawn	Dawn is more complete, more formally organized, and more consistently calibrated around mechanism and in vivo limits.
+E1	packet_8f76506a1a	Dawn	Zephyr	Dawn	Dawn covers more of the dossier evidence, including disease associations and mechanistic caveats, while maintaining high fidelity.
+E1	packet_8f76506a1a	Dawn	Vale	Dawn	Dawn has comparable fidelity but much stronger article structure and reader navigation.
+E1	packet_8f76506a1a	Granite	Ember	Granite	Granite is more complete, more polished, and more cautious in its interpretation of organoid repair findings.
+E1	packet_8f76506a1a	Granite	Zephyr	Granite	Granite provides fuller evidence coverage and a stronger conventional scientific article structure.
+E1	packet_8f76506a1a	Granite	Vale	Granite	Granite preserves Vale's scientific accuracy while adding clearer abstract, methods, results, and discussion organization.
+E1	packet_8f76506a1a	Ember	Zephyr	Zephyr	Zephyr is more complete and cohesive, with more precise handling of limitations and disease associations.
+E1	packet_8f76506a1a	Ember	Vale	Vale	Vale is more scientifically precise and better calibrated, despite its weaker formal structure.
+E1	packet_8f76506a1a	Zephyr	Vale	Zephyr	Zephyr has similar fidelity but stronger article structure and clearer orientation for a research audience.

@@ -1,0 +1,5 @@
+Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C3_R1.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C3_R1/comparing/authoring_results/run-2026-05-01-D003/C3_R1.md)
+
+Verified the metadata block is present and the file is within the requested length target at 1,590 words total.

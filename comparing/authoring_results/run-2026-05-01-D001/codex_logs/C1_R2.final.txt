@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[ C1_R2.md ](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D001/C1_R2.md)
+
+Verified: metadata present, required sections present, no References section, and article body is 1800 words.

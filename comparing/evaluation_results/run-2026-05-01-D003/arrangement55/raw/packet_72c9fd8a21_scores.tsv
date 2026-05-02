@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_72c9fd8a21	Ivory	20	15	15	19	15	9	4	97	1	Most complete and careful account, with excellent isoform specificity, mechanism, disease caution and explicit uncertainty, offset only by length.
+E1	packet_72c9fd8a21	Summit	19	14	14	19	14	10	4	94	2	Highly faithful and concise synthesis that preserves the key mechanism and limits, with slightly less depth than Ivory.
+E1	packet_72c9fd8a21	Lantern	18	13	14	19	13	9	4	90	3	Very coherent narrative with strong mechanistic integration, though it adds somewhat more interpretive framing than the dossier strictly supports.
+E1	packet_72c9fd8a21	Meadow	18	14	13	18	13	9	4	89	4	Accurate and well organized coverage of the major findings, with minor overextension in repair and homeostasis language.
+E1	packet_72c9fd8a21	Quartz	17	13	13	17	12	9	4	85	5	Solid and mostly faithful, but the reconstructed Methods framing and less nuanced uncertainty handling make it weaker than the others.

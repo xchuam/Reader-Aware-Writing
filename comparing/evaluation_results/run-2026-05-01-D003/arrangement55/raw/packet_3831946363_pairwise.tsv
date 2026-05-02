@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_3831946363	Granite	Ember	Ember	Ember is nearly as faithful while being better organized, more concise and easier for the intended reader to follow.
+E1	packet_3831946363	Granite	Zephyr	Zephyr	Zephyr preserves the central findings with clearer selectivity and stronger reader orientation, whereas Granite is denser and overlong.
+E1	packet_3831946363	Granite	Vale	Granite	Granite follows the expected scientific article form and covers the dossier more systematically, despite being less elegant than Vale.
+E1	packet_3831946363	Granite	Dawn	Dawn	Dawn is slightly less exhaustive but more polished and better proportioned, with comparable caution about the evidence.
+E1	packet_3831946363	Ember	Zephyr	Ember	Ember has the cleanest result segmentation and retains more dossier detail while maintaining strong uncertainty control.
+E1	packet_3831946363	Ember	Vale	Ember	Ember is similarly faithful but much better aligned with the requested article structure and constraints.
+E1	packet_3831946363	Ember	Dawn	Ember	Ember is more efficiently organized and slightly more precise in orienting the reader through the evidence chain.
+E1	packet_3831946363	Zephyr	Vale	Zephyr	Zephyr provides a stronger article structure and tighter constraint following while matching Vale's caution on key mechanisms.
+E1	packet_3831946363	Zephyr	Dawn	Zephyr	Zephyr has a clearer causal-mechanistic progression and slightly stronger restraint around in vivo and disease implications.
+E1	packet_3831946363	Vale	Dawn	Dawn	Dawn is more article-shaped and better constrained, while Vale is a longer narrative synthesis despite strong explanation.

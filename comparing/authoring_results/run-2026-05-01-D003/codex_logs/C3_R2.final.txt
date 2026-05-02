@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[comparing/authoring_results/run-2026-05-01-D003/C3_R2.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C3_R2/comparing/authoring_results/run-2026-05-01-D003/C3_R2.md)
+
+Verified the file exists and begins with the required metadata block. Total file word count is 1804, including metadata, so the article body is within the requested 1500-1800 word range.

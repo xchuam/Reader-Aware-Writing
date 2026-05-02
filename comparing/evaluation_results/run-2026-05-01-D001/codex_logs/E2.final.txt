@@ -1,0 +1,9 @@
+Done. I saved and validated:
+
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E2.md`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E2_scores.tsv`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E2_pairwise.tsv`
+
+Validation passed:
+- Scores TSV: required header, 15 data rows, totals match dimension sums.
+- Pairwise TSV: required header, 105 data rows.

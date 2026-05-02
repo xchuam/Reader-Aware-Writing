@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_6da0b5da8f	Fjord	19	14	15	19	14	9	5	95	1	Clear, faithful, well bounded, and highly coherent, with the best reader path from isoforms to mechanism to organoid and disease limits.
+E1	packet_6da0b5da8f	Juniper	19	14	15	19	14	8	5	94	2	Excellent fidelity and reader guidance with strong uncertainty handling, though slightly less fluid and a touch more inferential around irradiation response.
+E1	packet_6da0b5da8f	Amber	19	13	14	18	14	9	5	92	3	Accurate and concise with a strong mechanism narrative, but the appended methods summary weakens article structure.
+E1	packet_6da0b5da8f	Ridge	18	14	14	18	13	9	5	91	4	Well organized and readable, but a few phrasings slightly overstate the evolutionary and interpretive framing.
+E1	packet_6da0b5da8f	Tundra	19	13	14	18	14	8	4	90	5	Comprehensive and careful, but dense and somewhat overlong, with a methods-heavy structure that reduces reader-centered flow.

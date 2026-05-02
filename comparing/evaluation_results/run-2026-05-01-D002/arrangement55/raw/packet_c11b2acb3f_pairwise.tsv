@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_c11b2acb3f	Dawn	Granite	Dawn	Dawn is slightly more complete and better integrated while matching Granite's strong fidelity and uncertainty handling.
+E1	packet_c11b2acb3f	Dawn	Ember	Dawn	Dawn preserves more dossier detail and presents the evidence in a more polished article structure.
+E1	packet_c11b2acb3f	Dawn	Zephyr	Dawn	Dawn is more complete on quantitative, mechanistic, and isoform-balance details while remaining equally cautious.
+E1	packet_c11b2acb3f	Dawn	Vale	Dawn	Dawn has stronger synthesis and reader orientation, with fuller coverage of the mechanistic sequence.
+E1	packet_c11b2acb3f	Granite	Ember	Granite	Granite is more complete, better organized, and more article-like while retaining the same core fidelity.
+E1	packet_c11b2acb3f	Granite	Zephyr	Granite	Granite provides clearer sectioning and more complete coverage of the evidence chain and quantitative findings.
+E1	packet_c11b2acb3f	Granite	Vale	Granite	Granite is marginally stronger in cohesion and orientation, though both are faithful and well calibrated.
+E1	packet_c11b2acb3f	Ember	Zephyr	Zephyr	Zephyr is more polished and cohesive, with stronger framing of the study despite some compression of details.
+E1	packet_c11b2acb3f	Ember	Vale	Vale	Vale is more complete and better structured, especially on isoform competition and APC mechanism.
+E1	packet_c11b2acb3f	Zephyr	Vale	Vale	Vale includes more dossier-specific detail and clearer subsectioning, while preserving similar caution about uncertainty.

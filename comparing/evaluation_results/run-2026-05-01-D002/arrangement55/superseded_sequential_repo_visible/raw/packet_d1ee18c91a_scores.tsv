@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_d1ee18c91a	Juniper	20	14	15	19	15	10	4	97	1	Best balances dossier fidelity, reader-centered sequencing, coherent mechanism, and careful limits on repair and disease claims.
+E1	packet_d1ee18c91a	Ridge	20	14	15	19	14	10	4	96	2	Exceptionally navigable and faithful, with only slightly broader interpretive language and marginally less completeness than Juniper.
+E1	packet_d1ee18c91a	Fjord	20	14	14	19	15	9	4	95	3	Comprehensive and cautious with strong mechanistic continuity, but the dense report-like results reduce reader pacing.
+E1	packet_d1ee18c91a	Tundra	20	13	14	18	15	9	5	94	4	Very accurate and well bounded, though the methods-heavy structure makes the argument more procedural than synthesized.
+E1	packet_d1ee18c91a	Amber	19	13	14	19	14	10	4	93	5	Polished and mostly faithful, but somewhat less complete and weakened structurally by an appended methods summary.

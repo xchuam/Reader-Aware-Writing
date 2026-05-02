@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_17ba1bd0a7	Ember	19	13	14	18	14	9	5	92	1	Best balance of accurate synthesis, cautious interpretation, readable flow, and target-length discipline despite minor heading awkwardness.
+E1	packet_17ba1bd0a7	Granite	19	13	14	18	14	9	4	91	2	Concise and faithful article with strong mechanistic flow, slightly weakened by an extra methods summary and a little less detail than the top entry.
+E1	packet_17ba1bd0a7	Vale	19	14	14	17	14	9	3	90	3	Highly accurate and well organized with excellent uncertainty handling, but somewhat over-expanded relative to the requested article length.
+E1	packet_17ba1bd0a7	Dawn	18	13	14	18	14	9	3	89	4	Strong, coherent, and careful overall, with minor overstatement in the abstract and less length discipline than the leading articles.
+E1	packet_17ba1bd0a7	Zephyr	19	12	14	18	15	8	2	88	5	Exceptionally complete and cautious scientifically, but too long and results-heavy for the target article constraint.

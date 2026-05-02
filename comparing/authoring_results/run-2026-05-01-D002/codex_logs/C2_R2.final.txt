@@ -1,0 +1,3 @@
+Done. I saved the article to [C2_R2.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C2_R2.md).
+
+Verification: the metadata block is present, and the article body is 1796 words, within the 1500-1800 target.

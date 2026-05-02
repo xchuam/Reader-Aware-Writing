@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_9d5f76d5f3	Amber	20	14	14	19	15	9	4	95	1	Most complete and best calibrated article, with excellent fidelity, clear article logic, and careful limits on DVL directness, APC D556, organoid repair, and disease associations.
+E1	packet_9d5f76d5f3	Ridge	19	14	14	19	15	9	4	94	2	Highly faithful and very reader-oriented, using effective sectioning to make isoform specificity, APC cleavage, organoid effects, and uncertainty easy to follow.
+E1	packet_9d5f76d5f3	Fjord	19	14	14	19	14	9	4	93	3	Strong coherent synthesis with accurate mechanism and organoid interpretation, though a few broader framing statements go slightly beyond the supplied notes.
+E1	packet_9d5f76d5f3	Juniper	19	13	14	18	15	8	4	91	4	Careful and scientifically bounded, but the long undivided Results section and line-broken style make the article less structurally polished.
+E1	packet_9d5f76d5f3	Tundra	19	13	13	18	14	8	4	89	5	Accurate and comprehensive, but more procedural and summary-like, with weaker reader emphasis and a Methods section that interrupts the article flow.

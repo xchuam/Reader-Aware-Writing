@@ -1,0 +1,3 @@
+Saved the article to [C3_R3.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C3_R3/comparing/authoring_results/run-2026-05-01-D003/C3_R3.md).
+
+Verification: metadata block is present, file exists at the requested path, and the article body is 1602 words. The assigned skill snapshot was not available under `/tmp`, so I used only the fixed dossier content.

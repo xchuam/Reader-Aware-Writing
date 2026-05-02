@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_4c24b0d637	Tundra	Juniper	Tundra	Tundra is marginally more complete and more explicit about limitations across direct binding, APC D556, organoids, and disease associations.
+E1	packet_4c24b0d637	Tundra	Amber	Tundra	Tundra covers more of the dossier, especially methods, localization complexity, and mechanistic validation, while maintaining strong caveats.
+E1	packet_4c24b0d637	Tundra	Ridge	Tundra	Tundra has stronger scientific article structure and more systematic uncertainty handling.
+E1	packet_4c24b0d637	Tundra	Fjord	Tundra	Tundra is more comprehensive and slightly more precise in synthesizing the APC and isoform-competition evidence.
+E1	packet_4c24b0d637	Juniper	Amber	Juniper	Juniper provides fuller experimental coverage and clearer section-by-section reader orientation.
+E1	packet_4c24b0d637	Juniper	Ridge	Juniper	Juniper is better structured as a scientific article and handles evidentiary limits more explicitly.
+E1	packet_4c24b0d637	Juniper	Fjord	Juniper	Juniper is slightly more complete and cautious while preserving comparable readability.
+E1	packet_4c24b0d637	Amber	Ridge	Amber	Amber is more efficiently structured and better constrained around the article's mechanistic and disease claims.
+E1	packet_4c24b0d637	Amber	Fjord	Amber	Amber has a cleaner synthesis and slightly stronger reader orientation, with similar fidelity.
+E1	packet_4c24b0d637	Ridge	Fjord	Fjord	Fjord provides a more conventional article structure and slightly tighter evidence boundaries.

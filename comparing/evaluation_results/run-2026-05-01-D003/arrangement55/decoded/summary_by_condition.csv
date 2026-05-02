@@ -1,0 +1,6 @@
+condition_id,n_articles,n_scores,mean_total,sd_total,mean_article_total,sd_article_total,mean_scientific_fidelity,mean_article_structure,mean_reader_orientation,mean_cohesion_coherence,mean_evidence_uncertainty,mean_style_readability,mean_constraint_following
+C1,3,15,95.667,2.769,95.667,1.286,19.467,14.067,14.6,18.867,14.667,9.333,4.667
+C3,3,15,94.667,3.155,94.667,0.902,19.2,14.533,14.333,18.667,14.467,9.0,4.467
+C5,3,15,94.333,3.222,94.333,2.139,19.133,14.333,14.2,18.667,14.4,9.0,4.6
+C4,3,15,93.0,3.817,93.0,1.709,19.067,13.933,14.067,18.4,14.2,8.933,4.4
+C2,3,15,92.0,4.66,92.0,1.114,19.133,12.2,14.0,18.867,14.467,9.267,4.067

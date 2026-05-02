@@ -1,0 +1,8 @@
+Saved the completed article to:
+
+[comparing/authoring_results/run-2026-05-01-D001/C2_R1.md](/tmp/reader-aware-benchmark-work/run-2026-05-01-D001/comparing/authoring_results/run-2026-05-01-D001/C2_R1.md)
+
+Verified:
+- Metadata block is present.
+- Article body is exactly 1,800 words.
+- No References section included.

@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_8f76506a1a	Granite	20	15	15	19	15	10	4	98	1	Best overall balance of complete dossier coverage, conventional scientific structure, careful uncertainty language, and polished readability.
+E1	packet_8f76506a1a	Dawn	20	15	15	19	15	9	4	97	2	Nearly exhaustive and very faithful, with excellent caution around mechanism and disease, but slightly less economical than the strongest article.
+E1	packet_8f76506a1a	Zephyr	20	14	15	19	14	9	4	95	3	Accurate, cohesive, and well calibrated, though a little less complete and formally developed than Granite and Dawn.
+E1	packet_8f76506a1a	Vale	20	11	14	18	15	10	4	92	4	Scientifically precise and very readable, but its narrative format weakens article structure and navigation.
+E1	packet_8f76506a1a	Ember	19	13	14	18	14	9	4	91	5	Clear and mostly faithful, but less complete and slightly stronger than warranted in a few repair-oriented interpretations.

@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_9d5f76d5f3	Amber	Ridge	Amber	Amber is slightly more complete and more conventionally article-like while preserving the same strong uncertainty control.
+E1	packet_9d5f76d5f3	Amber	Fjord	Amber	Amber covers the full dossier with clearer article-level progression and more explicit treatment of mechanistic and disease limitations.
+E1	packet_9d5f76d5f3	Amber	Tundra	Amber	Amber gives a more reader-centered narrative and smoother structure, whereas Tundra is more procedural.
+E1	packet_9d5f76d5f3	Amber	Juniper	Amber	Amber has stronger section-level organization and fuller integration of the evidence while remaining just as cautious.
+E1	packet_9d5f76d5f3	Ridge	Fjord	Ridge	Ridge is marginally easier to navigate because its subheadings and transitions expose the logic of the evidence more clearly.
+E1	packet_9d5f76d5f3	Ridge	Tundra	Ridge	Ridge provides stronger reader orientation and a cleaner explanatory arc than Tundra's more methods-and-results summary style.
+E1	packet_9d5f76d5f3	Ridge	Juniper	Ridge	Ridge matches Juniper's caution but offers better structural signposting and more accessible evidence sequencing.
+E1	packet_9d5f76d5f3	Fjord	Tundra	Fjord	Fjord has a more coherent mechanism-to-phenotype narrative and less procedural interruption than Tundra.
+E1	packet_9d5f76d5f3	Fjord	Juniper	Fjord	Fjord is somewhat more polished and better organized, although Juniper is similarly careful about uncertainty.
+E1	packet_9d5f76d5f3	Tundra	Juniper	Juniper	Juniper is more reader-centered and explicit about interpretive boundaries, while Tundra reads more like a comprehensive procedural summary.

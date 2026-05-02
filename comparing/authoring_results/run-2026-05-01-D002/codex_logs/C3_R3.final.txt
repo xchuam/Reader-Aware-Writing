@@ -1,0 +1,6 @@
+Saved the article to `comparing/authoring_results/run-2026-05-01-D002/C3_R3.md`.
+
+Verified:
+- Required metadata block is present.
+- Article body is 1,552 words, within the 1,500-1,800 target.
+- No external sources or added references were used.

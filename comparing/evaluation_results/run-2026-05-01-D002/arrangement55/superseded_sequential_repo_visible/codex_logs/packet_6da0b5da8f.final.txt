@@ -1,0 +1,7 @@
+Done. I saved all required outputs:
+
+- [Markdown notes](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f.md)
+- [Scores TSV](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f_scores.tsv)
+- [Pairwise TSV](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f_pairwise.tsv)
+
+Verified: score table has 5 article rows, pairwise table has 10 pair rows, headers match, and all totals equal the summed dimension scores.

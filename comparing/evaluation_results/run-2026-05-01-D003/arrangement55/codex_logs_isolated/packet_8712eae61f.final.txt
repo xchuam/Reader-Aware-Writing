@@ -1,0 +1,7 @@
+Completed the evaluation and saved all required files:
+
+- [Markdown notes](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8712eae61f/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8712eae61f.md)
+- [Scores TSV](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8712eae61f/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8712eae61f_scores.tsv)
+- [Pairwise TSV](/tmp/arrangement55-eval-run-2026-05-01-D003/packet_8712eae61f/comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_8712eae61f_pairwise.tsv)
+
+I also validated the TSV formatting: score rows have 13 fields, pairwise rows have 6 fields, totals match dimension sums, and the pairwise table has all 10 unordered pairs.

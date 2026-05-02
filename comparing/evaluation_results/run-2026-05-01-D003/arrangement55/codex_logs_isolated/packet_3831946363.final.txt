@@ -1,0 +1,7 @@
+Done. I saved all three required files:
+
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_3831946363.md`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_3831946363_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_3831946363_pairwise.tsv`
+
+Validation passed: score rows total correctly, ranks are present, and the pairwise table has all 10 unordered pairs.

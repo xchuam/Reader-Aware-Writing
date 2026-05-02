@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_1cfba51daa	Summit	20	14	15	20	15	10	5	99	1	Best balance of fidelity, uncertainty control, coherent scientific narrative, and readable article structure.
+E1	packet_1cfba51daa	Ivory	20	15	15	19	15	9	4	97	2	Exceptionally complete and faithful, but somewhat overlong and dense relative to the target article format.
+E1	packet_1cfba51daa	Quartz	19	14	14	19	15	9	5	95	3	Accurate and well organized with strong caveats, though slightly less complete and somewhat methods-like in presentation.
+E1	packet_1cfba51daa	Lantern	19	14	14	18	15	9	5	94	4	Concise and faithful with good uncertainty handling, but less comprehensive and slightly less developed than the top entries.
+E1	packet_1cfba51daa	Meadow	19	13	14	18	14	9	4	91	5	Scientifically sound overall, but the reconstructed Methods framing and slightly weaker narrative integration lower its score.

@@ -1,0 +1,7 @@
+Done. I saved all required files:
+
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_919bf1e39e.md`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_919bf1e39e_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_919bf1e39e_pairwise.tsv`
+
+I also verified row counts, TSV field counts, headers, and score-total arithmetic.

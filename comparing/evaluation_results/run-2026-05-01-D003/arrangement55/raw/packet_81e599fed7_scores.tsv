@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_81e599fed7	Juniper	20	15	15	19	15	10	5	99	1	Most complete and best structured article, with excellent isoform specificity, mechanistic fidelity and careful uncertainty calibration.
+E1	packet_81e599fed7	Amber	19	14	15	19	15	10	5	97	2	Highly accurate, coherent and well calibrated, though slightly more compressed than the top-ranked article.
+E1	packet_81e599fed7	Fjord	19	14	14	18	15	9	5	94	3	Strong structured article with accurate mechanism and limitations, losing only modestly on depth and integrative richness.
+E1	packet_81e599fed7	Tundra	19	13	14	18	14	9	4	91	4	Comprehensive and faithful, but the reconstructed Methods framing slightly weakens article fit and constraint precision.
+E1	packet_81e599fed7	Ridge	19	11	13	18	14	10	5	90	5	Scientifically careful and readable, but the continuous essay format lacks the expected scientific article structure.

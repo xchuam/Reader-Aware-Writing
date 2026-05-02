@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_2b4a406b49	Vale	Dawn	Vale	Vale is slightly more complete and better sectioned while matching Dawn's strong fidelity and uncertainty handling.
+E1	packet_2b4a406b49	Vale	Granite	Vale	Vale provides fuller reader orientation and more complete coverage of localization, competition, irradiation, and disease-association details.
+E1	packet_2b4a406b49	Vale	Ember	Vale	Vale is substantially more developed structurally and preserves more of the dossier's mechanistic and quantitative evidence.
+E1	packet_2b4a406b49	Vale	Zephyr	Vale	Vale carries more of the quantitative and mechanistic detail while maintaining equally careful limits on repair and disease claims.
+E1	packet_2b4a406b49	Dawn	Granite	Dawn	Dawn gives stronger contextual framing and a smoother mechanistic arc, while Granite is a little more compressed.
+E1	packet_2b4a406b49	Dawn	Ember	Dawn	Dawn is more complete, better organized, and more explicit about the evidentiary chain from DVL association to APC cleavage.
+E1	packet_2b4a406b49	Dawn	Zephyr	Dawn	Dawn includes more exact quantitative organoid transcript detail and handles the results-to-discussion division more cleanly.
+E1	packet_2b4a406b49	Granite	Ember	Granite	Granite preserves more mechanistic detail and has stronger article-level organization despite both being scientifically cautious.
+E1	packet_2b4a406b49	Granite	Zephyr	Granite	Granite is marginally preferred for more complete quantitative and mechanistic reporting, though Zephyr has comparable readability.
+E1	packet_2b4a406b49	Ember	Zephyr	Zephyr	Zephyr is more complete and more polished in its narrative integration, while Ember is accurate but comparatively compressed.

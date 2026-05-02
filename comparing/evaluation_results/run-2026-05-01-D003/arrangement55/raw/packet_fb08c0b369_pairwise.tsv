@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_fb08c0b369	Fjord	Tundra	Fjord	Fjord is marginally more cohesive and article-like while matching Tundra's fidelity and caveat handling.
+E1	packet_fb08c0b369	Fjord	Juniper	Fjord	Fjord gives fuller coverage and stronger reader orientation, especially around mechanistic sequence and disease caveats.
+E1	packet_fb08c0b369	Fjord	Amber	Fjord	Fjord is more complete and better structured while retaining the same careful limits on unsupported claims.
+E1	packet_fb08c0b369	Fjord	Ridge	Fjord	Fjord has a much stronger scientific article structure and clearer navigation with comparable or better fidelity.
+E1	packet_fb08c0b369	Tundra	Juniper	Tundra	Tundra is more comprehensive and more explicit about methods, localization, competition, and limitations.
+E1	packet_fb08c0b369	Tundra	Amber	Tundra	Tundra covers more of the dossier in a fuller article format, while Amber is more compressed.
+E1	packet_fb08c0b369	Tundra	Ridge	Tundra	Tundra provides formal article organization and stronger reader orientation without losing scientific detail.
+E1	packet_fb08c0b369	Juniper	Amber	Juniper	Juniper is slightly more complete and conventionally structured, though Amber is similarly careful about uncertainty.
+E1	packet_fb08c0b369	Juniper	Ridge	Juniper	Juniper offers clearer sectioning and reader guidance while preserving most of Ridge's fidelity.
+E1	packet_fb08c0b369	Amber	Ridge	Amber	Amber is more concise and article-like, whereas Ridge's narrative format weakens structure despite good fidelity.

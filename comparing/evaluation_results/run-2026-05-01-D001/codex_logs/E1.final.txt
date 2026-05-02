@@ -1,0 +1,7 @@
+Completed the blinded evaluation and wrote all required files:
+
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E1.md`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E1_scores.tsv`
+- `/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D001/E1_pairwise.tsv`
+
+Validation passed: score TSV has the required header and 15 rows; pairwise TSV has the required header and 105 rows; score totals match their component scores.

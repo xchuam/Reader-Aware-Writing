@@ -1,0 +1,6 @@
+Saved the article to [C5_R3.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C5_R3.md).
+
+Validation:
+- Article body is 1,690 words, within the 1,500-1,800 target.
+- Used only the fixed dossier and the assigned `academic-writing-standards` skill.
+- No external sources or added references.

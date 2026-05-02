@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_9a2f8edd82	Summit	Lantern	Summit	Summit is more scannable and slightly more precise while preserving the same major scientific caveats.
+E1	packet_9a2f8edd82	Summit	Meadow	Summit	Summit provides the fullest integrated account of mechanism, organoid phenotypes and uncertainty.
+E1	packet_9a2f8edd82	Summit	Quartz	Summit	Summit is more polished and better synthesized, with fewer broad contextual additions beyond the dossier.
+E1	packet_9a2f8edd82	Summit	Ivory	Summit	Summit has comparable fidelity but stronger reader orientation and a more complete narrative synthesis.
+E1	packet_9a2f8edd82	Lantern	Meadow	Meadow	Meadow covers the same core evidence in a clearer sectioned structure with equal or better fidelity.
+E1	packet_9a2f8edd82	Lantern	Quartz	Lantern	Lantern offers stronger narrative integration and fuller caution around interpretation despite weaker scanability.
+E1	packet_9a2f8edd82	Lantern	Ivory	Ivory	Ivory is more tightly organized and more concise while retaining the key mechanistic and uncertainty points.
+E1	packet_9a2f8edd82	Meadow	Quartz	Meadow	Meadow is cleaner, more focused and more precisely aligned to the dossier than Quartz.
+E1	packet_9a2f8edd82	Meadow	Ivory	Meadow	Meadow is slightly more synthetic and reader-oriented while matching Ivory on core accuracy.
+E1	packet_9a2f8edd82	Quartz	Ivory	Ivory	Ivory is more restrained and clearer, whereas Quartz has a somewhat reconstructed Methods framing and broader phrasing.

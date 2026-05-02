@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_9d5f76d5f3	Amber	Ridge	Amber	Amber is marginally more complete and better integrated across expression, organoid, mechanistic, and disease-association evidence.
+E1	packet_9d5f76d5f3	Amber	Fjord	Amber	Amber provides fuller reader orientation and covers more dossier details while maintaining precise caveats.
+E1	packet_9d5f76d5f3	Amber	Tundra	Amber	Amber has a more polished article structure and less procedural feel while preserving the same scientific content.
+E1	packet_9d5f76d5f3	Amber	Juniper	Amber	Amber is more cohesive and article-like, with broader integration of the mechanistic and organoid evidence.
+E1	packet_9d5f76d5f3	Ridge	Fjord	Ridge	Ridge gives slightly fuller context and a more complete treatment of isoform balance and disease limitations.
+E1	packet_9d5f76d5f3	Ridge	Tundra	Ridge	Ridge reads as a more polished scientific article and handles mechanistic uncertainty more smoothly.
+E1	packet_9d5f76d5f3	Ridge	Juniper	Ridge	Ridge has stronger narrative flow and reader orientation while matching Juniper's fidelity and caveat discipline.
+E1	packet_9d5f76d5f3	Fjord	Tundra	Fjord	Fjord is tighter and more cohesive, whereas Tundra's methods-style organization makes it less article-like.
+E1	packet_9d5f76d5f3	Fjord	Juniper	Fjord	Fjord presents the same core evidence with better narrative compression and smoother transitions.
+E1	packet_9d5f76d5f3	Tundra	Juniper	Juniper	Juniper is slightly more cautious and polished in its interpretation, despite a more segmented prose style.

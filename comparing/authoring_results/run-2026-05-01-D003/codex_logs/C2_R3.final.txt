@@ -1,0 +1,6 @@
+Saved the article to [C2_R3.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C2_R3/comparing/authoring_results/run-2026-05-01-D003/C2_R3.md).
+
+Verified:
+- Metadata block is present at the top.
+- Word count is `1669`, within the 1500-1800 target.
+- No external sources or references were added.

@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_9f2c5e29c0	Meadow	Quartz	Quartz	Quartz matches Meadow's fidelity while being more economical and better organized around the experimental evidence chain.
+E1	packet_9f2c5e29c0	Meadow	Ivory	Meadow	Meadow is more complete in reconstructing methods, results, and disease associations, despite being less concise.
+E1	packet_9f2c5e29c0	Meadow	Summit	Meadow	Meadow provides slightly fuller dossier coverage and more explicit uncertainty calibration across all evidence streams.
+E1	packet_9f2c5e29c0	Meadow	Lantern	Meadow	Meadow gives a more complete scientific article reconstruction and stronger reader orientation.
+E1	packet_9f2c5e29c0	Quartz	Ivory	Quartz	Quartz has comparable fidelity but clearer article structure, stronger methods orientation, and smoother integration of results.
+E1	packet_9f2c5e29c0	Quartz	Summit	Quartz	Quartz is more tightly structured and less broad in interpretation while preserving all major caveats.
+E1	packet_9f2c5e29c0	Quartz	Lantern	Quartz	Quartz is more complete and better organized, especially in method-to-result flow and mechanistic detail.
+E1	packet_9f2c5e29c0	Ivory	Summit	Ivory	Ivory is slightly more precise about isoform-specific limits and disease caveats, with fewer broad interpretive formulations.
+E1	packet_9f2c5e29c0	Ivory	Lantern	Ivory	Ivory gives fuller coverage of APC mechanism, isoform competition, cell-state evidence, and disease implications.
+E1	packet_9f2c5e29c0	Summit	Lantern	Summit	Summit has stronger cohesion and fuller integration of the biological and mechanistic evidence.

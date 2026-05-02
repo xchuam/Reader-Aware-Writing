@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_72c9fd8a21	Ivory	Summit	Ivory	Ivory is more complete and explicit about limitations, while Summit is slightly more concise but loses some nuance.
+E1	packet_72c9fd8a21	Ivory	Lantern	Ivory	Ivory has tighter constraint following and less interpretive embellishment while covering the same mechanism in greater detail.
+E1	packet_72c9fd8a21	Ivory	Meadow	Ivory	Ivory better preserves uncertainty and disease caveats and gives fuller coverage of lineage, competition and APC evidence.
+E1	packet_72c9fd8a21	Ivory	Quartz	Ivory	Ivory is more comprehensive, better oriented and more cautious than Quartz, especially around disease and mechanistic limits.
+E1	packet_72c9fd8a21	Summit	Lantern	Summit	Summit is more disciplined and economical, whereas Lantern is more narrative and slightly more interpretive.
+E1	packet_72c9fd8a21	Summit	Meadow	Summit	Summit handles the evidence boundaries more cleanly and is more concise while retaining nearly all core findings.
+E1	packet_72c9fd8a21	Summit	Quartz	Summit	Summit has stronger synthesis and fewer reconstructed or generic elements than Quartz.
+E1	packet_72c9fd8a21	Lantern	Meadow	Lantern	Lantern has better cohesion and mechanistic integration, despite slightly more interpretive framing.
+E1	packet_72c9fd8a21	Lantern	Quartz	Lantern	Lantern gives a clearer biological narrative and richer isoform-level explanation than Quartz.
+E1	packet_72c9fd8a21	Meadow	Quartz	Meadow	Meadow is similarly faithful but better organized around the main biological claims and limitations.

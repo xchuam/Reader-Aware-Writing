@@ -1,0 +1,7 @@
+Done. I saved all three required files:
+
+- [Markdown notes](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_561af11b5e/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_561af11b5e.md)
+- [Scores TSV](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_561af11b5e/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_561af11b5e_scores.tsv)
+- [Pairwise TSV](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_561af11b5e/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_561af11b5e_pairwise.tsv)
+
+Validation passed: score totals match dimension sums, there are exactly five score rows, and the pairwise file has all 10 unordered comparisons.

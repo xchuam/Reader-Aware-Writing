@@ -1,0 +1,7 @@
+Done. I saved all required files:
+
+- [packet_8f2288ad73.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_8f2288ad73/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_8f2288ad73.md)
+- [packet_8f2288ad73_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_8f2288ad73/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_8f2288ad73_scores.tsv)
+- [packet_8f2288ad73_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_8f2288ad73/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_8f2288ad73_pairwise.tsv)
+
+Validation passed: score table has 5 rows, pairwise table has 10 rows, headers match, and score totals add correctly.

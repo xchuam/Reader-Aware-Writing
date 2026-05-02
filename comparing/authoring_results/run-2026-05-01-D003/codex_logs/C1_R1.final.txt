@@ -1,0 +1,5 @@
+Done. Saved the article to:
+
+[comparing/authoring_results/run-2026-05-01-D003/C1_R1.md](/tmp/authoring-benchmark-run-2026-05-01-D003/C1_R1/comparing/authoring_results/run-2026-05-01-D003/C1_R1.md)
+
+Verified article body word count: 1594 words, within the 1500-1800 target.

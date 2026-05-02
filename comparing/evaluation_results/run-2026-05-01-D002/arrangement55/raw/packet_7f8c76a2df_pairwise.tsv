@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_7f8c76a2df	Ridge	Fjord	Ridge	Ridge has marginally fuller coverage and a more natural article architecture while matching Fjord's fidelity and uncertainty control.
+E1	packet_7f8c76a2df	Ridge	Tundra	Ridge	Ridge is smoother and more synthesized, whereas Tundra is somewhat methods-heavy and slightly less polished.
+E1	packet_7f8c76a2df	Ridge	Juniper	Ridge	Ridge provides broader integrated coverage with stronger cohesion, while Juniper is more segmented despite good accuracy.
+E1	packet_7f8c76a2df	Ridge	Amber	Ridge	Ridge is more complete and better calibrated, while Amber has a less natural methods-summary ending and a little more assertive framing.
+E1	packet_7f8c76a2df	Fjord	Tundra	Fjord	Fjord preserves the key evidence with better flow and fewer structural distractions than Tundra's methods-centered presentation.
+E1	packet_7f8c76a2df	Fjord	Juniper	Fjord	Fjord is more cohesive and article-like, while Juniper is accurate but more report-like in rhythm.
+E1	packet_7f8c76a2df	Fjord	Amber	Fjord	Fjord is slightly more complete and cautious, especially around repair and disease implications.
+E1	packet_7f8c76a2df	Tundra	Juniper	Tundra	Tundra covers the experimental logic and evidence somewhat more systematically, despite Juniper's strong uncertainty handling.
+E1	packet_7f8c76a2df	Tundra	Amber	Tundra	Tundra is more comprehensive and explicit about evidence boundaries, while Amber is a bit less complete and structurally less elegant.
+E1	packet_7f8c76a2df	Juniper	Amber	Juniper	Juniper handles limitations more consistently and avoids Amber's appended methods-summary feel.

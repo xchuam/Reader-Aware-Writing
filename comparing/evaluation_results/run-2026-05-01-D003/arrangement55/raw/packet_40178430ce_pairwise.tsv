@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_40178430ce	Ivory	Lantern	Ivory	Ivory preserves formal article structure and stays closer to the dossier, while Lantern reads more like an essay and adds more unsupported background.
+E1	packet_40178430ce	Ivory	Meadow	Meadow	Meadow is more complete and polished while retaining excellent uncertainty control, although Ivory is also highly faithful.
+E1	packet_40178430ce	Ivory	Quartz	Ivory	Ivory is tighter and more disciplined, whereas Quartz leans on a reconstructed Methods section and slightly more generic framing.
+E1	packet_40178430ce	Ivory	Summit	Summit	Summit has clearer synthesis and stronger reader orientation while matching Ivory's fidelity and uncertainty control.
+E1	packet_40178430ce	Lantern	Meadow	Meadow	Meadow has stronger article structure, fuller dossier coverage, and fewer unsupported explanatory additions.
+E1	packet_40178430ce	Lantern	Quartz	Quartz	Quartz provides a recognizable scientific article structure and comparable coverage, despite some methods-style overreach.
+E1	packet_40178430ce	Lantern	Summit	Summit	Summit is more concise, better structured, and more disciplined about claims while covering the same key evidence.
+E1	packet_40178430ce	Meadow	Quartz	Meadow	Meadow has stronger section logic and uncertainty handling, while Quartz is slightly less natural because of its generic Methods section.
+E1	packet_40178430ce	Meadow	Summit	Summit	Summit achieves nearly the same coverage with better concision and slightly stronger constraint fit.
+E1	packet_40178430ce	Quartz	Summit	Summit	Summit is more focused and better synthesized, with less reconstructed framing and stronger control of limitations.

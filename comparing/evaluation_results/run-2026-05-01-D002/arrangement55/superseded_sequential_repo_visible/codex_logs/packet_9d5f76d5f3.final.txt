@@ -1,0 +1,7 @@
+Done. I wrote and validated:
+
+- [packet_9d5f76d5f3.md](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9d5f76d5f3.md)
+- [packet_9d5f76d5f3_scores.tsv](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9d5f76d5f3_scores.tsv)
+- [packet_9d5f76d5f3_pairwise.tsv](/workspaces/Reader-Aware-Writing/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_9d5f76d5f3_pairwise.tsv)
+
+Validation passed: score header has 13 fields, 5 score rows, totals match component sums, and pairwise table has all 10 rows.

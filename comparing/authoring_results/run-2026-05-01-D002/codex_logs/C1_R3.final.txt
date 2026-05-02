@@ -1,0 +1,6 @@
+Saved the article to [C1_R3.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C1_R3.md).
+
+Verified:
+- Metadata block is present at the top.
+- Article follows the fixed dossier only.
+- Post-metadata article length is `1794` words, within the 1500-1800 target.

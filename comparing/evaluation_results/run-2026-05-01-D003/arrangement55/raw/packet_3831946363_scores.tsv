@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_3831946363	Ember	19	14	14	19	14	9	4	93	1	Best balance of faithful content, clear result structure, careful uncertainty and readable article-style compression.
+E1	packet_3831946363	Zephyr	19	13	14	18	14	9	4	91	2	Highly accurate and cautious with a strong mechanistic arc, but slightly less complete and less conventionally structured than Ember.
+E1	packet_3831946363	Dawn	18	13	13	18	14	9	4	89	3	Accurate and polished with good caveats, though somewhat more interpretive and less ideally oriented than the top two.
+E1	packet_3831946363	Granite	19	12	13	18	14	8	3	87	4	Very comprehensive and faithful, but overlong and dense enough to weaken structure, readability and target-length compliance.
+E1	packet_3831946363	Vale	18	10	12	18	14	9	2	83	5	Scientifically strong and explanatory, but it reads more like an extended narrative synthesis than the requested structured article and is over target length.

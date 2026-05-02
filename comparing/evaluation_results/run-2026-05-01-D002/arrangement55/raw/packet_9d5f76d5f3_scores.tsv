@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_9d5f76d5f3	Amber	20	15	15	20	15	10	4	99	1	Most complete and coherent synthesis, with excellent isoform specificity, mechanistic precision, and disease caveats, though somewhat long for the target.
+E1	packet_9d5f76d5f3	Ridge	20	15	15	19	15	10	4	98	2	Very accurate and well organized with strong uncertainty handling, only slightly less integrated and complete than Amber.
+E1	packet_9d5f76d5f3	Fjord	19	14	14	19	15	10	4	95	3	Clear and faithful article that handles caveats well, but is a little less comprehensive and structurally developed than the top two.
+E1	packet_9d5f76d5f3	Juniper	19	14	14	18	15	9	4	93	4	Careful and accurate with good caveats, but the prose is more segmented and summary-like than the stronger entries.
+E1	packet_9d5f76d5f3	Tundra	19	14	14	18	14	9	4	92	5	Scientifically solid and complete, but the methods-heavy structure and a few broader framing statements make it slightly less polished and cautious.

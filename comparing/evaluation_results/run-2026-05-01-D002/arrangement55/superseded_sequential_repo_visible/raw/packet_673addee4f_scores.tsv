@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_673addee4f	Juniper	20	14	15	19	15	10	4	97	1	Best combines fidelity, reader-centered sequencing, coherent mechanism, and careful uncertainty boundaries.
+E1	packet_673addee4f	Ridge	20	14	15	19	14	10	4	96	2	Very clear topical structure and excellent readability with only slightly broader interpretive language than the best article.
+E1	packet_673addee4f	Fjord	20	14	14	19	15	9	4	95	3	Highly complete and scientifically restrained but somewhat dense and likely over the target length.
+E1	packet_673addee4f	Tundra	20	13	14	18	15	9	5	94	4	Accurate and cautious with useful methods logic, though more procedural and less synthesized for readers.
+E1	packet_673addee4f	Amber	19	13	14	19	14	10	4	93	5	Polished and concise but somewhat less complete, with an appended methods summary that weakens structure.

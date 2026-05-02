@@ -1,0 +1,11 @@
+evaluator_id	packet_id	nickname_a	nickname_b	preferred_nickname	reason
+E1	packet_0a39545567	Ridge	Fjord	Fjord	Fjord gives essentially the same scientific content with clearer article structure and better economy.
+E1	packet_0a39545567	Ridge	Tundra	Ridge	Ridge is more cohesive and explanatory, while Tundra is more procedural and dense.
+E1	packet_0a39545567	Ridge	Juniper	Ridge	Ridge is more complete and better calibrated around the mechanism and disease caveats.
+E1	packet_0a39545567	Ridge	Amber	Amber	Amber preserves the key science with much better concision and target fit.
+E1	packet_0a39545567	Fjord	Tundra	Fjord	Fjord has stronger reader orientation and a smoother results-to-discussion structure.
+E1	packet_0a39545567	Fjord	Juniper	Fjord	Fjord is more precise and comprehensive while maintaining better uncertainty framing.
+E1	packet_0a39545567	Fjord	Amber	Amber	Amber is more concise and equally faithful, making it the stronger article for the specified target.
+E1	packet_0a39545567	Tundra	Juniper	Tundra	Tundra is more scientifically complete and more consistently cautious despite weaker readability.
+E1	packet_0a39545567	Tundra	Amber	Amber	Amber is clearer, shorter, and more article-like while retaining the essential evidence.
+E1	packet_0a39545567	Juniper	Amber	Amber	Amber is more tightly bounded to the dossier and more efficient without sacrificing key details.

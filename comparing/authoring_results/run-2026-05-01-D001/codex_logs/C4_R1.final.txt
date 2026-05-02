@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[comparing/authoring_results/run-2026-05-01-D001/C4_R1.md](/tmp/reader-aware-benchmark-work/run-2026-05-01-D001/comparing/authoring_results/run-2026-05-01-D001/C4_R1.md)
+
+Verified: required metadata block is present, no References section was added, and the file is 1800 words total.

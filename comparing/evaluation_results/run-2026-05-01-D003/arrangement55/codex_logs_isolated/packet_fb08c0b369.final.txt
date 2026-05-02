@@ -1,0 +1,6 @@
+Done. I wrote all required files and verified the TSV structure, row counts, and score totals.
+
+Files created:
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_fb08c0b369.md`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_fb08c0b369_scores.tsv`
+- `comparing/evaluation_results/run-2026-05-01-D003/arrangement55/raw/packet_fb08c0b369_pairwise.tsv`

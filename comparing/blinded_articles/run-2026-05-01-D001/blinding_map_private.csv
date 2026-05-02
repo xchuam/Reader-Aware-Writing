@@ -1,0 +1,16 @@
+blinded_article_id,source_output_path,condition_id,replicate_id,word_count
+Article_A,comparing/authoring_results/run-2026-05-01-D001/C5_R2.md,C5,R2,1734
+Article_B,comparing/authoring_results/run-2026-05-01-D001/C3_R1.md,C3,R1,1800
+Article_C,comparing/authoring_results/run-2026-05-01-D001/C1_R3.md,C1,R3,1794
+Article_D,comparing/authoring_results/run-2026-05-01-D001/C5_R3.md,C5,R3,1810
+Article_E,comparing/authoring_results/run-2026-05-01-D001/C3_R3.md,C3,R3,1711
+Article_F,comparing/authoring_results/run-2026-05-01-D001/C2_R2.md,C2,R2,1791
+Article_G,comparing/authoring_results/run-2026-05-01-D001/C4_R2.md,C4,R2,1813
+Article_H,comparing/authoring_results/run-2026-05-01-D001/C1_R2.md,C1,R2,1804
+Article_I,comparing/authoring_results/run-2026-05-01-D001/C5_R1.md,C5,R1,1779
+Article_J,comparing/authoring_results/run-2026-05-01-D001/C2_R3.md,C2,R3,1813
+Article_K,comparing/authoring_results/run-2026-05-01-D001/C4_R3.md,C4,R3,1706
+Article_L,comparing/authoring_results/run-2026-05-01-D001/C1_R1.md,C1,R1,1802
+Article_M,comparing/authoring_results/run-2026-05-01-D001/C3_R2.md,C3,R2,1811
+Article_N,comparing/authoring_results/run-2026-05-01-D001/C4_R1.md,C4,R1,1782
+Article_O,comparing/authoring_results/run-2026-05-01-D001/C2_R1.md,C2,R1,1810

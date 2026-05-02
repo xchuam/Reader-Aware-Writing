@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_35bb698369	Vale	20	14	15	20	15	9	5	98	1	Most precise and integrated account, with excellent handling of isoform specificity, mechanism, and uncertainty.
+E1	packet_35bb698369	Zephyr	20	15	15	19	15	8	5	97	2	Extremely complete and faithful, though slightly more segmented and less elegant than Vale.
+E1	packet_35bb698369	Dawn	19	15	14	19	14	9	5	95	3	Strongly organized and accurate, with only minor tendency toward broader repair framing than the dossier proves.
+E1	packet_35bb698369	Granite	19	14	14	18	14	9	5	93	4	Faithful and cautious overall, but somewhat more compressed and inventory-like in structure and synthesis.
+E1	packet_35bb698369	Ember	18	13	13	17	14	8	5	88	5	Clear and mostly faithful, but less polished and slightly less precise in evolutionary and regenerative phrasing.

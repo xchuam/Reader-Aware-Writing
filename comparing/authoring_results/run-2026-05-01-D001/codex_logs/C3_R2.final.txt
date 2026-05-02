@@ -1,0 +1,5 @@
+Done. The article is saved at:
+
+[ C3_R2.md ](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D001/C3_R2.md)
+
+Verified article body word count: `1800`, with no References section.

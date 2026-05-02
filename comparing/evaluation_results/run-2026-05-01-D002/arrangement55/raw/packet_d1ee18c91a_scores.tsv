@@ -1,0 +1,6 @@
+evaluator_id	packet_id	nickname	scientific_fidelity	article_structure	reader_orientation	cohesion_coherence	evidence_uncertainty	style_readability	constraint_following	total_score	rank	one_sentence_justification
+E1	packet_d1ee18c91a	Juniper	20	15	15	20	15	9	5	99	1	Most complete and best organized account, with excellent preservation of isoform specificity, APC mechanism, organoid limits and associative disease evidence.
+E1	packet_d1ee18c91a	Amber	19	15	15	19	14	9	5	96	2	Highly accurate and reader-friendly synthesis that only loses minor ground for a compressed appended methods summary and slightly less rigorous uncertainty handling than Juniper.
+E1	packet_d1ee18c91a	Fjord	19	14	14	19	15	9	5	95	3	Very faithful and appropriately cautious, with strong mechanistic coverage but a more compressed results flow and slightly less orientation than the top two.
+E1	packet_d1ee18c91a	Ridge	19	14	14	18	14	9	5	93	4	Accurate and clear with helpful headings, though somewhat less complete in mechanistic and disease nuance than the leading articles.
+E1	packet_d1ee18c91a	Tundra	18	14	14	18	14	9	5	92	5	Strong overall but modestly weaker because the broad methods reconstruction and a few expansive framings lean beyond the dossier more than the others.

@@ -1,0 +1,5 @@
+Saved the drafted article to:
+
+[comparing/authoring_results/run-2026-05-01-D002/C5_R1.md](/workspaces/Reader-Aware-Writing/comparing/authoring_results/run-2026-05-01-D002/C5_R1.md)
+
+Verification: article body is 1800 words. The only line over 80 characters is the required `skill_source_snapshot` metadata line.

@@ -1,0 +1,151 @@
+run_id,evaluator_id,packet_id,replicate_id,arrangement_id,nickname_a,condition_a,position_a,nickname_b,condition_b,position_b,preferred_nickname,preferred_condition,reason
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Quartz,C4,1,Ivory,C5,2,Quartz,C4,"Quartz has slightly stronger article structure and fuller integration of methods, results and limitations."
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Quartz,C4,1,Summit,C1,3,Quartz,C4,"Quartz is more complete and better scaffolded, especially around methods and uncertainty boundaries."
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Quartz,C4,1,Lantern,C2,4,Quartz,C4,Quartz preserves more dossier detail and gives stronger reader orientation while maintaining careful caveats.
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Quartz,C4,1,Meadow,C3,5,Quartz,C4,"Quartz is marginally more polished and complete, with clearer article-level organization."
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Ivory,C5,2,Summit,C1,3,Ivory,C5,Ivory offers fuller methodological and quantitative coverage while matching Summit's caution about evidence limits.
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Ivory,C5,2,Lantern,C2,4,Ivory,C5,"Ivory is more complete and better organized, with stronger handling of isoform competition and disease caveats."
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Ivory,C5,2,Meadow,C3,5,Ivory,C5,"Ivory is a little clearer and more reader-oriented, though both are highly faithful."
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Summit,C1,3,Lantern,C2,4,Summit,C1,Summit gives a more cohesive and comprehensive account of the experimental sequence.
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Summit,C1,3,Meadow,C3,5,Meadow,C3,Meadow has stronger article scaffolding through its Methods section and slightly fuller experimental orientation.
+run-2026-05-01-D002,E1,packet_0d8c567b59,R3,A4,Lantern,C2,4,Meadow,C3,5,Meadow,C3,Meadow is more complete and better structured while retaining the same key scientific caveats.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Zephyr,C1,1,Vale,C2,2,Vale,C2,Vale preserves nearly all essential science with better organization and much stronger length discipline than Zephyr.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Zephyr,C1,1,Dawn,C3,3,Dawn,C3,Dawn is slightly less exhaustive but delivers a more usable article-form synthesis than Zephyr's overlong reconstruction.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Zephyr,C1,1,Granite,C4,4,Granite,C4,Granite is nearly as faithful while being more concise and better aligned with the requested article target.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Zephyr,C1,1,Ember,C5,5,Ember,C5,Ember covers the key evidence and uncertainty with far better economy and constraint following.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Vale,C2,2,Dawn,C3,3,Vale,C2,"Vale has marginally sharper structure and uncertainty framing, while Dawn has a slight abstract overstatement and similar length issues."
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Vale,C2,2,Granite,C4,4,Granite,C4,Granite is more concise and article-like with only a small loss of detail relative to Vale.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Vale,C2,2,Ember,C5,5,Ember,C5,Ember is similarly faithful but more economical and closer to the requested target length.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Dawn,C3,3,Granite,C4,4,Granite,C4,Granite is more restrained and concise while retaining the central mechanistic and disease-caveat points.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Dawn,C3,3,Ember,C5,5,Ember,C5,Ember has comparable fidelity with cleaner restraint and better constraint following.
+run-2026-05-01-D002,E1,packet_17ba1bd0a7,R2,A1,Granite,C4,4,Ember,C5,5,Ember,C5,"Ember is slightly better balanced as a finished article, whereas Granite's methods summary feels less central to the requested format."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Ivory,C5,1,Summit,C1,2,Summit,C1,"Summit matches Ivory's fidelity while offering a cleaner, less exhaustive narrative and slightly better readability."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Ivory,C5,1,Lantern,C2,3,Ivory,C5,"Ivory is more complete across mechanism, isoform localization, organoid phenotypes and disease caveats."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Ivory,C5,1,Meadow,C3,4,Ivory,C5,Ivory has stronger structure and fuller coverage with more precise uncertainty handling.
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Ivory,C5,1,Quartz,C4,5,Ivory,C5,"Ivory is more comprehensive and slightly stronger on detailed fidelity, despite being denser."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Summit,C1,2,Lantern,C2,3,Summit,C1,Summit provides a fuller and more cohesive article while retaining Lantern's appropriate caution.
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Summit,C1,2,Meadow,C3,4,Summit,C1,"Summit is more polished, better integrated and clearer about the hierarchy of evidence."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Summit,C1,2,Quartz,C4,5,Summit,C1,"Summit has the best overall balance of completeness, flow and uncertainty framing."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Lantern,C2,3,Meadow,C3,4,Lantern,C2,"Lantern is more concise and cohesive, with stronger limitation framing and fewer structural distractions."
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Lantern,C2,3,Quartz,C4,5,Quartz,C4,Quartz is somewhat fuller and more systematically organized while maintaining similar fidelity and caution.
+run-2026-05-01-D002,E1,packet_1cfba51daa,R3,A5,Meadow,C3,4,Quartz,C4,5,Quartz,C4,"Quartz has cleaner article structure, stronger cohesion and better handling of limitations."
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Vale,C2,1,Dawn,C3,2,Vale,C2,Vale is slightly more complete and better sectioned while matching Dawn's strong fidelity and uncertainty handling.
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Vale,C2,1,Granite,C4,3,Vale,C2,"Vale provides fuller reader orientation and more complete coverage of localization, competition, irradiation, and disease-association details."
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Vale,C2,1,Ember,C5,4,Vale,C2,Vale is substantially more developed structurally and preserves more of the dossier's mechanistic and quantitative evidence.
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Vale,C2,1,Zephyr,C1,5,Vale,C2,Vale carries more of the quantitative and mechanistic detail while maintaining equally careful limits on repair and disease claims.
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Dawn,C3,2,Granite,C4,3,Dawn,C3,"Dawn gives stronger contextual framing and a smoother mechanistic arc, while Granite is a little more compressed."
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Dawn,C3,2,Ember,C5,4,Dawn,C3,"Dawn is more complete, better organized, and more explicit about the evidentiary chain from DVL association to APC cleavage."
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Dawn,C3,2,Zephyr,C1,5,Dawn,C3,Dawn includes more exact quantitative organoid transcript detail and handles the results-to-discussion division more cleanly.
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Granite,C4,3,Ember,C5,4,Granite,C4,Granite preserves more mechanistic detail and has stronger article-level organization despite both being scientifically cautious.
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Granite,C4,3,Zephyr,C1,5,Granite,C4,"Granite is marginally preferred for more complete quantitative and mechanistic reporting, though Zephyr has comparable readability."
+run-2026-05-01-D002,E1,packet_2b4a406b49,R2,A2,Ember,C5,4,Zephyr,C1,5,Zephyr,C1,"Zephyr is more complete and more polished in its narrative integration, while Ember is accurate but comparatively compressed."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Granite,C4,1,Ember,C5,2,Granite,C4,"Granite is more complete on expression context, localization, APC mechanism, and disease associations while matching Ember's caution."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Granite,C4,1,Zephyr,C1,3,Granite,C4,Granite has clearer sectioning and stronger reader orientation while preserving all major uncertainty boundaries.
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Granite,C4,1,Vale,C2,4,Granite,C4,"Granite is marginally more comprehensive, especially in integrating methods, localization, and disease details."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Granite,C4,1,Dawn,C3,5,Granite,C4,Granite avoids Dawn's slightly stronger primate and differentiation framing and gives fuller disease quantification.
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Ember,C5,2,Zephyr,C1,3,Ember,C5,"Ember is similarly faithful but easier to follow because its Results sections separate mechanism, organoids, APC, and epithelial states."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Ember,C5,2,Vale,C2,4,Vale,C2,"Vale is more fully structured and covers isoform competition, epithelial states, and caveats with slightly better completeness."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Ember,C5,2,Dawn,C3,5,Ember,C5,"Ember is a bit more restrained and explicit about uncertainty, while Dawn compresses some differentiation and evolutionary points."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Zephyr,C1,3,Vale,C2,4,Vale,C2,Vale provides comparable fidelity with stronger headings and better reader orientation across the evidence chain.
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Zephyr,C1,3,Dawn,C3,5,Dawn,C3,"Dawn has a clearer article structure and comparable fidelity, despite minor overframing in a few places."
+run-2026-05-01-D002,E1,packet_2fba4c53cc,R2,A4,Vale,C2,4,Dawn,C3,5,Vale,C2,Vale is more precise about evidentiary limits and gives a cleaner progression from DVL association to APC mechanism and isoform states.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Summit,C1,1,Lantern,C2,2,Summit,C1,"Summit is more comprehensive and slightly more coherent mechanistically, though Lantern is more concise."
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Summit,C1,1,Meadow,C3,3,Summit,C1,"Summit has stronger narrative integration, fuller caveats and more polished synthesis."
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Summit,C1,1,Quartz,C4,4,Summit,C1,Summit is more complete and natural as an article while preserving the same uncertainty boundaries.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Summit,C1,1,Ivory,C5,5,Summit,C1,Summit provides fuller mechanistic detail and a more nuanced discussion of limits.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Lantern,C2,2,Meadow,C3,3,Lantern,C2,"Lantern has cleaner reader orientation and a stronger balance of detail, caveat and concision."
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Lantern,C2,2,Quartz,C4,4,Lantern,C2,Lantern reads more naturally and avoids the slightly artificial methods and reconstruction framing in Quartz.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Lantern,C2,2,Ivory,C5,5,Lantern,C2,Lantern is more polished and more explicit about mechanistic uncertainty while remaining concise.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Meadow,C3,3,Quartz,C4,4,Quartz,C4,"Quartz has slightly stronger structure and limitation handling, despite similar fidelity."
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Meadow,C3,3,Ivory,C5,5,Meadow,C3,Meadow gives fuller mechanistic coverage and better integrates organoid and cleavage evidence.
+run-2026-05-01-D002,E1,packet_561af11b5e,R3,A1,Quartz,C4,4,Ivory,C5,5,Quartz,C4,Quartz is more complete and more precise about uncertainty and disease-association limits.
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Amber,C1,4,Fjord,C3,1,Fjord,C3,Fjord has fuller coverage and smoother article-level development while matching Amber's core mechanistic accuracy.
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Amber,C1,4,Juniper,C5,3,Amber,C1,"Amber is more cohesive and polished, with comparable fidelity and fewer structural distractions."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Amber,C1,4,Ridge,C2,5,Amber,C1,"Amber integrates the mechanism and organoid findings more tightly, while Ridge is a little more review-like and slightly less precise in places."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Amber,C1,4,Tundra,C4,2,Tundra,C4,"Tundra is more complete on experimental systems, localization, and evidentiary boundaries, despite a somewhat mechanical Methods section."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Fjord,C3,1,Juniper,C5,3,Fjord,C3,"Fjord is more complete, better organized, and more readable while preserving the same major cautions."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Fjord,C3,1,Ridge,C2,5,Fjord,C3,"Fjord provides stronger cohesion and more precise handling of uncertainty around DVL binding, APC cleavage sites, and disease associations."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Fjord,C3,1,Tundra,C4,2,Fjord,C3,"Fjord has the best overall article flow and polish, with equally strong fidelity and slightly better synthesis than Tundra."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Juniper,C5,3,Ridge,C2,5,Ridge,C2,"Ridge gives clearer reader orientation and a cleaner section structure, while Juniper is more cumbersome stylistically."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Juniper,C5,3,Tundra,C4,2,Tundra,C4,"Tundra is more polished and better organized, with similarly strong fidelity and uncertainty handling."
+run-2026-05-01-D002,E1,packet_673addee4f,R1,A3,Ridge,C2,5,Tundra,C4,2,Tundra,C4,"Tundra is more comprehensive and explicit about experimental limits, whereas Ridge is slightly less precise in some framing."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Tundra,C4,1,Juniper,C5,2,Tundra,C4,Tundra is slightly more complete and formally structured while preserving the same careful uncertainty boundaries.
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Tundra,C4,1,Amber,C1,3,Tundra,C4,"Tundra provides fuller coverage of methods, cell-state evidence, APC nuance, and disease caveats with stronger article organization."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Tundra,C4,1,Ridge,C2,4,Tundra,C4,"Tundra is more precise and integrated, with fewer slightly loose formulations and more complete evidence coverage."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Tundra,C4,1,Fjord,C3,5,Tundra,C4,Tundra edges Fjord by offering more complete reader orientation and a clearer IMRAD reconstruction without sacrificing fidelity.
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Juniper,C5,2,Amber,C1,3,Juniper,C5,"Juniper has stronger uncertainty handling and smoother organization, while Amber is somewhat more compressed and structurally less conventional."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Juniper,C5,2,Ridge,C2,4,Juniper,C5,"Juniper is more precise and better synthesized, especially around mechanistic caveats and disease-association limits."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Juniper,C5,2,Fjord,C3,5,Juniper,C5,Juniper is preferred narrowly for clearer limitation language and slightly better reader orientation across the whole dossier.
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Amber,C1,3,Ridge,C2,4,Amber,C1,"Amber is a little more precise and better integrated mechanistically, despite its less conventional methods placement."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Amber,C1,3,Fjord,C3,5,Fjord,C3,"Fjord has stronger cohesion, clearer caveats, and a more natural flow from mechanism to organoid phenotype and disease context."
+run-2026-05-01-D002,E1,packet_6da0b5da8f,R1,A4,Ridge,C2,4,Fjord,C3,5,Fjord,C3,"Fjord is more polished and precise, whereas Ridge is faithful but somewhat more segmented and slightly looser in wording."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Ridge,C2,1,Fjord,C3,2,Ridge,C2,Ridge has marginally fuller coverage and a more natural article architecture while matching Fjord's fidelity and uncertainty control.
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Ridge,C2,1,Tundra,C4,3,Ridge,C2,"Ridge is smoother and more synthesized, whereas Tundra is somewhat methods-heavy and slightly less polished."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Ridge,C2,1,Juniper,C5,4,Ridge,C2,"Ridge provides broader integrated coverage with stronger cohesion, while Juniper is more segmented despite good accuracy."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Ridge,C2,1,Amber,C1,5,Ridge,C2,"Ridge is more complete and better calibrated, while Amber has a less natural methods-summary ending and a little more assertive framing."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Fjord,C3,2,Tundra,C4,3,Fjord,C3,Fjord preserves the key evidence with better flow and fewer structural distractions than Tundra's methods-centered presentation.
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Fjord,C3,2,Juniper,C5,4,Fjord,C3,"Fjord is more cohesive and article-like, while Juniper is accurate but more report-like in rhythm."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Fjord,C3,2,Amber,C1,5,Fjord,C3,"Fjord is slightly more complete and cautious, especially around repair and disease implications."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Tundra,C4,3,Juniper,C5,4,Tundra,C4,"Tundra covers the experimental logic and evidence somewhat more systematically, despite Juniper's strong uncertainty handling."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Tundra,C4,3,Amber,C1,5,Tundra,C4,"Tundra is more comprehensive and explicit about evidence boundaries, while Amber is a bit less complete and structurally less elegant."
+run-2026-05-01-D002,E1,packet_7f8c76a2df,R1,A2,Juniper,C5,4,Amber,C1,5,Juniper,C5,Juniper handles limitations more consistently and avoids Amber's appended methods-summary feel.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Lantern,C2,1,Meadow,C3,2,Lantern,C2,Lantern is marginally more cohesive and narratively balanced while matching Meadow on fidelity and caveats.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Lantern,C2,1,Quartz,C4,3,Lantern,C2,Lantern provides fuller context and slightly better reader orientation while preserving the same uncertainty boundaries.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Lantern,C2,1,Ivory,C5,4,Lantern,C2,"Lantern is more complete and more consistently nuanced about mechanism, organoid limits and disease associations."
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Lantern,C2,1,Summit,C1,5,Lantern,C2,Lantern covers the dossier more fully and gives clearer section-level guidance without sacrificing readability.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Meadow,C3,2,Quartz,C4,3,Meadow,C3,Meadow gives somewhat stronger experimental orientation and more complete coverage of methods and results.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Meadow,C3,2,Ivory,C5,4,Meadow,C3,Meadow is more comprehensive and better organized around the full experimental chain.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Meadow,C3,2,Summit,C1,5,Meadow,C3,"Meadow offers fuller coverage and stronger reader scaffolding, though Summit is also polished and accurate."
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Quartz,C4,3,Ivory,C5,4,Quartz,C4,Quartz is comparably readable but more complete and more careful in its uncertainty framing.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Quartz,C4,3,Summit,C1,5,Quartz,C4,Quartz has slightly better sectioning and coverage of the dossier while retaining strong style.
+run-2026-05-01-D002,E1,packet_8f2288ad73,R3,A2,Ivory,C5,4,Summit,C1,5,Summit,C1,"Summit is more cohesive and slightly more complete, with more precise handling of evidence limits."
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Amber,C1,1,Ridge,C2,2,Amber,C1,"Amber is marginally more complete and better integrated across expression, organoid, mechanistic, and disease-association evidence."
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Amber,C1,1,Fjord,C3,3,Amber,C1,Amber provides fuller reader orientation and covers more dossier details while maintaining precise caveats.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Amber,C1,1,Tundra,C4,4,Amber,C1,Amber has a more polished article structure and less procedural feel while preserving the same scientific content.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Amber,C1,1,Juniper,C5,5,Amber,C1,"Amber is more cohesive and article-like, with broader integration of the mechanistic and organoid evidence."
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Ridge,C2,2,Fjord,C3,3,Ridge,C2,Ridge gives slightly fuller context and a more complete treatment of isoform balance and disease limitations.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Ridge,C2,2,Tundra,C4,4,Ridge,C2,Ridge reads as a more polished scientific article and handles mechanistic uncertainty more smoothly.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Ridge,C2,2,Juniper,C5,5,Ridge,C2,Ridge has stronger narrative flow and reader orientation while matching Juniper's fidelity and caveat discipline.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Fjord,C3,3,Tundra,C4,4,Fjord,C3,"Fjord is tighter and more cohesive, whereas Tundra's methods-style organization makes it less article-like."
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Fjord,C3,3,Juniper,C5,5,Fjord,C3,Fjord presents the same core evidence with better narrative compression and smoother transitions.
+run-2026-05-01-D002,E1,packet_9d5f76d5f3,R1,A1,Tundra,C4,4,Juniper,C5,5,Juniper,C5,"Juniper is slightly more cautious and polished in its interpretation, despite a more segmented prose style."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Meadow,C3,1,Quartz,C4,2,Quartz,C4,Quartz matches Meadow's fidelity while being more economical and better organized around the experimental evidence chain.
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Meadow,C3,1,Ivory,C5,3,Meadow,C3,"Meadow is more complete in reconstructing methods, results, and disease associations, despite being less concise."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Meadow,C3,1,Summit,C1,4,Meadow,C3,Meadow provides slightly fuller dossier coverage and more explicit uncertainty calibration across all evidence streams.
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Meadow,C3,1,Lantern,C2,5,Meadow,C3,Meadow gives a more complete scientific article reconstruction and stronger reader orientation.
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Quartz,C4,2,Ivory,C5,3,Quartz,C4,"Quartz has comparable fidelity but clearer article structure, stronger methods orientation, and smoother integration of results."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Quartz,C4,2,Summit,C1,4,Quartz,C4,Quartz is more tightly structured and less broad in interpretation while preserving all major caveats.
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Quartz,C4,2,Lantern,C2,5,Quartz,C4,"Quartz is more complete and better organized, especially in method-to-result flow and mechanistic detail."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Ivory,C5,3,Summit,C1,4,Ivory,C5,"Ivory is slightly more precise about isoform-specific limits and disease caveats, with fewer broad interpretive formulations."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Ivory,C5,3,Lantern,C2,5,Ivory,C5,"Ivory gives fuller coverage of APC mechanism, isoform competition, cell-state evidence, and disease implications."
+run-2026-05-01-D002,E1,packet_9f2c5e29c0,R3,A3,Summit,C1,4,Lantern,C2,5,Summit,C1,Summit has stronger cohesion and fuller integration of the biological and mechanistic evidence.
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Dawn,C3,4,Ember,C5,1,Ember,C5,"Ember is more complete and better sectioned, while Dawn has a few mild overstatements about primate association and delayed differentiation."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Dawn,C3,4,Granite,C4,5,Dawn,C3,"Dawn gives fuller reader orientation and more complete disease and organoid context, despite slightly stronger wording in places."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Dawn,C3,4,Vale,C2,3,Vale,C2,Vale is similarly clear but handles uncertainty and isoform-specific claims a little more precisely.
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Dawn,C3,4,Zephyr,C1,2,Zephyr,C1,"Zephyr is more comprehensive and better calibrated around repair, evolution, and disease associations."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Ember,C5,1,Granite,C4,5,Ember,C5,"Ember has stronger article structure, fuller dossier coverage, and better integration of mechanism and disease caveats."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Ember,C5,1,Vale,C2,3,Ember,C5,"Ember is slightly more complete and more strongly organized, especially in the mechanistic and expression-state sections."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Ember,C5,1,Zephyr,C1,2,Zephyr,C1,"Zephyr is a little tighter and more consistently calibrated, while Ember is slightly bulkier and more review-like."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Granite,C4,5,Vale,C2,3,Vale,C2,Vale provides stronger orientation and smoother synthesis without the extraneous methods-summary element.
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Granite,C4,5,Zephyr,C1,2,Zephyr,C1,"Zephyr is more complete, more cohesive, and clearer about the limits of organoid and disease evidence."
+run-2026-05-01-D002,E1,packet_b01a49a839,R2,A5,Vale,C2,3,Zephyr,C1,2,Zephyr,C1,Zephyr has marginally better synthesis and uncertainty handling while maintaining equally broad scientific coverage.
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Dawn,C3,1,Granite,C4,2,Dawn,C3,Dawn is slightly more complete and better integrated while matching Granite's strong fidelity and uncertainty handling.
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Dawn,C3,1,Ember,C5,3,Dawn,C3,Dawn preserves more dossier detail and presents the evidence in a more polished article structure.
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Dawn,C3,1,Zephyr,C1,4,Dawn,C3,"Dawn is more complete on quantitative, mechanistic, and isoform-balance details while remaining equally cautious."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Dawn,C3,1,Vale,C2,5,Dawn,C3,"Dawn has stronger synthesis and reader orientation, with fuller coverage of the mechanistic sequence."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Granite,C4,2,Ember,C5,3,Granite,C4,"Granite is more complete, better organized, and more article-like while retaining the same core fidelity."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Granite,C4,2,Zephyr,C1,4,Granite,C4,Granite provides clearer sectioning and more complete coverage of the evidence chain and quantitative findings.
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Granite,C4,2,Vale,C2,5,Granite,C4,"Granite is marginally stronger in cohesion and orientation, though both are faithful and well calibrated."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Ember,C5,3,Zephyr,C1,4,Zephyr,C1,"Zephyr is more polished and cohesive, with stronger framing of the study despite some compression of details."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Ember,C5,3,Vale,C2,5,Vale,C2,"Vale is more complete and better structured, especially on isoform competition and APC mechanism."
+run-2026-05-01-D002,E1,packet_c11b2acb3f,R2,A3,Zephyr,C1,4,Vale,C2,5,Vale,C2,"Vale includes more dossier-specific detail and clearer subsectioning, while preserving similar caution about uncertainty."
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Juniper,C5,1,Amber,C1,2,Juniper,C5,"Juniper is slightly more complete and more consistently cautious about direct binding, APC D556 and organoid-to-in vivo extrapolation."
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Juniper,C5,1,Ridge,C2,3,Juniper,C5,Juniper provides fuller evidence sequencing and discussion while preserving all key caveats at higher resolution.
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Juniper,C5,1,Fjord,C3,4,Juniper,C5,Juniper has comparable fidelity but stronger article structure and reader orientation across the full results-to-discussion arc.
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Juniper,C5,1,Tundra,C4,5,Juniper,C5,Juniper is more complete and avoids the somewhat broad methods reconstruction and expansive physiological framing seen in Tundra.
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Amber,C1,2,Ridge,C2,3,Amber,C1,Amber gives a more integrated and reader-friendly synthesis with fuller quantitative and mechanistic context.
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Amber,C1,2,Fjord,C3,4,Amber,C1,"Amber is marginally better structured and easier to navigate, while Fjord is similarly faithful but more compressed."
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Amber,C1,2,Tundra,C4,5,Amber,C1,Amber preserves the dossier with cleaner narrative flow and fewer reconstructed methods-style claims.
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Ridge,C2,3,Fjord,C3,4,Fjord,C3,"Fjord is slightly more complete and more explicit about limitations, especially around disease associations and in vivo repair claims."
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Ridge,C2,3,Tundra,C4,5,Ridge,C2,"Ridge is smoother and less reliant on a broad methods reconstruction, with slightly better control of claims."
+run-2026-05-01-D002,E1,packet_d1ee18c91a,R1,A5,Fjord,C3,4,Tundra,C4,5,Fjord,C3,"Fjord has stronger uncertainty handling and a more natural article form, whereas Tundra's methods section feels less grounded in the dossier."

@@ -1,0 +1,7 @@
+Done. I saved all required files:
+
+- [packet_6da0b5da8f.md](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_6da0b5da8f/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f.md)
+- [packet_6da0b5da8f_scores.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_6da0b5da8f/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f_scores.tsv)
+- [packet_6da0b5da8f_pairwise.tsv](/tmp/arrangement55-eval-run-2026-05-01-D002/packet_6da0b5da8f/comparing/evaluation_results/run-2026-05-01-D002/arrangement55/raw/packet_6da0b5da8f_pairwise.tsv)
+
+Validation passed: score TSV has 5 data rows with 13 fields each and correct totals; pairwise TSV has 10 data rows with 6 fields each.
