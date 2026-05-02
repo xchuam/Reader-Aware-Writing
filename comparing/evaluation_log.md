@@ -366,3 +366,4 @@ best pairwise profile in this run.
 | `2026-05-01T12:19:10Z` | First D003 authoring attempt produced a double YAML fence around the dossier. | Stopped the attempt before completion, patched the prompt generator to match D002 dossier formatting, and restarted D003 from scratch. |
 | `2026-05-01T12:37:30Z` | Added `--parallelism` to `run_arrangement55_evaluation_packets.py`. | Evaluation packets remain isolated but can run concurrently; D003 used parallelism 3. |
 | `2026-05-01T12:42:48Z` | Position means again showed an absolute position effect. | Position-balanced Arrangement5-5 averaging was retained for condition means. |
+| `2026-05-02T13:13:24Z` | Expanded the D003 comparison report audit trail. | The report now lists comparator skill links, snapshot/download times, dossier access controls, the position-bias rationale with Wang et al. (ACL 2024), and the README-style boxplot with a detailed caption. |
